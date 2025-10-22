@@ -1,0 +1,4 @@
+recursive-include src/lemmatizer/edit_trees *.txt
+recursive-include src/lemmatizer/in_voc *.txt
+recursive-include src/lemmatizer/lemma_tables *.json
+recursive-include src/lemmatizer/other_de *.json

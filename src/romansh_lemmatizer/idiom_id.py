@@ -1,6 +1,6 @@
 """Implement dictionary-based LID for lemmatizer"""
 
-from lemmatizer.utils import Idiom
+from romansh_lemmatizer.utils import Idiom
 
 
 def _get_counts(toks: list, fast_dict: set):

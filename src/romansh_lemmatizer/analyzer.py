@@ -5,7 +5,7 @@ import sys
 
 from jiwer import cer
 
-import lemmatizer.edittree as edittree
+import romansh_lemmatizer.edittree as edittree
 
 BASE_DIR = Path(__file__).parent
 
@@ -13,7 +13,7 @@ BASE_DIR = Path(__file__).parent
 class Analyzer:
     """A class to obtain lemmas, unimorph analysis, and de_translations for Romansh tokens"""
 
-    def __init__(self, idiom: str, in_voc: set,learned_et: bool = True):
+    def __init__(self, idiom: str, in_voc: set, learned_et: bool = True):
 
         self.idiom = idiom
 
@@ -42,7 +42,9 @@ class Analyzer:
             self.edit_trees = []
 
             for pos in "noun", "adj", "verb":
-                et_path = BASE_DIR / "edit_trees" / f"{self.idiom}" / f"{pos}" / "et.txt"
+                et_path = (
+                    BASE_DIR / "edit_trees" / f"{self.idiom}" / f"{pos}" / "et.txt"
+                )
                 sys.modules["edittree"] = edittree
                 with open(et_path, "rb") as f:
                     self.edit_trees += pickle.load(f)
@@ -111,6 +113,6 @@ class Analyzer:
         if entry:
             return entry["DStichwort"]
         if tok in self.other_de:
-            #Check the rest of the de_translations provided by the pledari grond dict
+            # Check the rest of the de_translations provided by the pledari grond dict
             return self.other_de[tok]
         return [None]

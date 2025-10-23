@@ -4,10 +4,10 @@ from pathlib import Path
 
 from frozendict import frozendict
 
-from lemmatizer.analyzer import Analyzer
-from lemmatizer.idiom_id import get_scores
-from lemmatizer.tokenizer import Rm_Tokenizer
-from lemmatizer.utils import Idiom, get_features
+from romansh_lemmatizer.analyzer import Analyzer
+from romansh_lemmatizer.idiom_id import get_scores
+from romansh_lemmatizer.tokenizer import Rm_Tokenizer
+from romansh_lemmatizer.utils import Idiom, get_features
 
 
 @dataclass(frozen=True)
@@ -152,7 +152,8 @@ class Lemmatizer:
 
         # Initialize all analyzers
         self._analyzers = {
-            i: Analyzer(idiom=i.value, in_voc = self.in_voc[i], learned_et=leanred_et) for i in Idiom
+            i: Analyzer(idiom=i.value, in_voc=self.in_voc[i], learned_et=leanred_et)
+            for i in Idiom
         }
 
     def __call__(self, text: str) -> Doc:
@@ -179,8 +180,11 @@ class Lemmatizer:
                         analysis = MorphAnalysis(get_features(u))
                         full_lemma[lem].append(analysis)
 
-
-
             tok_obj.append(Token(t, full_lemma, self.idiom))
 
-        return Doc(text, tok_obj, self.in_voc, self.idiom,)
+        return Doc(
+            text,
+            tok_obj,
+            self.in_voc,
+            self.idiom,
+        )

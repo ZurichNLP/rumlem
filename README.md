@@ -64,3 +64,13 @@ for l in lemma:
 # rm-vallader::vuolp: Fuchs
 # rm-vallader::vuolp: Schlauberger (Filou)
 ```
+
+# Development
+
+## Installation
+`pip install -e ".[dev]"`
+
+## Running the tests
+`python -m unittest discover -s tests`
+`pytest -v`
+

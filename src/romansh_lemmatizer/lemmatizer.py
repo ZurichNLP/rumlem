@@ -133,7 +133,7 @@ class Doc:
 
 class Lemmatizer:
 
-    def __init__(self, idiom: Idiom = None, leanred_et: bool = True):
+    def __init__(self, idiom: Idiom = None, learned_et: bool = False):
         if isinstance(idiom, str):
             idiom = Idiom(idiom)
         self.idiom = idiom
@@ -152,7 +152,7 @@ class Lemmatizer:
 
         # Initialize all analyzers
         self._analyzers = {
-            i: Analyzer(idiom=i.value, in_voc=self.in_voc[i], learned_et=leanred_et)
+            i: Analyzer(idiom=i.value, in_voc=self.in_voc[i], learned_et=learned_et)
             for i in Idiom
         }
 

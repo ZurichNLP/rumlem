@@ -1,5 +1,19 @@
-# Usage
 
+# License
+The romansh_lemmatizer software is licensed under the MIT License © 2025 University of Zurich (UZH). See the LICENSE file for details.
+
+# Acknowledgements and Data Rights
+The underlying dictionary data is the property of Uniun dals Grischs (UdG) and may only be used for the romansh_lemmatizer itself. Any other use of the dictionary data is strictly prohibited.
+
+# Description
+This packages 
+
+# Usage
+## Installation
+
+
+## Examples
+### Initialising the lemmatizer
 ```python
 from lemmatizer import Lemmatizer
 
@@ -8,6 +22,7 @@ sent = "La vuolp d'eira darcheu üna jada fomantada."
 doc = lemmatizer(sent)
 ```
 
+### Automatic idiom detection
 ```python
 print("Automatic Idiom Detection:")
 # If no idiom is passed by the user, automatic idiom detection occurs
@@ -18,6 +33,7 @@ for k, v in doc.idiom_scores.items():
     print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.7777777777777778, <Idiom.SURSILV: 'rm-sursilv'>: 0.2222222222222222,...}
 ```
 
+### Idiom detection given a lang-specifically initialised lemmatizer
 ```python
 idiom = "rm-vallader"
 vallader_lemmatizer = Lemmatizer(idiom=idiom)
@@ -27,9 +43,10 @@ print(f"\nPassing '{idiom}' as an argument:")
 print(f"The sentence '{sent}' is in: ", doc.idiom) # <Idiom.VALLADER: 'rm-vallader'>
 print("\nProbabilities across idioms:")
 for k, v in doc.idiom_scores.items():
-    print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.7777777777777778, <Idiom.SURSILV: 'rm-sursilv'>: 0.2222222222222222,...}
+    print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.0, <Idiom.SURSILV: 'rm-sursilv'>: 0.0,...}
 ```
 
+### Accessing the tokens and their attributes
 ```python
 print("\n", doc.tokens) # ['La', 'vuolp', "d'", 'eira', 'darcheu', 'üna', 'jada', 'fomantada', '.']
 token = doc.tokens[-2]

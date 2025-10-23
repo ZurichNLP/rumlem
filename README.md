@@ -6,11 +6,15 @@ The romansh_lemmatizer software is licensed under the MIT License © 2025 Univer
 The underlying dictionary data is the property of Uniun dals Grischs (UdG) and may only be used for the romansh_lemmatizer itself. Any other use of the dictionary data is strictly prohibited.
 
 # Description
-This packages 
+This package is a dictionary-based romansh lemmatizer. It is not context-aware. Functionalities include:
+- Tokenization of sentences in any romansh idiom
+- Lemmatization of tokens, within a specific idiom or across idioms
+- Lemmas contain unimorph features for verbs, nouns and adjectives
+- Lemmas contain and German translations
 
 # Usage
 ## Installation
-
+`pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git@v1.0.0`
 
 ## Examples
 ### Initialising the lemmatizer

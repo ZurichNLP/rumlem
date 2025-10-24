@@ -1,7 +1,7 @@
 
 # Basic Lemmatizer for Romansh Varieties <span style="color:gray">(Beta)</span>
 This Python package presents a basic dictionary-based lemmatizer for the Romansh language.
-Provided a Romansh text, the lemmatizer looks up each word in the [Pledari Grond](https://pledarigrond.ch/) dictionaries for the five standard Romansh idioms: Sursilvan, Sutsilvan, Surmiran, Puter, and Vallader, as well as the dictionary for Rumantsch Grischun.
+Provided a Romansh text, the lemmatizer splits it into words and looks up each word in the [Pledari Grond](https://pledarigrond.ch/) dictionaries for the five standard Romansh idioms: Sursilvan, Sutsilvan, Surmiran, Puter, and Vallader, as well as the dictionary for Rumantsch Grischun.
 
 For example, if a Romansh text contains the word _lavuraiva_, the lemmatizer traces the word back to the Vallader and Puter dictionaries:
 
@@ -27,9 +27,15 @@ This package incorporates dictionary data from the [Pledari Grond](https://pleda
 `pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git@v0.0.1`
 
 ### Examples
+A couple of example use cases, namely:
+- Analysis of words in a corpus
+- Idiom classification
+- Romansh vs. non-Romansh identification
+are provided under "example_notebooks".
+
 #### Initialising the lemmatizer
 ```python
-from lemmatizer import Lemmatizer
+from romansh_lemmatizer import Lemmatizer
 
 lemmatizer = Lemmatizer()
 sent = "La vuolp d'eira darcheu üna jada fomantada."
@@ -42,7 +48,7 @@ print("Automatic Idiom Detection:")
 # If no idiom is passed by the user, automatic idiom detection occurs
 print(f"The sentence '{sent}' is in:", doc.idiom) # <Idiom.VALLADER: 'rm-vallader'>
 
-print("\nProbabilities across idioms:")
+print("\Scores across idioms:")
 for k, v in doc.idiom_scores.items():
     print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.7777777777777778, <Idiom.SURSILV: 'rm-sursilv'>: 0.2222222222222222,...}
 ```
@@ -55,7 +61,7 @@ doc = vallader_lemmatizer(sent)
 
 print(f"\nPassing '{idiom}' as an argument:")
 print(f"The sentence '{sent}' is in: ", doc.idiom) # <Idiom.VALLADER: 'rm-vallader'>
-print("\nProbabilities across idioms:")
+print("\Scores across idioms:")
 for k, v in doc.idiom_scores.items():
     print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.0, <Idiom.SURSILV: 'rm-sursilv'>: 0.0,...}
 ```

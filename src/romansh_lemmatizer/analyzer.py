@@ -110,9 +110,10 @@ class Analyzer:
         """Obtain the German word corresponding to Romansh terms in the Pledari Grond Dict"""
         tok = tok.lower().strip()
         entry = self.dict.get(tok)
+        entry_ls = []
         if entry:
-            return entry["DStichwort"]
+            entry_ls.extend(entry["DStichwort"])
         if tok in self.other_de:
-            # Check the rest of the de_translations provided by the pledari grond dict
-            return self.other_de[tok]
-        return [None]
+            #Check the rest of the de_translations provided by the pledari grond dict
+            entry_ls.extend(self.other_de[tok])
+        return list(dict.fromkeys(entry_ls)) if entry_ls else [None]

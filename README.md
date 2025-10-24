@@ -1,23 +1,33 @@
 
-# License
-The romansh_lemmatizer software is licensed under the MIT License © 2025 University of Zurich (UZH). See the LICENSE file for details.
+# Basic Lemmatizer for Romansh Varieties <span style="color:gray">(Beta)</span>
+This Python package presents a basic dictionary-based lemmatizer for the Romansh language.
+Provided a Romansh text, the lemmatizer looks up each word in the [Pledari Grond](https://pledarigrond.ch/) dictionaries for the five standard Romansh idioms: Sursilvan, Sutsilvan, Surmiran, Puter, and Vallader, as well as the dictionary for Rumantsch Grischun.
 
-# Acknowledgements and Data Rights
-The underlying dictionary data is the property of Uniun dals Grischs (UdG) and may only be used for the romansh_lemmatizer itself. Any other use of the dictionary data is strictly prohibited.
+For example, if a Romansh text contains the word _lavuraiva_, the lemmatizer traces the word back to the Vallader and Puter dictionaries:
 
-# Description
-This package is a dictionary-based romansh lemmatizer. It is not context-aware. Functionalities include:
-- Tokenization of sentences in any romansh idiom
-- Lemmatization of tokens, within a specific idiom or across idioms
-- Lemmas contain unimorph features for verbs, nouns and adjectives
-- Lemmas contain and German translations
+<img src="illustration.png" alt="illustration" width="400"/>
 
-# Usage
-## Installation
-`pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git@v1.0.0`
+Typical use cases for the lemmatizer include:
+- Accessing potential German translations (glosses) of Romansh words
+- Automatically detecting the variety of a Romansh text, based on how many words are found in the respective dictionaries
 
-## Examples
-### Initialising the lemmatizer
+A limitation of the current version is that the lemmatizer does not disambiguate between multiple possible ways of lemmatizing a word. Specifically:
+1. If a word has multiple dictionary entries, all the dictionary entries are returned, irrespective of the context in which the word occurs.
+2. If there are multiple ways of morphologically analysing a given word form, all possible analyses are returned.
+
+## Acknowledgements and Data Rights
+This package incorporates dictionary data from the [Pledari Grond](https://pledarigrond.ch/) project.
+
+- The dictionaries for Rumantsch Grischun, Surmiran, Sursilvan and Sutsilvan are openly licensed. © **Lia Rumantscha** 1980 – 2025
+- The dictionaries for Vallader and Puter are kindly provided by [**Uniun dals Grischs**](https://www.udg.ch/dicziunari) and may only be used in the context of this lemmatizer. © Uniun dals Grischs. All rights reserved.
+
+
+## Usage
+### Installation
+`pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git@v0.0.1`
+
+### Examples
+#### Initialising the lemmatizer
 ```python
 from lemmatizer import Lemmatizer
 
@@ -26,7 +36,7 @@ sent = "La vuolp d'eira darcheu üna jada fomantada."
 doc = lemmatizer(sent)
 ```
 
-### Automatic idiom detection
+#### Automatic idiom detection
 ```python
 print("Automatic Idiom Detection:")
 # If no idiom is passed by the user, automatic idiom detection occurs
@@ -37,7 +47,7 @@ for k, v in doc.idiom_scores.items():
     print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.7777777777777778, <Idiom.SURSILV: 'rm-sursilv'>: 0.2222222222222222,...}
 ```
 
-### Idiom detection given a lang-specifically initialised lemmatizer
+#### Idiom detection given a lang-specifically initialised lemmatizer
 ```python
 idiom = "rm-vallader"
 vallader_lemmatizer = Lemmatizer(idiom=idiom)
@@ -50,7 +60,7 @@ for k, v in doc.idiom_scores.items():
     print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.0, <Idiom.SURSILV: 'rm-sursilv'>: 0.0,...}
 ```
 
-### Accessing the tokens and their attributes
+#### Accessing the tokens and their attributes
 ```python
 print("\n", doc.tokens) # ['La', 'vuolp', "d'", 'eira', 'darcheu', 'üna', 'jada', 'fomantada', '.']
 token = doc.tokens[-2]
@@ -86,12 +96,15 @@ for l in lemma:
 # rm-vallader::vuolp: Schlauberger (Filou)
 ```
 
-# Development
+## Development
 
-## Installation
+### Installation
 `pip install -e ".[dev]"`
 
-## Running the tests
+### Running the tests
 `python -m unittest discover -s tests`
 `pytest -v`
+
+## License
+The software in this project is licensed under the MIT License. For license information regarding the dictionary data, please refer to the Acknowledgements and Data Rights section above.
 

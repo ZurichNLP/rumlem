@@ -25,6 +25,7 @@ This package incorporates dictionary data from the [Pledari Grond](https://pleda
 ## Usage
 ### Installation
 `pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git`
+
 Demo:
 `https://huggingface.co/spaces/ZurichNLP/romansh-lemmatizer`
 

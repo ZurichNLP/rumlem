@@ -43,41 +43,52 @@ doc = lemmatizer(sent)
 ```
 
 #### Automatic idiom detection
+This will automatically detect the idiom as the one with the highest covereage score, and return each idiom with its corresponding score.
 ```python
 print("Automatic Idiom Detection:")
-# If no idiom is passed by the user, automatic idiom detection occurs
-print(f"The sentence '{sent}' is in:", doc.idiom) # <Idiom.VALLADER: 'rm-vallader'>
+print(f"The sentence '{sent}' is in:", doc.idiom) 
+# <Idiom.VALLADER: 'rm-vallader'>
 
 print("\Scores across idioms:")
 for k, v in doc.idiom_scores.items():
-    print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.7777777777777778, <Idiom.SURSILV: 'rm-sursilv'>: 0.2222222222222222,...}
+    print("\t", k, v) 
+    # {<Idiom.RUMGR: 'rm-rumgr'>: 0.77..8, <Idiom.SURSILV: 'rm-sursilv'>: 0.22...,...}
 ```
 
 #### Idiom detection given a lang-specifically initialised lemmatizer
+Here, since the idiom is given, that is the one that will be "detected", and will always be assigned a score of 1, while all others get a score of 0.
 ```python
 idiom = "rm-vallader"
 vallader_lemmatizer = Lemmatizer(idiom=idiom)
 doc = vallader_lemmatizer(sent)
 
 print(f"\nPassing '{idiom}' as an argument:")
-print(f"The sentence '{sent}' is in: ", doc.idiom) # <Idiom.VALLADER: 'rm-vallader'>
+print(f"The sentence '{sent}' is in: ", doc.idiom) 
+# <Idiom.VALLADER: 'rm-vallader'>
+
 print("\Scores across idioms:")
 for k, v in doc.idiom_scores.items():
-    print("\t", k, v) # {<Idiom.RUMGR: 'rm-rumgr'>: 0.0, <Idiom.SURSILV: 'rm-sursilv'>: 0.0,...}
+    print("\t", k, v) 
+    # {<Idiom.RUMGR: 'rm-rumgr'>: 0.0, <Idiom.SURSILV: 'rm-sursilv'>: 0.0,...}
 ```
 
 #### Accessing the tokens and their attributes
+The tokens can be accessed as follows:
 ```python
-print("\n", doc.tokens) # ['La', 'vuolp', "d'", 'eira', 'darcheu', 'üna', 'jada', 'fomantada', '.']
+print("\n", doc.tokens) 
+# ['La', 'vuolp', "d'", 'eira', 'darcheu', 'üna', 'jada', 'fomantada', '.']
 token = doc.tokens[-2]
 ```
 
+And the lemmas of tokens as is described here:
 ```python
 print(f"\nPrint {idiom}-lemmas of token '{token}'")
-print(token.lemmas) # {rm-vallader::fomantar: [PoS=V;VerbForm=PTCP;Tense=PST;Gender=FEM;Number=SG]}
+print(token.lemmas) 
+# {rm-vallader::fomantar: [PoS=V;VerbForm=PTCP;Tense=PST;Gender=FEM;Number=SG]}
 
 ```
 
+".all_lemmas" gives lemmas in any idiom, not just in the detected one.
 ```python
 print(f"\nPrint all lemmas of token '{token}'")
 for t in token.all_lemmas:
@@ -89,6 +100,7 @@ for t in token.all_lemmas:
 # }
 ```
 
+Lemma objects have an attribute ".translation_de":
 ```python
 token = doc.tokens[1]
 lemma = list(token.lemmas.keys())
@@ -101,6 +113,8 @@ for l in lemma:
 # rm-vallader::vuolp: Fuchs
 # rm-vallader::vuolp: Schlauberger (Filou)
 ```
+
+For more detailed information on object types and their attributes, cf. example_notebooks/overview.ipynb.
 
 ## Development
 

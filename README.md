@@ -24,7 +24,7 @@ This package incorporates dictionary data from the [Pledari Grond](https://pleda
 
 ## Usage
 ### Installation
-`pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git@v0.0.1`
+`pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git`
 
 ### Examples
 A couple of example use cases, namely:

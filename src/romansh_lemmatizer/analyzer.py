@@ -62,9 +62,16 @@ class Analyzer:
         """
         tok = tok.lower().strip()
         entry = self.dict.get(tok)
+        entry_ls = []
         if entry:
-            return entry["lemma"]
-
+            entry_ls.extend(entry["lemma"])
+        if tok in self.other_de: # Augment the results with other_de entries
+              amount = len(self.other_de[tok]) # we need to add the lemma as many times as there are de translations for correct zipping later
+              tok_ls = [tok] * amount
+              entry_ls.extend(tok_ls)
+        if entry_ls:
+            return entry_ls
+        
         # Check if there's a lemma from the edit trees
         if self.learned_et:
             et_out = self._et_lemma(tok)
@@ -103,7 +110,6 @@ class Analyzer:
         entry = self.dict.get(tok)
         if entry:
             return entry["unimorph"]
-
         return [None]
 
     def get_de(self, tok: str):
@@ -113,7 +119,7 @@ class Analyzer:
         entry_ls = []
         if entry:
             entry_ls.extend(entry["DStichwort"])
-        if tok in self.other_de:
-            #Check the rest of the de_translations provided by the pledari grond dict
-            entry_ls.extend(self.other_de[tok])
-        return list(dict.fromkeys(entry_ls)) if entry_ls else [None]
+        if tok in self.other_de: # Augment the results with other_de entries
+           entry_ls.extend(self.other_de[tok])
+        return entry_ls if entry_ls else [None]
+

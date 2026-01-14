@@ -24,10 +24,10 @@ This package incorporates dictionary data from the [Pledari Grond](https://pleda
 
 ## Usage
 ### Installation
-`pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git`
+`pip install git+https://github.com/ZurichNLP/romansh_lemmatizer.git@v0.0.3`
 
 Demo:
-`https://huggingface.co/spaces/ZurichNLP/romansh-lemmatizer`
+[`https://huggingface.co/spaces/ZurichNLP/romansh-lemmatizer`](https://huggingface.co/spaces/ZurichNLP/romansh-lemmatizer)
 
 ### Examples
 A couple of example use cases, namely:

@@ -42,21 +42,21 @@ FINEWEB_BUCKETS = [
 ]
 
 FILES_ROMANSH_FROM_FINEWEB = {
-    "ROMANSH": "LangID/eval_analysis_rumantsch.json",
-    "ROMANSH (stopwords removed)": "LangID/eval_analysis_rumantsch_stopwords_removed.json",
-    "ROMANSH (sets only)": "LangID/eval_analysis_rumantsch_sets_only.json",
-    "OTHER": "LangID/eval_analysis.json",
-    "OTHER (stopwords removed)": "LangID/eval_analysis_stopwords_removed.json",
-    "OTHER (sets only)": "LangID/eval_analysis_sets_only.json",
+    "ROMANSH": "paper_eval_code/LangID/Romansh/as_is/eval_analysis_rumantsch.json",
+    "ROMANSH (stopwords removed)": "paper_eval_code/LangID/Romansh/stopwords_removed/eval_analysis_rumantsch_stopwords_removed.json",
+    "ROMANSH (sets only)": "paper_eval_code/LangID/Romansh/sets_only/eval_analysis_rumantsch_sets_only.json",
+    "OTHER": "paper_eval_code/LangID/French_Italian_Catalan_Romanian/as_is/eval_analysis.json",
+    "OTHER (stopwords removed)": "paper_eval_code/LangID/French_Italian_Catalan_Romanian/stopwords_removed/eval_analysis_stopwords_removed.json",
+    "OTHER (sets only)": "paper_eval_code/LangID/French_Italian_Catalan_Romanian/sets_only/eval_analysis_sets_only.json",
 }
 
 FILES_ROMANSH_FROM_RTR_BABULINS = {
-    "ROMANSH": "IdiomID/eval_analysis.json",
-    "ROMANSH (stopwords removed)": "IdiomID/eval_analysis_stopwords_removed.json",
-    "ROMANSH (sets only)": "IdiomID/eval_analysis_sets_only.json",
-    "OTHER": "LangID/eval_analysis.json",
-    "OTHER (stopwords removed)": "LangID/eval_analysis_stopwords_removed.json",
-    "OTHER (sets only)": "LangID/eval_analysis_sets_only.json",
+    "ROMANSH": "paper_eval_code/VarietyID/as_is/eval_analysis.json",
+    "ROMANSH (stopwords removed)": "paper_eval_code/VarietyID/stopwords_removed/eval_analysis_stopwords_removed.json",
+    "ROMANSH (sets only)": "paper_eval_code/VarietyID/sets_only/eval_analysis_sets_only.json",
+    "OTHER": "paper_eval_code/LangID/French_Italian_Catalan_Romanian/as_is/eval_analysis.json",
+    "OTHER (stopwords removed)": "paper_eval_code/LangID/French_Italian_Catalan_Romanian/stopwords_removed/eval_analysis_stopwords_removed.json",
+    "OTHER (sets only)": "paper_eval_code/LangID/French_Italian_Catalan_Romanian/sets_only/eval_analysis_sets_only.json",
 }
 
 COLORS = {
@@ -77,6 +77,6 @@ LINESTYLES = {
 # Exclusions for specific files/buckets/score_keys where we want to ignore outlier scores with known issues (annotation errors, etc.) that would distort the plots. 
 # Format: {(file, bucket, score_key): {set of scores to exclude}}
 EXCLUSIONS = {
-    ("LangID/eval_analysis_rumantsch_sets_only.json", "300-800", "winning_score_dist"): {0.56},
-    ("LangID/eval_analysis_rumantsch_sets_only.json", "800-2000", "winning_score_dist"): {0.62},
+    ("paper_eval_code/LangID/Romansh/sets_only/eval_analysis_rumantsch_sets_only.json", "300-800", "winning_score_dist"): {0.56},
+    ("paper_eval_code/LangID/Romansh/sets_only/eval_analysis_rumantsch_sets_only.json", "800-2000", "winning_score_dist"): {0.62},
 }

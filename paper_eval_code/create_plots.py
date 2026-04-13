@@ -20,7 +20,7 @@ def load_all_scores(path, bucket, score_key):
             for score_str, count in dist.items():
                 score = float(score_str)
                 if score in excluded:
-                    #print(f"\t[Exclusion] Skipping score {score} for label='{label}', bucket='{bucket}', key='{score_key}'")
+                    print(f"\t[Exclusion] Skipping score {score} for label='{label}', bucket='{bucket}', key='{score_key}'")
                     continue
                 scores.extend([score] * int(count))
     except FileNotFoundError:
@@ -227,7 +227,7 @@ def main(files):
     plt.grid(alpha=0.3)
     plt.tight_layout()
     save_path_subfolder = "fineweb" if FILES == FILES_ROMANSH_FROM_FINEWEB else "RTR_Babulins"
-    save_dir = os.path.join("plots", save_path_subfolder, SCORE_KEY)
+    save_dir = os.path.join("paper_eval_code", "plots", save_path_subfolder, SCORE_KEY)
     os.makedirs(save_dir, exist_ok=True)
     save_path = os.path.join(save_dir, f"{BUCKET}.png")
     plt.savefig(save_path)

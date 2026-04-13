@@ -2,9 +2,8 @@
 import json
 from pathlib import Path
 
-path = Path(r"c:\Users\Dominic-Asus\Rumantsch_Projekt\lemmatizer-eval\Coverage\eval_results.json")
 
-with path.open("r", encoding="utf-8") as f:
+with open ("paper_eval_code/Coverage/eval_results.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 tokens_without_lemma = set()
@@ -73,5 +72,5 @@ output = {
     for name, tokens in categories.items()
 }
 
-with open("Coverage/missed_token_analysis.json", "w", encoding="utf-8") as f:
+with open("paper_eval_code/Coverage/uncovered_tokens_analysis/uncovered_token_analysis.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)

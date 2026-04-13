@@ -5,12 +5,13 @@ sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from eval_funcs import build_length_buckets, evaluate_buckets_coverage, enrich_coverage_analysis
 from config import IDIOMS
 
-def run_eval(suffix="", langs=IDIOMS):
+def run_eval(langs=IDIOMS, suffix=""):
     edittrees = False
     if suffix != "":
         suffix = f"_{suffix}"
         edittrees = True if suffix == "_edittrees" else False
-    sources = ["rtr", "babulins"]
+    #sources = ["rtr", "babulins"]
+    sources = ["rtr"] # babulins is not openly available
 
     combined_results = {}
     combined_analysis = {}
@@ -35,4 +36,6 @@ def run_eval(suffix="", langs=IDIOMS):
 
 if __name__ == "__main__":
     run_eval()
+    
+    # Coverage with activated ML-component to map unknown forms to a lemma (i.e., the Edit Trees) was not part of the eval in the paper
     #run_eval("edittrees")

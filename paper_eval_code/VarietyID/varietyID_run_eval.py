@@ -8,7 +8,12 @@ from config import IDIOMS
 def run_eval(suffix="", remove_stopwords=False, sets_only=False, langs=IDIOMS):
     if suffix != "":
         suffix = f"_{suffix}"
-    sources = ["rtr", "babulins"]
+        suffix_folder = suffix
+    else:
+        suffix_folder = "as_is"
+
+    #sources = ["rtr", "babulins"]
+    sources = ["rtr"] # babulins is not openly available
 
     combined_results = {}
     combined_analysis = {}
@@ -23,16 +28,15 @@ def run_eval(suffix="", remove_stopwords=False, sets_only=False, langs=IDIOMS):
         for idiom, idiom_analysis in analysis.items():
             combined_analysis.setdefault(idiom, {}).update(idiom_analysis)
 
-    with open(f"IdiomID/eval_results{suffix}.json", "w", encoding="utf-8") as f:
+    with open(f"IdiomID/{suffix_folder}/eval_results{suffix}.json", "w", encoding="utf-8") as f:
         json.dump(combined_results, f, indent=2, ensure_ascii=False)
 
-    with open(f"IdiomID/eval_analysis{suffix}.json", "w", encoding="utf-8") as f:
+    with open(f"IdiomID/{suffix_folder}/eval_analysis{suffix}.json", "w", encoding="utf-8") as f:
         json.dump(combined_analysis, f, indent=2, ensure_ascii=False)
 
-    enrich_analysis(f"IdiomID/eval_analysis{suffix}.json")
+    enrich_analysis(f"IdiomID/{suffix_folder}/eval_analysis{suffix}.json")
 
 if __name__ == "__main__":
-    # run with stopwords removed
+    run_eval()
     run_eval("stopwords_removed", remove_stopwords=True, sets_only=False)
-    # run with the SETS of tokens of each sentence
     run_eval("sets_only", remove_stopwords=False, sets_only=True)

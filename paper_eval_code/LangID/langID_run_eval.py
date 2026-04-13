@@ -6,8 +6,12 @@ from eval_funcs import build_length_buckets, evaluate_buckets, enrich_analysis
 from config import ROM_LANGS
 
 def run_eval(suffix="", remove_stopwords=False, sets_only=False, langs=ROM_LANGS):
+    folder = "French_Italian_Catalan_Romanian" if langs == ROM_LANGS else "Romansh"
     if suffix != "":
         suffix = f"_{suffix}"
+        suffix_folder = suffix
+    else:
+        suffix_folder = "as_is"
     source = "fineweb"
 
     combined_results = {}
@@ -22,20 +26,20 @@ def run_eval(suffix="", remove_stopwords=False, sets_only=False, langs=ROM_LANGS
     for idiom, idiom_analysis in analysis.items():
         combined_analysis.setdefault(idiom, {}).update(idiom_analysis)
 
-    with open(f"LangID/eval_results{suffix}.json", "w", encoding="utf-8") as f:
+    with open(f"LangID/{folder}/{suffix_folder}/eval_results{suffix}.json", "w", encoding="utf-8") as f:
         json.dump(combined_results, f, indent=2, ensure_ascii=False)
 
-    with open(f"LangID/eval_analysis{suffix}.json", "w", encoding="utf-8") as f:
+    with open(f"LangID/{folder}/{suffix_folder}/eval_analysis{suffix}.json", "w", encoding="utf-8") as f:
         json.dump(combined_analysis, f, indent=2, ensure_ascii=False)
 
-    enrich_analysis(f"LangID/eval_analysis{suffix}.json")
+    enrich_analysis(f"LangID/{folder}/{suffix_folder}/eval_analysis{suffix}.json")
 
 
 if __name__ == "__main__":
-    # run with stopwords removed
+    # run FR, IT, CA, RO
+    run_eval()
     run_eval("stopwords_removed", remove_stopwords=True, sets_only=False)
-    # run with the SETS of tokens of each sentence
-    #run_eval("sets_only", False, True)
+    run_eval("sets_only", remove_stopwords=False, sets_only=True)
     
     # run rumantsch only
     run_eval("rumantsch", langs=["roh_Latn"])

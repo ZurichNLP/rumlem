@@ -3,11 +3,16 @@ from romansh_lemmatizer import Lemmatizer, tokenizer
 import nltk
 import ds_loaders
 import config
-from config import IDIOMS, STRIP_PUNCT
+from config import IDIOMS, STRIP_PUNCT, STOPWORDS
 import json
 from tqdm import tqdm
-from utils import _remove_stopwords, _safe_ratio
 import re
+
+def _remove_stopwords(text):
+    return [w for w in text.split() if w.lower() not in STOPWORDS]
+
+def _safe_ratio(correct: int, total: int) -> float:
+    return round((correct / total), 2) if total else 0.0
 
 def build_length_buckets(source, langs=IDIOMS, print_summaries=True, streaming=False, limit=None):
     BUCKETS = getattr(config, f"{source.upper()}_BUCKETS")

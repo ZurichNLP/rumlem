@@ -2,3 +2,7 @@ recursive-include src/lemmatizer/edit_trees *.txt
 recursive-include src/lemmatizer/in_voc *.txt
 recursive-include src/lemmatizer/lemma_tables *.json
 recursive-include src/lemmatizer/other_de *.json
+exclude paper_eval_code/*
+exclude example_notebooks/*
+recursive-exclude paper_eval_code *
+recursive-exclude example_notebooks *

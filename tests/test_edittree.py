@@ -1,6 +1,7 @@
-"""Test that the apply method of the EditTreeNode class works as a lemmatizer rather than a paradigm completion method now"""
+"""Test that the apply method of the EditTreeNode class works as a lemmatizer rather than a paradigm completion method now
+"""
 
-from romansh_lemmatizer.edittree import editTree
+from rumlem.edittree import editTree
 
 
 def test_simple_replacements():
@@ -17,7 +18,6 @@ def test_simple_replacements():
 
     # Str without an s at the end should not be valid for this edit tree
     assert et.apply("cat") == -1
-
 
 def test_longer_replacements():
     """Are more complicated edit trees applied correctly? based on surmiran adj endings"""

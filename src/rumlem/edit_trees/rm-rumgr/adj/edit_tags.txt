@@ -1,0 +1,82 @@
+		ADJ;MASC;SG
+	amain	ADJ;MASC;PL
+	ic	ADJ;FEM;SG
+	iv	ADJ;FEM;SG
+, avant nums cun consonant: sontga maria	sontga	ADJ;FEM;SG
+-cla	stanchel	ADJ;FEM;SG
+-intellectual	intellectual	ADJ;FEM;SG
+-strategic	strategic	ADJ;FEM;SG
+-upla	nonupel	ADJ;FEM;SG
+-upla	octupel	ADJ;FEM;SG
+-upla	quadrupel	ADJ;FEM;SG
+-upla	quintupel	ADJ;FEM;SG
+-upla	sextupel	ADJ;FEM;SG
+a		ADJ;FEM;SG
+a, pl. cools, coolas		ADJ;FEM;SG
+ada	à	ADJ;FEM;SG
+ais	endì	ADJ;MASC;PL
+aivel	ibel	ADJ;FEM;SG
+approfundà	profundà	ADJ;FEM;SG
+as		ADJ;FEM;PL
+avant nums cun vocal: sontg'anna	sontg'	ADJ;FEM;SG
+bel	l	ADJ;FEM;SG
+c		ADJ;FEM;SG
+ca		ADJ;FEM;SG
+ct	tg	ADJ;FEM;SG
+dì	s	ADJ;FEM;SG
+endretg	dretg	ADJ;FEM;SG
+endì	ais	ADJ;FEM;SG
+enziunabla	venziunabel	ADJ;FEM;SG
+et		ADJ;FEM;SG
+exquisit	squisit	ADJ;FEM;SG
+fa		ADJ;FEM;SG
+fendibel	sfendibel	ADJ;FEM;SG
+fitg vegl	vegl	ADJ;FEM;SG
+gia	tg	ADJ;FEM;SG
+h	ch	ADJ;FEM;SG
+her	cher	ADJ;FEM;SG
+i		ADJ;FEM;SG
+ia		ADJ;FEM;SG
+ic		ADJ;FEM;SG
+ida	ì	ADJ;FEM;SG
+igibla	egibel	ADJ;FEM;SG
+ischem		ADJ;FEM;SG
+la		ADJ;FEM;SG
+la	al	ADJ;FEM;SG
+la	el	ADJ;FEM;SG
+la	hel	ADJ;FEM;SG
+la	tel	ADJ;FEM;SG
+legher	allegher	ADJ;FEM;SG
+legraivel	allegraivel	ADJ;FEM;SG
+letta	elet	ADJ;FEM;SG
+ma	em	ADJ;FEM;SG
+malattent	inattent	ADJ;FEM;SG
+na		ADJ;FEM;SG
+na	en	ADJ;FEM;SG
+na	len	ADJ;FEM;SG
+nina	enin	ADJ;FEM;SG
+nunecologic	inecologic	ADJ;FEM;SG
+oetic	eic	ADJ;FEM;SG
+pa		ADJ;FEM;SG
+pert	velt	ADJ;FEM;SG
+ra		ADJ;FEM;SG
+ra	er	ADJ;FEM;SG
+ra	her	ADJ;FEM;SG
+ra	ier	ADJ;FEM;SG
+ra	zer	ADJ;FEM;SG
+s		ADJ;MASC;PL
+s	dì	ADJ;MASC;PL
+sa	z	ADJ;FEM;SG
+ss	vì	ADJ;MASC;PL
+st	nì	ADJ;FEM;SG
+ta		ADJ;FEM;SG
+ta, pl. fits/fittas		ADJ;FEM;SG
+testà	vaccinà	ADJ;FEM;SG
+tga		ADJ;FEM;SG
+tgna	gen	ADJ;FEM;SG
+ua		ADJ;FEM;SG
+uni	n	ADJ;FEM;SG
+us	ant	ADJ;MASC;PL
+utta	rut	ADJ;FEM;SG
+z		ADJ;FEM;SG
+za		ADJ;FEM;SG

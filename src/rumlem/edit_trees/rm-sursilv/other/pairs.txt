@@ -1,0 +1,4498 @@
+anor	anor	1.0	None
+aschidadir	aschidadir	1.0	None
+aber	aber	1.0	None
+aber	abeg	0.2	
+aber	abetta	0.2	
+constar	constar	1.0	None
+constar	constituenta	0.2	
+cunter	cunter	1.0	None
+cunter	cunterdiscuors	0.2	
+denter	denter	1.0	None
+denter	denterglatschers	0.2	
+eifer	eifer	1.0	None
+encunter	encunter	1.0	None
+enteifer	enteifer	1.0	None
+leudenter	leudenter	1.0	None
+perencunter	perencunter	1.0	None
+persuenter	persuenter	1.0	None
+pongir	pongir	1.0	None
+schidadir	schidadir	1.0	None
+sper	sper	1.0	None
+vieifer	vieifer	1.0	None
+davostier	davostier	1.0	None
+adatg!	adatg!	1.0	None
+marsch!	marsch!	1.0	None
+anzi!	anzi!	1.0	None
+attenziun!	attenziun!	1.0	None
+bandunader	bandunader	1.0	None
+bumbardun	bumbardun	1.0	None
+bundischen	bundischen	1.0	None
+dieunuardi	dieunuardi	1.0	None
+giachisch	giachisch	1.0	None
+giachischen	giachischen	1.0	None
+gianteren	gianteren	1.0	None
+gianteren	gianterenen	0.2	
+giavetsch	giavetsch	1.0	None
+gnabatsch	gnabatsch	1.0	None
+gnali	gnali	1.0	None
+gros	gros	1.0	None
+gros	grondeziadil	0.2	
+gros	gro	0.2	
+herculana	herculana	1.0	None
+hausembec	hausembec	1.0	None
+horda	horda	1.0	None
+la	la	1.0	None
+la	lahergnond	0.2	
+la	laurin	0.2	
+la	langozs	0.2	
+la	lauro	0.2	
+la	laman	0.2	
+la	lan	0.2	
+la	laina	0.2	
+la	ladir	0.2	
+la	lapbook	0.2	
+la	lasagne	0.2	
+la	lamezi	0.2	
+la	laudavaglia	0.2	
+la	latschegiond	0.2	
+la	largamein	0.2	
+la	laus	0.2	
+la	land	0.2	
+la	lavatiu	0.2	
+la	lau	0.2	
+la	langadabanga	0.2	
+la	lachanfall	0.2	
+maranta	maranta	1.0	None
+mariamaratra!	mariamaratra!	1.0	None
+vinavon	vinavon	1.0	None
+mesa	mesa	1.0	None
+mesa	mesirad	0.2	
+mesa	mesirond	0.2	
+mesa	mesosticon	0.2	
+miau	miau	1.0	None
+miau	mia-scla	0.2	
+miau	miauu	0.2	
+miau	mias	0.2	
+miau	miasla	0.2	
+min	min	1.0	None
+min	minoris	0.2	
+min	minikino	0.2	
+min	mindmap	0.2	
+min	mincar	0.2	
+min	mintg	0.2	
+min	mingle	0.2	
+perstgisa!	perstgisa!	1.0	None
+perstgisei!	perstgisei!	1.0	None
+sapperdi!	sapperdi!	1.0	None
+sapperdi!	sapperdi	0.2	
+sappischetgas!	sappischetgas!	1.0	None
+sappischetgas!	sappischetgas	0.2	
+stai!	stai!	1.0	None
+stai!	stair	0.2	
+stei!	stei!	1.0	None
+tè	tè	1.0	None
+top	top	1.0	None
+top	top-ten	0.2	
+trac	trac	1.0	None
+trac	traviarsamein	0.2	
+trac	tractor	0.2	
+trac	tracatond	0.2	
+trac	tral	0.2	
+trac	travazzera	0.2	
+trac	transversala	0.2	
+trac	tramogna	0.2	
+trac	travacond	0.2	
+trac	trap	0.2	
+trac	tractors	0.2	
+trac	traso	0.2	
+traplas!	traplas!	1.0	None
+verbalmein	verbalmein	1.0	None
+via	via	1.0	None
+via	viagiond	0.2	
+via!	via!	1.0	None
+via!	viagiond	0.2	
+zacherblé	zacherblé	1.0	None
+zacherblengias	zacherblengias	1.0	None
+zachergianter	zachergianter	1.0	None
+zachergiavel	zachergiavel	1.0	None
+zacherlot	zacherlot	1.0	None
+zachermiez	zachermiez	1.0	None
+zachermust	zachermust	1.0	None
+zachernausch	zachernausch	1.0	None
+zacherzucher	zacherzucher	1.0	None
+zacumpentel	zacumpentel	1.0	None
+zacuromasen	zacuromasen	1.0	None
+zaffermen	zaffermen	1.0	None
+zacherdi	zacherdi	1.0	None
+zachermen	zachermen	1.0	None
+zachermiela	zachermiela	1.0	None
+all'amicabla	all'amicabla	1.0	None
+andant	andantamein	1.0	ADV
+all'anetga	all'anetga	1.0	None
+aparti	aparti	1.0	None
+arisguard	arisguard	1.0	None
+asch	aschamein, asch	1.0	ADV
+asch	asch	1.0	None
+asch	ascnhre	0.2	
+asch	aschibein	0.2	
+avitiri	avitiriamein	1.0	ADV
+bibien	bibien	1.0	None
+cuntut	cuntut	1.0	None
+dabia	dabia	1.0	None
+davart	davart	1.0	None
+endadens	endadens	1.0	None
+endretg	endretg	1.0	None
+all'engronda	all'engronda	1.0	None
+all'exabrutta	all'exabrutta	1.0	None
+giattamaula	giattamaula	1.0	None
+giattamaula	giattamaulamein	1.0	ADV
+glat	glat	1.0	None
+glat	glatta	0.2	
+glat	glauber	0.2	
+inclusiv	inclusiv	1.0	None
+magari	magari	1.0	None
+maldischentamein	maldischentamein	1.0	None
+mender	mender	1.0	None
+mender	mender	1.0	None
+mintg'onn	mintg'onn	1.0	None
+pari	pari	1.0	None
+pari	paradiso	0.2	
+pari	pare	0.2	
+partenent	partenent	1.0	None
+pèr	pèr	1.0	None
+pia	pia	1.0	None
+pia	piantar	0.2	
+propi	propi	1.0	None
+puncto	puncto	1.0	None
+puncto	punctet	0.2	
+quaterdubel	quaterdubel	1.0	None
+resalvont	resalvont	1.0	None
+ridiculeischen	ridiculeischen	1.0	None
+ta	ta	1.0	None
+ta	talas	0.2	
+ta	tardont	0.2	
+ta	tavanond	0.2	
+ta	tactil	0.2	
+ta	tasrc	0.2	
+ta	tals	0.2	
+ta	tan	0.2	
+ta	tar	0.2	
+ta	taliter	0.2	
+ta	tanienta	0.2	
+ta	tabula	0.2	
+ta	tagliers	0.2	
+ta	tai	0.2	
+ta	taglialennas	0.2	
+ta	tani	0.2	
+ta	tavanasa	0.2	
+ta	tachen	0.2	
+tut	tut	1.0	None
+tut	tutt	0.2	
+tut	tutananna	0.2	
+d'unviern	d'unviern	1.0	None
+vezus	vezus	1.0	None
+videifer	videifer	1.0	None
+voluntarmein	voluntarmein	1.0	None
+polac	polac	1.0	None
+danovamein	danovamein	1.0	None
+a	a	1.0	None
+a	abstrahond	0.2	
+a	althoff	0.2	
+a	a4	0.2	
+a	aschibein	0.2	
+a	alettas	0.2	
+a	allè	0.2	
+a	a.a	0.2	
+a	arla	0.2	
+a	aln	0.2	
+a	andina	0.2	
+a	apagagl	0.2	
+a	aper	0.2	
+a	arlo	0.2	
+a	azin	0.2	
+a	albertin	0.2	
+a	ambarvala	0.2	
+a	af	0.2	
+a	agiunta	0.2	
+a	abraxas	0.2	
+a	au	0.2	
+a	auna	0.2	
+a	adir	0.2	
+a	aterfegl	0.2	
+a	anita	0.2	
+a	a8	0.2	
+a	aline	0.2	
+a	avocado	0.2	
+a	ar	0.2	
+a	aquilin	0.2	
+a	acropolis	0.2	
+a	arno	0.2	
+a	adrian	0.2	
+a	allegher	0.2	
+a	aaaa	0.2	
+a	azreucldr	0.2	
+a	adansoias	0.2	
+a	ar-tist	0.2	
+a	adrel	0.2	
+a	an	0.2	
+a	alissia	0.2	
+a	attad	0.2	
+a	atà	0.2	
+a	ana	0.2	
+a	atier	0.2	
+a	astg	0.2	
+a	anera	0.2	
+a	aosta	0.2	
+a	afin	0.2	
+a	adugn	0.2	
+a	allò	0.2	
+a	aun	0.2	
+a	atsch	0.2	
+a	auper	0.2	
+a	appenzell	0.2	
+a	apuorla	0.2	
+a	andrina	0.2	
+a	antipersunas	0.2	
+a	abetta	0.2	
+a	anton	0.2	
+a	avel	0.2	
+a	am	0.2	
+a	andrea	0.2	
+a	andi	0.2	
+a	avellin	0.2	
+a	alcogn	0.2	
+a	acrosticon	0.2	
+a	angul	0.2	
+a	attaschar	0.2	
+a	a1	0.2	
+a	adi	0.2	
+a	autr	0.2	
+a	artists.jeu	0.2	
+a	agur	0.2	
+a	arvend	0.2	
+a	allas	0.2	
+a	antonim	0.2	
+a	aglina	0.2	
+a	aquist	0.2	
+a	andri	0.2	
+a	andeila	0.2	
+a	als	0.2	
+a	allah	0.2	
+a	atten	0.2	
+a	anzegna	0.2	
+a	alscuo	0.2	
+a	annorums	0.2	
+a	anlos	0.2	
+a	arosa	0.2	
+a	aaron	0.2	
+a	accola	0.2	
+a	athen	0.2	
+a	action	0.2	
+a	ado	0.2	
+a	activads	0.2	
+a	altius	0.2	
+a	adensalv	0.2	
+a	appenzel	0.2	
+a	aba	0.2	
+a	antonims	0.2	
+a	abeg	0.2	
+a	arn	0.2	
+a	anchel	0.2	
+a	africans	0.2	
+a	aurelia	0.2	
+a	abcd	0.2	
+a	amrs	0.2	
+a	alitad	0.2	
+a	anna	0.2	
+a	abot	0.2	
+a	adualas	0.2	
+a	aglia	0.2	
+a	aguar	0.2	
+a	aunga	0.2	
+a	abracadabra	0.2	
+a	agniel	0.2	
+a	a3	0.2	
+a	aduala	0.2	
+a	abraham	0.2	
+a	aultniebla	0.2	
+a	ascnhre	0.2	
+a	auc	0.2	
+a	albertins	0.2	
+a	amna	0.2	
+a	axel	0.2	
+a	alv-nera	0.2	
+a	absorbont	0.2	
+a	adessa	0.2	
+a	altdorf	0.2	
+a	aud	0.2	
+a	ament	0.2	
+a	aina	0.2	
+a	angelo	0.2	
+a	azu	0.2	
+a	affectiva	0.2	
+a	all	0.2	
+a	aventurursa	0.2	
+a	asetta	0.2	
+a	abla	0.2	
+a	avlghitaristcolruoghetdaqbaghegiartui	0.2	
+a	aul	0.2	
+a	acu	0.2	
+a	affectivas	0.2	
+a	adriatica	0.2	
+a	asticu	0.2	
+a	atmg	0.2	
+a	asgiu	0.2	
+a	air	0.2	
+a	assad	0.2	
+a	annina	0.2	
+a	amischa	0.2	
+a	artgin	0.2	
+a	as	0.2	
+a	arv	0.2	
+a	andrin	0.2	
+a	abcde	0.2	
+a	avo	0.2	
+a	annika	0.2	
+adami	adami	1.0	None
+adanus	adanus	1.0	None
+adavus	adavus	1.0	None
+all'entschatta	all'entschatta	1.0	None
+ad	ad	1.0	None
+ad	adugn	0.2	
+ad	adessa	0.2	
+ad	adi	0.2	
+ad	adriatica	0.2	
+ad	adualas	0.2	
+ad	adensalv	0.2	
+ad	adrel	0.2	
+ad	aduala	0.2	
+ad	adir	0.2	
+ad	ado	0.2	
+ad	adrian	0.2	
+ad	adansoias	0.2	
+abrupt	abrupt	1.0	None
+absolut	absolut	1.0	None
+absolutamein	absolutamein	1.0	None
+abundont	abundont	1.0	None
+abundontamein	abundontamein	1.0	None
+accentuadamein	accentuadamein	1.0	None
+accessoriamein	accessoriamein	1.0	None
+accidentalmein	accidentalmein	1.0	None
+d'accord!	d'accord!	1.0	None
+accuratamein	accuratamein	1.0	None
+activamein	activamein	1.0	None
+actualmein	actualmein	1.0	None
+adabien	adabien	1.0	None
+adacar	adacar	1.0	None
+adagur	adagur	1.0	None
+adalaid	adalaid	1.0	None
+adanfetg	adanfetg	1.0	None
+adaquella	adaquella	1.0	None
+adaviert	adaviert	1.0	None
+adempal	adempal	1.0	None
+adempeil	adempeil	1.0	None
+adempez	adempez	1.0	None
+ademplat	ademplat	1.0	None
+adenliung	adenliung	1.0	None
+adequatamein	adequatamein	1.0	None
+adia!	adia!	1.0	None
+adies	adies	1.0	None
+adina	adina	1.0	None
+adispir	adispir	1.0	None
+administrativamein	administrativamein	1.0	None
+admirablamein	admirablamein	1.0	None
+adual	adual	1.0	None
+adual	aduala	0.2	
+adual	adualas	0.2	
+adualmein	adualmein	1.0	None
+adumbatten	adumbatten	1.0	None
+affonilmein	affonilmein	1.0	None
+afuns	afuns	1.0	None
+agen	agen	1.0	None
+agher	agher	1.0	None
+agitadamein	agitadamein	1.0	None
+agl	agl	1.0	None
+agl	aglina	0.2	
+agl	aglia	0.2	
+agli	agli	1.0	None
+agli	aglina	0.2	
+agli	aglia	0.2	
+agraden	agraden	1.0	None
+agradgiu	agradgiu	1.0	None
+agradneu	agradneu	1.0	None
+agradora	agradora	1.0	None
+agradsi	agradsi	1.0	None
+agradvi	agradvi	1.0	None
+agressivamein	agressivamein	1.0	None
+ah	ah	1.0	None
+aha	aha	1.0	None
+alfabeticamein	alfabeticamein	1.0	None
+ali	ali	1.0	None
+ali	alissia	0.2	
+ali	aline	0.2	
+ali	alitad	0.2	
+allaga	allaga	1.0	None
+allah!	allah!	1.0	None
+allah!	allah	0.2	
+allè!	allè!	1.0	None
+allè!	allè	0.2	
+allegher!	allegher!	1.0	None
+allegher!	allegher	0.2	
+allegramein	allegramein	1.0	None
+allerta	allerta	1.0	None
+allò!	allò!	1.0	None
+allò!	allò	0.2	
+allura	allura	1.0	None
+alluscha	alluscha	1.0	None
+alluscha?	alluscha?	1.0	None
+alluscha!	alluscha!	1.0	None
+also	also	1.0	None
+also	alscuo	0.2	
+also	als	0.2	
+alternativamein	alternativamein	1.0	None
+alternontamein	alternontamein	1.0	None
+amablamein	amablamein	1.0	None
+amaramein	amaramein	1.0	None
+amauns	amauns	1.0	None
+all'ambrusiana	all'ambrusiana	1.0	None
+amicablamein	amicablamein	1.0	None
+amiez	amiez	1.0	None
+amplamein	amplamein	1.0	None
+amun	amun	1.0	None
+amunt	amunt	1.0	None
+analogamein	analogamein	1.0	None
+anavon	anavon	1.0	None
+anavon!	anavon!	1.0	None
+anavos	anavos	1.0	None
+anavos!	anavos!	1.0	None
+d'anceinza	d'anceinza	1.0	None
+andada	andada	1.0	None
+in'andanta	in'andanta	1.0	None
+andantamein	andantamein	1.0	None
+anen	anen	1.0	None
+anen	anera	0.2	
+anenagiu	anenagiu	1.0	None
+anenasi	anenasi	1.0	None
+anentanorasi	anentanorasi	1.0	None
+anenviars	anenviars	1.0	None
+anetg	anetg	1.0	None
+anetgamein	anetgamein	1.0	None
+anibutscha	anibutscha	1.0	None
+anno	anno	1.0	None
+anno	annina	0.2	
+anno	annorums	0.2	
+anno	anna	0.2	
+anno	annika	0.2	
+annualmein	annualmein	1.0	None
+anonim	anonim	1.0	None
+ano	ano	1.0	None
+anora	anora	1.0	None
+anoragiu	anoragiu	1.0	None
+anorasi	anorasi	1.0	None
+anorasiviars	anorasiviars	1.0	None
+anpaletg	anpaletg	1.0	None
+anson	anson	1.0	None
+anteriuramein	anteriuramein	1.0	None
+anticipadamein	anticipadamein	1.0	None
+antruras	antruras	1.0	None
+anzi	anzi	1.0	None
+anzi	anzegna	0.2	
+aposta	aposta	1.0	None
+apparentamein	apparentamein	1.0	None
+approfundadamein	approfundadamein	1.0	None
+approximativamein	approximativamein	1.0	None
+aprau	aprau	1.0	None
+arbitrariamein	arbitrariamein	1.0	None
+ardentamein	ardentamein	1.0	None
+arrogantamein	arrogantamein	1.0	None
+artificialmein	artificialmein	1.0	None
+aschamein	aschamein	1.0	None
+aschi	aschi	1.0	None
+aschi	aschibein	0.2	
+aschia	aschia	1.0	None
+aschia	aschibein	0.2	
+aschia!	aschia!	1.0	None
+aschia!	aschibein	0.2	
+aschiditg	aschiditg	1.0	None
+aschilala	aschilala	1.0	None
+aschilunsch	aschilunsch	1.0	None
+aschinavon	aschinavon	1.0	None
+aschiprest	aschiprest	1.0	None
+aschischi	aschischi	1.0	None
+aschizun	aschizun	1.0	None
+asper	asper	1.0	None
+aspramein	aspramein	1.0	None
+assa!	assa!	1.0	None
+assa!	assad	0.2	
+atà!	atà!	1.0	None
+atà!	atà	0.2	
+atgnamein	atgnamein	1.0	None
+atras	atras	1.0	None
+atraviers	atraviers	1.0	None
+attentamein	attentamein	1.0	None
+au!	au!	1.0	None
+ell'aua	ell'aua	1.0	None
+aunc	aunc	1.0	None
+aunc	aunga	0.2	
+aunc	aun	0.2	
+aunc	auna	0.2	
+auncallura	auncallura	1.0	None
+auter	auter	1.0	None
+senz'auter	senz'auter	1.0	None
+autramein	autramein	1.0	None
+autro	autro	1.0	None
+autro	autr	0.2	
+autruisa	autruisa	1.0	None
+aval	aval	1.0	None
+aver	aver	1.0	None
+aver	avel	0.2	
+aver	aventurursa	0.2	
+aver	avellin	0.2	
+aviartamein	aviartamein	1.0	None
+aviert	aviert	1.0	None
+avon	avon	1.0	None
+avon	avocado	0.2	
+avon	avo	0.2	
+avoncaduras	avoncaduras	1.0	None
+avoncaduss	avoncaduss	1.0	None
+avonmaun	avonmaun	1.0	None
+avonmiezdi	avonmiezdi	1.0	None
+avontut	avontut	1.0	None
+avunda	avunda	1.0	None
+aba!	aba!	1.0	None
+aba!	aba	0.2	
+abass	abass	1.0	None
+ba	ba	1.0	None
+ba	barcunet	0.2	
+ba	babon	0.2	
+ba	battesta	0.2	
+ba	ballantschond	0.2	
+ba	barlec	0.2	
+ba	bascha	0.2	
+ba	baul-baroc	0.2	
+ba	barkeeper	0.2	
+ba	barschut	0.2	
+ba	badraun	0.2	
+ba	bargend	0.2	
+ba	baja	0.2	
+ba	babic	0.2	
+ba	bardun	0.2	
+ba	battigliun	0.2	
+ba	barbie	0.2	
+ba	babulin	0.2	
+ba	basca	0.2	
+ba	badia	0.2	
+ba	ballaputscheitra	0.2	
+ba	bahuta	0.2	
+ba	barbuna	0.2	
+ba	barschonta	0.2	
+ba	balluc	0.2	
+ba	battasendas	0.2	
+ba	basso	0.2	
+ba	balluccond	0.2	
+ba	bardigliader	0.2	
+bah	bah	1.0	None
+bah	bahuta	0.2	
+bancramenta	bancramenta	1.0	None
+bass	bass	1.0	None
+bass	bascha	0.2	
+bass	basso	0.2	
+bass	basca	0.2	
+bassamein	bassamein	1.0	None
+basta	basta	1.0	None
+basteivlamein	basteivlamein	1.0	None
+bastontamein	bastontamein	1.0	None
+baul	baul	1.0	None
+baul	baul-baroc	0.2	
+beadamein	beadamein	1.0	None
+beffergnar	beffergnar	1.0	None
+befrogna	befrogna	1.0	None
+bein	bein	1.0	None
+beina	beina	1.0	None
+beinbufatg	beinbufatg	1.0	None
+beinbugen	beinbugen	1.0	None
+beincapiu	beincapiu	1.0	None
+beincapiu!	beincapiu!	1.0	None
+beindabot	beindabot	1.0	None
+beinduras	beinduras	1.0	None
+beinenduras	beinenduras	1.0	None
+beinenqual	beinenqual	1.0	None
+beinenquala	beinenquala	1.0	None
+beinenqualin	beinenqualin	1.0	None
+beinenqualina	beinenqualina	1.0	None
+beinenqualtgin	beinenqualtgin	1.0	None
+beinet	beinet	1.0	None
+beinfatg	beinfatg	1.0	None
+beingleiti	beingleiti	1.0	None
+beinmaneivel	beinmaneivel	1.0	None
+beinmarvegl	beinmarvegl	1.0	None
+beinonz	beinonz	1.0	None
+beinspert	beinspert	1.0	None
+beinvegni	beinvegni	1.0	None
+beinvulentamein	beinvulentamein	1.0	None
+benediu	benediu	1.0	None
+benediu	benedetg	0.2	
+benignamein	benignamein	1.0	None
+bess	bess	1.0	None
+bestialmein	bestialmein	1.0	None
+bi	bi	1.0	None
+bi	bialamaglia	0.2	
+bi	bigin	0.2	
+bi	biblica	0.2	
+bi	biblicas	0.2	
+bi	bittada	0.2	
+bi	bigna	0.2	
+bi	biendiatutsoztematiseinnusla	0.2	
+bi	biarscir	0.2	
+bi	biendi	0.2	
+bi	bial	0.2	
+bia	bia	1.0	None
+bia	biarscir	0.2	
+bia	bial	0.2	
+bia	bialamaglia	0.2	
+biar	biar	1.0	None
+biar	bialamaglia	0.2	
+biar	biarscir	0.2	
+biar	bial	0.2	
+biara	biara	1.0	None
+biara	biarscir	0.2	
+biaron	biaron	1.0	None
+biaronz	biaronz	1.0	None
+biars	biars	1.0	None
+biars	biarscir	0.2	
+bibrudi	bibrudi	1.0	None
+biebein	biebein	1.0	None
+bien	bien	1.0	None
+bien	biendi	0.2	
+bien	biendiatutsoztematiseinnusla	0.2	
+biendi!	biendi!	1.0	None
+biendi!	biendi	0.2	
+biendi!	biendiatutsoztematiseinnusla	0.2	
+bienmarcau	bienmarcau	1.0	None
+bienruc	bienruc	1.0	None
+buntganada	buntganada	1.0	None
+bintgunada	bintgunada	1.0	None
+bio	bio	1.0	None
+bizaramein	bizaramein	1.0	None
+blanc	blanc	1.0	None
+blanco	blanco	1.0	None
+blond	blond	1.0	None
+blut	blut	1.0	None
+blut	blutus	0.2	
+blut	blutt	0.2	
+bluttamein	bluttamein	1.0	None
+braus	braus	1.0	None
+braus	brausamein	0.2	ADV
+braus	brausiamein	0.2	
+brausel	brausel	1.0	None
+brausel	brausamein	0.2	
+brausel	brausiamein	0.2	
+brauslamein	brauslamein	1.0	None
+brav	brav	1.0	None
+brav	brausamein	0.2	
+brav	brausiamein	0.2	
+brav	bra	0.2	
+brav	bran-baselgia	0.2	
+brav	brabant	0.2	
+bravamein	bravamein	1.0	None
+bravo	bravo	1.0	None
+bravurusamein	bravurusamein	1.0	None
+ambrusiana	ambrusiana	1.0	None
+brosiana	brosiana	1.0	None
+bruscamein	bruscamein	1.0	None
+brut	brut	1.0	None
+brut	bru	0.2	
+brut	brutus	0.2	
+brut	bruno	0.2	
+brutalmein	brutalmein	1.0	None
+buac	buac	1.0	None
+buah	buah	1.0	None
+buc	buc	1.0	None
+buc	bucc	0.2	
+buc	bucca-luf	0.2	
+buc?	buc?	1.0	None
+buc?	bucc	0.2	
+buc?	bucca-luf	0.2	
+buca	buca	1.0	None
+buca	bucc	0.2	
+buca	bucca-luf	0.2	
+bufatg	bufatg	1.0	None
+bufatgamein	bufatgamein	1.0	None
+bufatget	bufatget	1.0	None
+bugen	bugen	1.0	None
+bui	bui	1.0	None
+buldonzamein	buldonzamein	1.0	None
+bumperfatscha	bumperfatscha	1.0	None
+bumperfatscha!	bumperfatscha!	1.0	None
+bunamein	bunamein	1.0	None
+bunasera!	bunasera!	1.0	None
+bunasera!	bunasera	0.2	
+bundonzamein	bundonzamein	1.0	None
+buntadeivlamein	buntadeivlamein	1.0	None
+buseruna	buseruna	1.0	None
+buttatschar	buttatschar	1.0	None
+cert	cert	1.0	None
+cert	cernet	0.2	
+cert	certin	0.2	
+cert	cer-chel	0.2	
+cert!	cert!	1.0	None
+cert!	certin	0.2	
+certamein	certamein	1.0	None
+certins	certins	1.0	None
+certins	certin	0.2	
+certinas	certinas	1.0	None
+certinas	certin	0.2	
+chemicamein	chemicamein	1.0	None
+cherli	cherli	1.0	None
+cheu	cheu	1.0	None
+cheu	cher	0.2	
+cheu	ches	0.2	
+cheu	chen	0.2	
+cheu	chemicher	0.2	
+cheu!	cheu!	1.0	None
+cheudavos	cheudavos	1.0	None
+cheuen	cheuen	1.0	None
+cheuenagiu	cheuenagiu	1.0	None
+cheugiu	cheugiu	1.0	None
+cheuora	cheuora	1.0	None
+cheusi	cheusi	1.0	None
+cheusperas	cheusperas	1.0	None
+cheusuenter	cheusuenter	1.0	None
+cheusura	cheusura	1.0	None
+cheusut	cheusut	1.0	None
+cheutier	cheutier	1.0	None
+cheutras	cheutras	1.0	None
+cheuvi	cheuvi	1.0	None
+chezer	chezer	1.0	None
+chignar	chignar	1.0	None
+cristus	cristus	1.0	None
+cristus	cristiandemocratica	0.2	
+cristus	cristoffel	0.2	
+christus	christus	1.0	None
+christus	christine	0.2	
+circa	circa	1.0	None
+circumstanzialmein	circumstanzialmein	1.0	None
+clarezia	clarezia	1.0	None
+co	co	1.0	None
+co	combettas	0.2	
+co	constituenta	0.2	
+co	corina	0.2	
+co	cooladad	0.2	
+co	corripundentas	0.2	
+co	corscher	0.2	
+co	consonsanza	0.2	
+co	confamigliars	0.2	
+co	commerzi	0.2	
+co	consumonta	0.2	
+co	contra	0.2	
+co	co-stum	0.2	
+co	continuo	0.2	
+co	contristau	0.2	
+co	colla	0.2	
+co	cowboys	0.2	
+co	corrispuntentas	0.2	
+co	coca	0.2	
+co	concolars	0.2	
+co	contemplond	0.2	
+co	coola	0.2	
+co	cools	0.2	
+co	conferman	0.2	
+coga	coga	1.0	None
+cogana	cogana	1.0	None
+coherentamein	coherentamein	1.0	None
+collectivamein	collectivamein	1.0	None
+comi	comi	1.0	None
+comi	commerzi	0.2	
+comi	combettas	0.2	
+commensuradamein	commensuradamein	1.0	None
+commuentontamein	commuentontamein	1.0	None
+communablamein	communablamein	1.0	None
+con	con	1.0	None
+con	contristau	0.2	
+con	constituenta	0.2	
+con	consumonta	0.2	
+con	conferman	0.2	
+con	contra	0.2	
+con	continuo	0.2	
+con	concolars	0.2	
+con	consonsanza	0.2	
+con	contemplond	0.2	
+con	confamigliars	0.2	
+conta	conta	1.0	None
+conta	contra	0.2	
+conta	contristau	0.2	
+conta	contemplond	0.2	
+conta	continuo	0.2	
+condanavon	condanavon	1.0	None
+confidenzialmein	confidenzialmein	1.0	None
+conform	conform	1.0	None
+conformamein	conformamein	1.0	None
+confus	confus	1.0	None
+congenialmein	congenialmein	1.0	None
+consequentamein	consequentamein	1.0	None
+considerablamein	considerablamein	1.0	None
+constantamein	constantamein	1.0	None
+contant	contant	1.0	None
+contavel	contavel	1.0	None
+contemporanamein	contemporanamein	1.0	None
+contin	contin	1.0	None
+contin	continuo	0.2	
+convulsivamein	convulsivamein	1.0	None
+cordialmein	cordialmein	1.0	None
+curnera	curnera	1.0	None
+cornera	cornera	1.0	None
+corporalmein	corporalmein	1.0	None
+correctamein	correctamein	1.0	None
+corrispundentamein	corrispundentamein	1.0	None
+tiaracotga	tiaracotga	1.0	None
+tgietschen	tgietschen	1.0	None
+tgietschen	tgietschen-rosa	0.2	
+cotschens	cotschens	1.0	None
+cotschna	cotschna	1.0	None
+crac!	crac!	1.0	None
+cramados	cramados	1.0	None
+crapabuttatsch	crapabuttatsch	1.0	None
+crappar	crappar	1.0	None
+crappar	crappas	0.2	
+cristianeivlamein	cristianeivlamein	1.0	None
+criticamein	criticamein	1.0	None
+criuamein	criuamein	1.0	None
+cronologicamein	cronologicamein	1.0	None
+crudeivlamein	crudeivlamein	1.0	None
+cruschentraviers	cruschentraviers	1.0	None
+cu	cu	1.0	None
+cu	cumineivla	0.2	
+cu	currend	0.2	
+cu	cugliunar	0.2	
+cu	curontatschun	0.2	
+cu	curont	0.2	
+cu	cunterdiscuors	0.2	
+cu	curontaquater	0.2	
+cu	cuad	0.2	
+cu	curdonta	0.2	
+cu	cuttu	0.2	
+cu	cualtschas	0.2	
+cu	cunvenziunala	0.2	
+cu	culiezs	0.2	
+cu	cumadad	0.2	
+cu	cunsalvi	0.2	
+cu	cuira	0.2	
+cu	cuas-cavagl	0.2	
+cu	curdin	0.2	
+cu	cuz	0.2	
+cu	cugliezs	0.2	
+cu	cull	0.2	
+cu	cumbein	0.2	
+cu	cugliazs	0.2	
+cu	cuchergnond	0.2	
+cu	cunbaghetgtontigherturitrianghelnnl	0.2	
+cu	cuspausa	0.2	
+cu	cuo	0.2	
+cu	cutter	0.2	
+cuagl	cuagl	1.0	None
+cugl	cugl	1.0	None
+cugl	cugliazs	0.2	
+cugl	cugliezs	0.2	
+cugl	cugliunar	0.2	
+cul	cul	1.0	None
+cul	cull	0.2	
+cul	culiezs	0.2	
+cun	cun	1.0	None
+cun	cunbaghetgtontigherturitrianghelnnl	0.2	
+cun	cunterdiscuors	0.2	
+cun	cunvenziunala	0.2	
+cun	cunsalvi	0.2	
+culla	culla	1.0	None
+culla	cull	0.2	
+cullas	cullas	1.0	None
+culs	culs	1.0	None
+culs	cull	0.2	
+culs	culiezs	0.2	
+cumadeivlamein	cumadeivlamein	1.0	None
+cumbien	cumbien	1.0	None
+cumbrigiadamein	cumbrigiadamein	1.0	None
+cuminamein	cuminamein	1.0	None
+cumpacac	cumpacac	1.0	None
+cumpatg	cumpatg	1.0	None
+cumperfatscha	cumperfatscha	1.0	None
+cumpetentamein	cumpetentamein	1.0	None
+cumplein	cumplein	1.0	None
+cumpleinamein	cumpleinamein	1.0	None
+cumplessivamein	cumplessivamein	1.0	None
+cumpletamein	cumpletamein	1.0	None
+cumplicau	cumplicau	1.0	None
+cundiziunadamein	cundiziunadamein	1.0	None
+cundiziunalmein	cundiziunalmein	1.0	None
+cuninaga	cuninaga	1.0	None
+cunquei	cunquei	1.0	None
+cunscientamein	cunscientamein	1.0	None
+cunscienziusamein	cunscienziusamein	1.0	None
+cunsesez	cunsesez	1.0	None
+cuntercor	cuntercor	1.0	None
+cunterpei	cunterpei	1.0	None
+cuntin	cuntin	1.0	None
+cuntinua	cuntinua	1.0	None
+cuntinuadamein	cuntinuadamein	1.0	None
+cuntinualmein	cuntinualmein	1.0	None
+cuntrari	cuntrari	1.0	None
+cuntrariamein	cuntrariamein	1.0	None
+cuntristadamein	cuntristadamein	1.0	None
+cunvegnentamein	cunvegnentamein	1.0	None
+cunzun	cunzun	1.0	None
+cuort	cuort	1.0	None
+cuortamein	cuortamein	1.0	None
+cuortvi	cuortvi	1.0	None
+cur	cur	1.0	None
+cur	curdonta	0.2	
+cur	curdin	0.2	
+cur	currend	0.2	
+cur	curont	0.2	
+cur	curontatschun	0.2	
+cur	curontaquater	0.2	
+cura	cura	1.0	None
+cura	curdonta	0.2	
+cura	curdin	0.2	
+cura	currend	0.2	
+cura	curont	0.2	
+cura	curontatschun	0.2	
+cura	curontaquater	0.2	
+curascha!	curascha!	1.0	None
+curaschusamein	curaschusamein	1.0	None
+currentamein	currentamein	1.0	None
+quasera	quasera	1.0	None
+cursera	cursera	1.0	None
+curteseivlamein	curteseivlamein	1.0	None
+cusché	cusché	1.0	None
+custi	custi	1.0	None
+cuz!	cuz!	1.0	None
+cuz!	cuz	0.2	
+cuzzar	cuzzar	1.0	None
+ca	ca	1.0	None
+ca	castrisch	0.2	
+ca	caicun	0.2	
+ca	catgiel	0.2	
+ca	cavagli	0.2	
+ca	ca-vagl	0.2	
+ca	caviezel	0.2	
+ca	casinha	0.2	
+ca	caultschas-caltschiel	0.2	
+ca	catischond	0.2	
+ca	cavigelli	0.2	
+ca	caiom	0.2	
+ca	camberlond	0.2	
+ca	caglioms	0.2	
+ca	cassandra	0.2	
+ca	carli	0.2	
+ca	calancra	0.2	
+ca	carsinar	0.2	
+ca	carpiens	0.2	
+ca	cartinas	0.2	
+ca	candinas	0.2	
+ca	cannera	0.2	
+ca	carpuglia	0.2	
+ca	calde	0.2	
+ca	capri	0.2	
+ca	cavella	0.2	
+ca	casimir	0.2	
+ca	calzerond	0.2	
+ca	catschiel	0.2	
+ca	catschergnond	0.2	
+ca	cax	0.2	
+ca	caneruna	0.2	
+ca	carschlentar	0.2	
+ca	cathomen	0.2	
+ca	capial	0.2	
+ca	catschergiond	0.2	
+ca	caffergnond	0.2	
+ca	cape	0.2	
+ca	calandari	0.2	
+ca	capit	0.2	
+ca	catrina	0.2	
+ca	carpellas	0.2	
+ca	cavegls	0.2	
+ca	campari	0.2	
+ca	caramein	0.2	
+ca	cavalaresca	0.2	
+ca	can	0.2	
+ca	cain	0.2	
+ca	cavrond	0.2	
+ca	carschend	0.2	
+ca	camifo	0.2	
+ca	caspica	0.2	
+ca	calca	0.2	
+ca	caporis	0.2	
+ca	caviertgs	0.2	
+ca	canuals	0.2	
+ca	catholicum	0.2	
+ca	car-ta	0.2	
+ca	caglom	0.2	
+ca	cadadiu	0.2	
+cachi	cachi	1.0	None
+canchilot	canchilot	1.0	None
+cantalicut	cantalicut	1.0	None
+canun	canun	1.0	None
+canun	canuals	0.2	
+capeivlamein	capeivlamein	1.0	None
+a-capella	a-capella	1.0	None
+capiu!	capiu!	1.0	None
+secapescha!	secapescha!	1.0	None
+caput	caput	1.0	None
+car	car	1.0	None
+car	carli	0.2	
+car	carsinar	0.2	
+car	carschend	0.2	
+car	carpiens	0.2	
+car	cartinas	0.2	
+car	carpuglia	0.2	
+car	carpellas	0.2	
+car	car-ta	0.2	
+car	caramein	0.2	ADV
+car	carschlentar	0.2	
+carinamein	carinamein	1.0	None
+carteivel	carteivel	1.0	None
+carteivlamein	carteivlamein	1.0	None
+casalur	casalur	1.0	None
+casamai	casamai	1.0	None
+castamein	castamein	1.0	None
+caster	caster	1.0	None
+castiamein	castiamein	1.0	None
+casualmein	casualmein	1.0	None
+categoricamein	categoricamein	1.0	None
+caussas!	caussas!	1.0	None
+basegns	basegns	1.0	None
+dabasegns	dabasegns	1.0	None
+dabass	dabass	1.0	None
+dabien	dabien	1.0	None
+dabot	dabot	1.0	None
+dabugen	dabugen	1.0	None
+dacheudenvi	dacheudenvi	1.0	None
+daco	daco	1.0	None
+daco	dacaffè	0.2	
+daco	dacheu	0.2	
+dacormein	dacormein	1.0	None
+dacuort	dacuort	1.0	None
+dacurenneu	dacurenneu	1.0	None
+dad	dad	1.0	None
+dadens	dadens	1.0	None
+dadensgiu	dadensgiu	1.0	None
+dadensneu	dadensneu	1.0	None
+dadenssi	dadenssi	1.0	None
+dadensvart	dadensvart	1.0	None
+dadetschiert	dadetschiert	1.0	None
+daditg	daditg	1.0	None
+dado	dado	1.0	None
+dadogiu	dadogiu	1.0	None
+dadoneu	dadoneu	1.0	None
+dadora	dadora	1.0	None
+dadoragiu	dadoragiu	1.0	None
+dadoraneu	dadoraneu	1.0	None
+dadorasi	dadorasi	1.0	None
+dadoravi	dadoravi	1.0	None
+dadosi	dadosi	1.0	None
+dadovart	dadovart	1.0	None
+dadovi	dadovi	1.0	None
+dadretg	dadretg	1.0	None
+dafatg	dafatg	1.0	None
+daferton	daferton	1.0	None
+dafertontier	dafertontier	1.0	None
+dagitg	dagitg	1.0	None
+dagur	dagur	1.0	None
+dai	dai	1.0	None
+dai	daischerun	0.2	
+dalaid	dalaid	1.0	None
+daleudenvi	daleudenvi	1.0	None
+daluenneu	daluenneu	1.0	None
+dalunaven	dalunaven	1.0	None
+dalunder	dalunder	1.0	None
+dalunsch	dalunsch	1.0	None
+dalurenneu	dalurenneu	1.0	None
+damai	damai	1.0	None
+damaneivel	damaneivel	1.0	None
+damaun	damaun	1.0	None
+dameins	dameins	1.0	None
+daniev	daniev	1.0	None
+daniev	daniel	0.2	
+danievensi	danievensi	1.0	None
+dano	dano	1.0	None
+dano	danis	0.2	
+dano	danilo	0.2	
+dano	daniel	0.2	
+dansiever	dansiever	1.0	None
+danunder	danunder	1.0	None
+danvonz	danvonz	1.0	None
+dapar	dapar	1.0	None
+dapart	dapart	1.0	None
+dapersei	dapersei	1.0	None
+dapertut	dapertut	1.0	None
+dapertutanavon	dapertutanavon	1.0	None
+dapi	dapi	1.0	None
+dapia	dapia	1.0	None
+dapli	dapli	1.0	None
+dapresent	dapresent	1.0	None
+daried	daried	1.0	None
+discus	discus	1.0	None
+dascus	dascus	1.0	None
+dasperas	dasperas	1.0	None
+datier	datier	1.0	None
+datschiert	datschiert	1.0	None
+daveras	daveras	1.0	None
+davon	davon	1.0	None
+davon	davosvart	0.2	
+davon	davosvi	0.2	
+davondavos	davondavos	1.0	None
+davonen	davonen	1.0	None
+davongiu	davongiu	1.0	None
+davonneu	davonneu	1.0	None
+davonora	davonora	1.0	None
+davonsi	davonsi	1.0	None
+davontier	davontier	1.0	None
+davos	davos	1.0	None
+davos	davosvart	0.2	
+davos	davosvi	0.2	
+davosneu	davosneu	1.0	None
+davosora	davosora	1.0	None
+davossi	davossi	1.0	None
+davossi	davosvart	0.2	
+davossi	davosvi	0.2	
+de	de	1.0	None
+de	deplazes	0.2	
+de	descla	0.2	
+de	debora	0.2	
+de	declarativas	0.2	
+de	desinscripziunscva	0.2	
+de	declinond	0.2	
+de	depat	0.2	
+de	denterglatschers	0.2	
+de	detta	0.2	
+de	den	0.2	
+de	deutsch	0.2	
+de	defgh	0.2	
+de	dentara	0.2	
+debia	debia	1.0	None
+decentamein	decentamein	1.0	None
+decididamein	decididamein	1.0	None
+ded	ded	1.0	None
+definitivamein	definitivamein	1.0	None
+delicat	delicat	1.0	None
+delicatamein	delicatamein	1.0	None
+deliziusamein	deliziusamein	1.0	None
+da	da	1.0	None
+da	dal	0.2	
+da	dacheu	0.2	
+da	dallas	0.2	
+da	david	0.2	
+da	dacaffè	0.2	
+da	dall	0.2	
+da	davosvi	0.2	
+da	darlun	0.2	
+da	dario	0.2	
+da	dam	0.2	
+da	daziara	0.2	
+da	dart	0.2	
+da	danilo	0.2	
+da	dagobert	0.2	
+da	daischerun	0.2	
+da	danis	0.2	
+da	davosvart	0.2	
+da	daniel	0.2	
+della	della	1.0	None
+dem	dem	1.0	None
+demai	demai	1.0	None
+demaneivel	demaneivel	1.0	None
+democraticamein	democraticamein	1.0	None
+deno	deno	1.0	None
+deno	den	0.2	
+deno	denterglatschers	0.2	
+deno	dentara	0.2	
+denteren	denteren	1.0	None
+denteren	denterglatschers	0.2	
+dentergiu	dentergiu	1.0	None
+dentergiu	denterglatschers	0.2	
+dentero	dentero	1.0	None
+dentero	denterglatschers	0.2	
+denterora	denterora	1.0	None
+dentertras	dentertras	1.0	None
+dentochen	dentochen	1.0	None
+denton	denton	1.0	None
+dentuorn	dentuorn	1.0	None
+depi	depi	1.0	None
+depi	deplazes	0.2	
+depi	depat	0.2	
+depia	depia	1.0	None
+depli	depli	1.0	None
+depli	deplazes	0.2	
+deplorablamein	deplorablamein	1.0	None
+deruttamein	deruttamein	1.0	None
+desinteressadamein	desinteressadamein	1.0	None
+desperadamein	desperadamein	1.0	None
+detagliadamein	detagliadamein	1.0	None
+dètg	dètg	1.0	None
+detgadiravunda	detgadiravunda	1.0	None
+detgavunda	detgavunda	1.0	None
+detschartamein	detschartamein	1.0	None
+devotamein	devotamein	1.0	None
+diametralmein	diametralmein	1.0	None
+dieschavel	dieschavel	1.0	None
+dieschmelli	dieschmelli	1.0	None
+differentamein	differentamein	1.0	None
+difficilmein	difficilmein	1.0	None
+diffusamein	diffusamein	1.0	None
+dignamein	dignamein	1.0	None
+diltut	diltut	1.0	None
+diplomaticamein	diplomaticamein	1.0	None
+diramein	diramein	1.0	None
+direct	direct	1.0	None
+directamein	directamein	1.0	None
+dischentamein	dischentamein	1.0	None
+dischniesch	dischniesch	1.0	None
+discret	discret	1.0	None
+discretamein	discretamein	1.0	None
+discusamein	discusamein	1.0	None
+disfavoreivlamein	disfavoreivlamein	1.0	None
+disfortunadamein	disfortunadamein	1.0	None
+disgraziadamein	disgraziadamein	1.0	None
+disgusteivel	disgusteivel	1.0	None
+disniesch	disniesch	1.0	None
+disnies	disnies	1.0	None
+disniev	disniev	1.0	None
+disper	disper	1.0	None
+dispet	dispet	1.0	None
+dispetg	dispetg	1.0	None
+displascheivlamein	displascheivlamein	1.0	None
+ditg	ditg	1.0	None
+divers	divers	1.0	None
+diversamein	diversamein	1.0	None
+dolorusamein	dolorusamein	1.0	None
+dolusamein	dolusamein	1.0	None
+domisdus	domisdus	1.0	None
+domidua	domidua	1.0	None
+domiduas	domiduas	1.0	None
+domidus	domidus	1.0	None
+domisduas	domisduas	1.0	None
+donn	donn	1.0	None
+donn	donald	0.2	
+donn	donnerstag	0.2	
+dot	dot	1.0	None
+dretg	dretg	1.0	None
+dus	dus	1.0	None
+dua	dua	1.0	None
+dublamein	dublamein	1.0	None
+dudisch	dudisch	1.0	None
+dueivlamein	dueivlamein	1.0	None
+duidamein	duidamein	1.0	None
+dumpergi	dumpergi	1.0	None
+duront	duront	1.0	None
+seduvreis?	seduvreis?	1.0	None
+dudischavel	dudischavel	1.0	None
+daven	daven	1.0	None
+davenda	davenda	1.0	None
+e	e	1.0	None
+e	egliuns	0.2	
+e	eritre	0.2	
+e	edrel	0.2	
+e	erferv	0.2	
+e	eissa	0.2	
+e	elina	0.2	
+e	endischina	0.2	
+e	etta	0.2	
+e	ell	0.2	
+e	emanuele	0.2	
+e	eine	0.2	
+e	engiadinesas	0.2	
+e	eav	0.2	
+e	einet	0.2	
+e	emoticons	0.2	
+e	elia	0.2	
+e	egn	0.2	
+e	extenso	0.2	
+e	em	0.2	
+e	endamaun	0.2	
+e	europe	0.2	
+e	eba	0.2	
+e	elegiu	0.2	
+e	ev	0.2	
+e	etschasu	0.2	
+e	endatar	0.2	
+e	escher	0.2	
+e	enzatgei	0.2	
+e	enya	0.2	
+e	entratga	0.2	
+e	emia	0.2	
+e	edan	0.2	
+e	estsga	0.2	
+e	enzatgi	0.2	
+e	enzacontas	0.2	
+e	erreger	0.2	
+e	engiadin	0.2	
+e	eva	0.2	
+e	elfchen	0.2	
+e	et	0.2	
+e	everest	0.2	
+e	enaquei	0.2	
+e	ette	0.2	
+e	endamen	0.2	
+e	exabrutta	0.2	
+e	ent	0.2	
+e	effectar	0.2	
+e	esmetetbr	0.2	
+e	elisa	0.2	
+e	empi	0.2	
+e	essser	0.2	
+e	elegesses	0.2	
+e	ettel	0.2	
+e	empugn	0.2	
+e	enfalla	0.2	
+e	entratgas	0.2	
+e	engiadinas	0.2	
+e	egalmein	0.2	
+e	ena	0.2	
+e	eu	0.2	
+e	ele-fant	0.2	
+e	eisi	0.2	
+e	emilia	0.2	
+e	eolicas	0.2	
+e	escha	0.2	
+e	evalina	0.2	
+e	epla	0.2	
+e	emparond	0.2	
+e	enonuscheis	0.2	
+e	equinotg	0.2	
+e	egipzians	0.2	
+e	emanuel	0.2	
+e	elinu	0.2	
+e	ennis	0.2	
+e	enot	0.2	
+e	e.a.v	0.2	
+e	end	0.2	
+e	enlu	0.2	
+e	egli	0.2	
+e	eidas	0.2	
+e	emarmels	0.2	
+e	eche	0.2	
+e	excursziun	0.2	
+e	enda	0.2	
+e	etc	0.2	
+e	enqualina	0.2	
+e	est	0.2	
+e	encurend	0.2	
+e	eilas	0.2	
+e	embullau	0.2	
+e	ember	0.2	
+e	esa	0.2	
+e	ellas	0.2	
+e	evtl	0.2	
+eclatantamein	eclatantamein	1.0	None
+ed	ed	1.0	None
+ed	edrel	0.2	
+ed	edan	0.2	
+effectivamein	effectivamein	1.0	None
+egal	egal	1.0	None
+egal	egalmein	0.2	ADV
+ei	ei	1.0	None
+ei	eilas	0.2	
+ei	einet	0.2	
+ei	eissa	0.2	
+ei	eine	0.2	
+ei	eidas	0.2	
+ei	eisi	0.2	
+eigeli	eigeli	1.0	None
+eminentamein	eminentamein	1.0	None
+empaglia	empaglia	1.0	None
+emparun	emparun	1.0	None
+emparun	emparond	0.2	
+empau	empau	1.0	None
+empau	emparond	0.2	
+empei	empei	1.0	None
+empeil	empeil	1.0	None
+empermal	empermal	1.0	None
+empermiez	empermiez	1.0	None
+emplat	emplat	1.0	None
+sill'empora	sill'empora	1.0	None
+emprun	emprun	1.0	None
+ell'america	ell'america	1.0	None
+en	en	1.0	None
+en	enzatgi	0.2	
+en	enzacontas	0.2	
+en	enlu	0.2	
+en	enfalla	0.2	
+en	endischina	0.2	
+en	entratgas	0.2	
+en	engiadinas	0.2	
+en	engiadinesas	0.2	
+en	engiadin	0.2	
+en	ena	0.2	
+en	enda	0.2	
+en	endamaun	0.2	
+en	enaquei	0.2	
+en	enqualina	0.2	
+en	endatar	0.2	
+en	encurend	0.2	
+en	endamen	0.2	
+en	enzatgei	0.2	
+en	enonuscheis	0.2	
+en	enya	0.2	
+en	entratga	0.2	
+en	ent	0.2	
+en	ennis	0.2	
+en	enot	0.2	
+en	end	0.2	
+enadem	enadem	1.0	None
+enagiu	enagiu	1.0	None
+enamiez	enamiez	1.0	None
+enaquella	enaquella	1.0	None
+enasi	enasi	1.0	None
+enasisum	enasisum	1.0	None
+encanuras	encanuras	1.0	None
+encheu	encheu	1.0	None
+encomi	encomi	1.0	None
+enconuschentamein	enconuschentamein	1.0	None
+encuntercomi	encuntercomi	1.0	None
+encuntercomia	encuntercomia	1.0	None
+endaquella	endaquella	1.0	None
+endatier	endatier	1.0	None
+endi	endi	1.0	None
+endi	endamaun	0.2	
+endi	endischina	0.2	
+endi	endatar	0.2	
+endi	enda	0.2	
+endi	endamen	0.2	
+endi	end	0.2	
+endinadamein	endinadamein	1.0	None
+endinau	endinau	1.0	None
+endisch	endisch	1.0	None
+endisch	endischina	0.2	
+endossament	endossament	1.0	None
+enduras	enduras	1.0	None
+energicamein	energicamein	1.0	None
+enfin	enfin	1.0	None
+ell'engiadina	ell'engiadina	1.0	None
+engiu	engiu	1.0	None
+engiu	engiadinas	0.2	
+engiu	engiadin	0.2	
+engiu	engiadinesas	0.2	
+engiu!	engiu!	1.0	None
+engiuviars	engiuviars	1.0	None
+engrau	engrau	1.0	None
+engraziel	engraziel	1.0	None
+engrossa	engrossa	1.0	None
+enguord	enguord	1.0	None
+enguordamein	enguordamein	1.0	None
+enguot	enguot	1.0	None
+enina	enina	1.0	None
+enneu	enneu	1.0	None
+enorm	enorm	1.0	None
+enormamein	enormamein	1.0	None
+enqualcaussa	enqualcaussa	1.0	None
+enqualche	enqualche	1.0	None
+enqualga	enqualga	1.0	None
+enqualga	enqualina	0.2	
+enqualgadas	enqualgadas	1.0	None
+enqualin	enqualin	1.0	None
+enqualin	enqualina	0.2	
+enqualtgin	enqualtgin	1.0	None
+ensalv	ensalv	1.0	None
+enschei	enschei	1.0	None
+ensembel	ensembel	1.0	None
+ensemblamein	ensemblamein	1.0	None
+ensemel	ensemel	1.0	None
+ensemen	ensemen	1.0	None
+ensemen!	ensemen!	1.0	None
+ensi	ensi	1.0	None
+d'ensi	d'ensi	1.0	None
+ensi!	ensi!	1.0	None
+ensiviars	ensiviars	1.0	None
+enstagl	enstagl	1.0	None
+insumma	insumma	1.0	None
+ensumma	ensumma	1.0	None
+ensurin	ensurin	1.0	None
+ensut	ensut	1.0	None
+enta	enta	1.0	None
+enta	entratgas	0.2	
+enta	ent	0.2	
+enta	entratga	0.2	
+entadem	entadem	1.0	None
+entafuns	entafuns	1.0	None
+entagiu	entagiu	1.0	None
+entamaun	entamaun	1.0	None
+entamiez	entamiez	1.0	None
+entapeis	entapeis	1.0	None
+entasi	entasi	1.0	None
+entasisum	entasisum	1.0	None
+entasum	entasum	1.0	None
+entelgeivel	entelgeivel	1.0	None
+entelgeivlamein	entelgeivlamein	1.0	None
+entelgenteivlamein	entelgenteivlamein	1.0	None
+entelletg	entelletg	1.0	None
+enten	enten	1.0	None
+entgiert	entgiert	1.0	None
+entgin	entgin	1.0	None
+entgins	entgins	1.0	None
+entginamein	entginamein	1.0	None
+entier	entier	1.0	None
+entiramein	entiramein	1.0	None
+entochen	entochen	1.0	None
+entocca	entocca	1.0	None
+entras	entras	1.0	None
+entras	entratgas	0.2	
+entras	entratga	0.2	
+entras!	entras!	1.0	None
+entras!	entratgas	0.2	
+entras!	entratga	0.2	
+entratgamein	entratgamein	1.0	None
+entraviers	entraviers	1.0	None
+entroma	entroma	1.0	None
+dall'entschatta	dall'entschatta	1.0	None
+entuorn	entuorn	1.0	None
+entuorn!	entuorn!	1.0	None
+envan	envan	1.0	None
+envaun	envaun	1.0	None
+envi	envi	1.0	None
+enviers	enviers	1.0	None
+enzaco	enzaco	1.0	None
+enzaco	enzacontas	0.2	
+enzacons	enzacons	1.0	None
+enzacons	enzacontas	0.2	
+enzacu	enzacu	1.0	None
+enzacu	enzacontas	0.2	
+enzacuras	enzacuras	1.0	None
+enzanua	enzanua	1.0	None
+enzanunder	enzanunder	1.0	None
+enzatgeinins	enzatgeinins	1.0	None
+epi	epi	1.0	None
+era	era	1.0	None
+eri	eri	1.0	None
+eri	eritre	0.2	
+essend	essend	1.0	None
+essenzialmein	essenzialmein	1.0	None
+eternamein	eternamein	1.0	None
+eunca	eunca	1.0	None
+evader	evader	1.0	None
+evas	evas	1.0	None
+evas	eva	0.2	
+evas	evalina	0.2	
+eventualmein	eventualmein	1.0	None
+evidentamein	evidentamein	1.0	None
+eviva	eviva	1.0	None
+exact	exact	1.0	None
+exactamein	exactamein	1.0	None
+excellentamein	excellentamein	1.0	None
+excepiu	excepiu	1.0	None
+exceptuau	exceptuau	1.0	None
+excepziunadamein	excepziunadamein	1.0	None
+excepziunalmein	excepziunalmein	1.0	None
+excessivamein	excessivamein	1.0	None
+exclusivamein	exclusivamein	1.0	None
+exemplarmein	exemplarmein	1.0	None
+exnum	exnum	1.0	None
+s'explicar	s'explicar	1.0	None
+explicitamein	explicitamein	1.0	None
+express	express	1.0	None
+expressamein	expressamein	1.0	None
+expressivamein	expressivamein	1.0	None
+extendidamein	extendidamein	1.0	None
+exteriuramein	exteriuramein	1.0	None
+exteriurmein	exteriurmein	1.0	None
+extra	extra	1.0	None
+extraordinari	extraordinari	1.0	None
+extraordinariamein	extraordinariamein	1.0	None
+lez	lez	1.0	None
+lez	lezs	0.2	
+lez	lezz	0.2	
+lez	lezzas	0.2	
+ezs	ezs	1.0	None
+ezzas	ezzas	1.0	None
+facticamein	facticamein	1.0	None
+facultativamein	facultativamein	1.0	None
+falliu!	falliu!	1.0	None
+falliu	falliu	1.0	None
+far	far	1.0	None
+far	fararda	0.2	
+far	far-gliuns	0.2	
+far	farcaglia	0.2	
+far	farvagond	0.2	
+fauls	fauls	1.0	None
+faulsamein	faulsamein	1.0	None
+favoreivlamein	favoreivlamein	1.0	None
+fegher	fegher	1.0	None
+feltischen!	feltischen!	1.0	None
+feltischen!	feltischen	0.2	
+fenziadamein	fenziadamein	1.0	None
+ferm	ferm	1.0	None
+ferm	ferrada	0.2	
+ferm	ferroviar	0.2	
+ferm	ferdond	0.2	
+fermamein	fermamein	1.0	None
+ferton	ferton	1.0	None
+ferventamein	ferventamein	1.0	None
+fetg	fetg	1.0	None
+fitgar	fitgar	1.0	None
+fetga	fetga	1.0	None
+fictivamein	fictivamein	1.0	None
+fideivlamein	fideivlamein	1.0	None
+fierliforli	fierliforli	1.0	None
+filadamein	filadamein	1.0	None
+filastre	filastre	1.0	None
+filastreha	filastreha	1.0	None
+filau	filau	1.0	None
+fin	fin	1.0	None
+fin	finadina	0.2	
+fin	finiastretta	0.2	
+fin	finet	0.2	
+fin	finiastrunas	0.2	
+fin	finnamein	0.2	
+fin	finton	0.2	
+fin	finiastra-cuschina	0.2	
+finadin	finadin	1.0	None
+finadin	finadina	0.2	
+finfinala	finfinala	1.0	None
+finala	finala	1.0	None
+finalmein	finalmein	1.0	None
+finamai	finamai	1.0	None
+finanzialmein	finanzialmein	1.0	None
+finfatg	finfatg	1.0	None
+finis	finis	1.0	None
+finis	finiastrunas	0.2	
+finis	finiastretta	0.2	
+finis	finiastra-cuschina	0.2	
+fitgadamein	fitgadamein	1.0	None
+flexiblamein	flexiblamein	1.0	None
+flissiamein	flissiamein	1.0	None
+flot	flot	1.0	None
+flot	floribus	0.2	
+formalmein	formalmein	1.0	None
+forsa	forsa	1.0	None
+fort	fort	1.0	None
+fort	fortius	0.2	
+fort	for	0.2	
+fortunadamein	fortunadamein	1.0	None
+forza!	forza!	1.0	None
+forza	forza	1.0	None
+franc	franc	1.0	None
+francamein	francamein	1.0	None
+franchissim	franchissim	1.0	None
+fraternamein	fraternamein	1.0	None
+fravgia	fravgia	1.0	None
+fravia	fravia	1.0	None
+freidamein	freidamein	1.0	None
+frequentamein	frequentamein	1.0	None
+frestg	frestg	1.0	None
+frestg!	frestg!	1.0	None
+frestgamein	frestgamein	1.0	None
+fretg	fretg	1.0	None
+frontschamein	frontschamein	1.0	None
+fui	fui	1.0	None
+fundadamein	fundadamein	1.0	None
+fundamentalmein	fundamentalmein	1.0	None
+fundar	fundar	1.0	None
+furdibal	furdibal	1.0	None
+furiusamein	furiusamein	1.0	None
+furt	furt	1.0	None
+furt	furnicla	0.2	
+furt	furschond	0.2	
+furt	furmica	0.2	
+furtinusamein	furtinusamein	1.0	None
+ga	ga	1.0	None
+ga	ganz	0.2	
+ga	garnun	0.2	
+ga	gabriel	0.2	
+ga	garnien	0.2	
+ga	garn	0.2	
+inaga	inaga	1.0	None
+gagliardamein	gagliardamein	1.0	None
+galant	galant	1.0	None
+galantamein	galantamein	1.0	None
+garantiu	garantiu	1.0	None
+garmadiamein	garmadiamein	1.0	None
+garniala	garniala	1.0	None
+generalmein	generalmein	1.0	None
+generusamein	generusamein	1.0	None
+gentilmein	gentilmein	1.0	None
+gest	gest	1.0	None
+gestamein	gestamein	1.0	None
+geunuardi	geunuardi	1.0	None
+gi	gi	1.0	None
+gi	gianterenen	0.2	
+gi	giusut	0.2	
+gi	giuadord	0.2	
+gi	giaccu	0.2	
+gi	giull	0.2	
+gi	giuvenessens	0.2	
+gi	giaveisch	0.2	
+gi	giaccamaula	0.2	
+gi	giovedì	0.2	
+gi	giavüsch	0.2	
+gi	giachen	0.2	
+gi	gigiar	0.2	
+gi	gions	0.2	
+gi	giastescha	0.2	
+gi	gieri	0.2	
+gi	gim	0.2	
+gi	gid	0.2	
+gi	gianna	0.2	
+gi	gieviga	0.2	
+gi	giulia	0.2	
+gi	giuls	0.2	
+gi	gian-andri	0.2	
+gi	giada	0.2	
+gi	giusta	0.2	
+gi	giuncher-quet	0.2	
+gi	gionin	0.2	
+gi	giaglina	0.2	
+gia	gia	1.0	None
+gia	gian-andri	0.2	
+gia	giaveisch	0.2	
+gia	giada	0.2	
+gia	giastescha	0.2	
+gia	giaccamaula	0.2	
+gia	gianterenen	0.2	
+gia	gianna	0.2	
+gia	giavüsch	0.2	
+gia	giaglina	0.2	
+gia	giachen	0.2	
+gia	giaccu	0.2	
+giacunmaula	giacunmaula	1.0	None
+giacamaula	giacamaula	1.0	None
+giachischoras	giachischoras	1.0	None
+giacun	giacun	1.0	None
+gianter!	gianter!	1.0	None
+gianter!	gianterenen	0.2	
+gianterenen!	gianterenen!	1.0	None
+gianterenen!	gianterenen	0.2	
+giavel!	giavel!	1.0	None
+giavel!	giaveisch	0.2	
+giavelen	giavelen	1.0	None
+giavetschen	giavetschen	1.0	None
+gie	gie	1.0	None
+gie	gieviga	0.2	
+gie	gieri	0.2	
+giebein	giebein	1.0	None
+gieunuardi	gieunuardi	1.0	None
+gigin	gigin	1.0	None
+gigin	gigiar	0.2	
+gissiat	gissiat	1.0	None
+git	git	1.0	None
+gitatsch	gitatsch	1.0	None
+gitg	gitg	1.0	None
+giu	giu	1.0	None
+giu	giuvenessens	0.2	
+giu	giuadord	0.2	
+giu	giull	0.2	
+giu	giusta	0.2	
+giu	giuncher-quet	0.2	
+giu	giusut	0.2	
+giu	giulia	0.2	
+giu	giuls	0.2	
+giull'ogna	giull'ogna	1.0	None
+giuaden	giuaden	1.0	None
+giuaden	giuadord	0.2	
+giuado	giuado	1.0	None
+giuado	giuadord	0.2	
+giuadora	giuadora	1.0	None
+giuadora	giuadord	0.2	
+giubass	giubass	1.0	None
+giud	giud	1.0	None
+giud	giuvenessens	0.2	
+giud	giuadord	0.2	
+giud	giull	0.2	
+giud	giusta	0.2	
+giud	giuncher-quet	0.2	
+giud	giusut	0.2	
+giud	giulia	0.2	
+giud	giuls	0.2	
+giudamaun	giudamaun	1.0	None
+giudapeis	giudapeis	1.0	None
+giudasum	giudasum	1.0	None
+giudavon	giudavon	1.0	None
+giudavos	giudavos	1.0	None
+giudem	giudem	1.0	None
+giudentuorn	giudentuorn	1.0	None
+giudizialmein	giudizialmein	1.0	None
+giudlunder	giudlunder	1.0	None
+giudvia	giudvia	1.0	None
+giufuns	giufuns	1.0	None
+giugl	giugl	1.0	None
+giuhè	giuhè	1.0	None
+giuhu	giuhu	1.0	None
+giul	giul	1.0	None
+giul	giuvenessens	0.2	
+giul	giuadord	0.2	
+giul	giull	0.2	
+giul	giusta	0.2	
+giul	giuncher-quet	0.2	
+giul	giusut	0.2	
+giul	giulia	0.2	
+giul	giuls	0.2	
+giulla	giulla	1.0	None
+giulla	giull	0.2	
+giun	giun	1.0	None
+giun	giuvenessens	0.2	
+giun	giuadord	0.2	
+giun	giull	0.2	
+giun	giusta	0.2	
+giun	giuncher-quet	0.2	
+giun	giusut	0.2	
+giun	giulia	0.2	
+giun	giuls	0.2	
+giuntras	giuntras	1.0	None
+giuper	giuper	1.0	None
+giuridicamein	giuridicamein	1.0	None
+giusum	giusum	1.0	None
+giusum	giusut	0.2	
+giutier	giutier	1.0	None
+giuvenotter	giuvenotter	1.0	None
+giuviars	giuviars	1.0	None
+gleiti	gleiti	1.0	None
+gleiti	gleitiamein	0.2	ADV
+glieci	glieci	1.0	None
+gliez	gliez	1.0	None
+gliez	gliendras	0.2	
+gliezi	gliezi	1.0	None
+glis	glis	1.0	None
+glis	gliendras	0.2	
+glis	glimar	0.2	
+glis	glischan	0.2	
+glis	glischonta	0.2	
+glis	glischont	0.2	
+globalmein	globalmein	1.0	None
+gloriusamein	gloriusamein	1.0	None
+gluc	gluc	1.0	None
+gnalis	gnalis	1.0	None
+gnanc	gnanc	1.0	None
+gnanca	gnanca	1.0	None
+gniu	gniu	1.0	None
+gniu	gniv	0.2	
+grad	grad	1.0	None
+grad	grammatia	0.2	
+grad	graficher	0.2	
+grad	granteni	0.2	
+grad	graficra	0.2	
+grad	grav	0.2	
+grada	grada	1.0	None
+graderi	graderi	1.0	None
+gradualmein	gradualmein	1.0	None
+grammaticalmein	grammaticalmein	1.0	None
+graschel	graschel	1.0	None
+gratis	gratis	1.0	None
+gratuitamein	gratuitamein	1.0	None
+gravur	gravur	1.0	None
+graziusamein	graziusamein	1.0	None
+grev	grev	1.0	None
+grev	grettina	0.2	
+grev	grezia	0.2	
+grev	grecs	0.2	
+grev	grecas	0.2	
+grev	gre	0.2	
+grev	greca	0.2	
+grevamein	grevamein	1.0	None
+gries	gries	1.0	None
+grimmamein	grimmamein	1.0	None
+grit	grit	1.0	None
+grit	grizs	0.2	
+grit	gringrin	0.2	
+gritta	gritta	1.0	None
+grond	grond	1.0	None
+grond	grondeziadil	0.2	
+grondamein	grondamein	1.0	None
+groppamein	groppamein	1.0	None
+gross	gross	1.0	None
+grossa	grossa	1.0	None
+guess	guess	1.0	None
+guess	guessas	0.2	
+guess	guessa	0.2	
+guessamein	guessamein	1.0	None
+guessissim	guessissim	1.0	None
+habitualmein	habitualmein	1.0	None
+hanau	hanau	1.0	None
+hentger	hentger	1.0	None
+hocsi	hocsi	1.0	None
+hutli	hutli	1.0	None
+halt	halt	1.0	None
+hanadamein	hanadamein	1.0	None
+hau	hau	1.0	None
+hazer	hazer	1.0	None
+hefti	hefti	1.0	None
+heissum	heissum	1.0	None
+her	her	1.0	None
+hess	hess	1.0	None
+hessa	hessa	1.0	None
+hezi	hezi	1.0	None
+hezi	heziamein	0.2	ADV
+hi	hi	1.0	None
+hi	hidrogenica	0.2	
+hi	historietta	0.2	
+hia	hia	1.0	None
+historicamein	historicamein	1.0	None
+hofli	hofli	1.0	None
+hofliamein	hofliamein	1.0	None
+hoi!	hoi!	1.0	None
+holiho	holiho	1.0	None
+honestamein	honestamein	1.0	None
+honorificamein	honorificamein	1.0	None
+honzeliamein	honzeliamein	1.0	None
+hop	hop	1.0	None
+hoppa	hoppa	1.0	None
+hopsa	hopsa	1.0	None
+hopsassa	hopsassa	1.0	None
+horrent	horrent	1.0	None
+horribel	horribel	1.0	None
+hosanna	hosanna	1.0	None
+host	host	1.0	None
+hotten	hotten	1.0	None
+uimo	uimo	1.0	None
+hueima	hueima	1.0	None
+humanamein	humanamein	1.0	None
+hurti	hurti	1.0	None
+hurtiamein	hurtiamein	1.0	None
+husch	husch	1.0	None
+huscha	huscha	1.0	None
+husliamein	husliamein	1.0	None
+ha!	ha!	1.0	None
+hoscha	hoscha	1.0	None
+hoppaheia	hoppaheia	1.0	None
+hui	hui	1.0	None
+hn	hn	1.0	None
+hallo	hallo	1.0	None
+heissa	heissa	1.0	None
+haliho	haliho	1.0	None
+hei	hei	1.0	None
+hutga	hutga	1.0	None
+hurra	hurra	1.0	None
+hebau	hebau	1.0	None
+ha?	ha?	1.0	None
+hip	hip	1.0	None
+haua	haua	1.0	None
+hau!	hau!	1.0	None
+hotsch	hotsch	1.0	None
+huz	huz	1.0	None
+huora	huora	1.0	None
+ho	ho	1.0	None
+ho	hom	0.2	
+ho	hou	0.2	
+hotviò	hotviò	1.0	None
+hezum	hezum	1.0	None
+hoc	hoc	1.0	None
+hist	hist	1.0	None
+hist	historietta	0.2	
+hist!	hist!	1.0	None
+hist!	historietta	0.2	
+hot	hot	1.0	None
+hedai	hedai	1.0	None
+hoi	hoi	1.0	None
+holla	holla	1.0	None
+hertan	hertan	1.0	None
+hebauf	hebauf	1.0	None
+hiaheia	hiaheia	1.0	None
+hopla	hopla	1.0	None
+i	i	1.0	None
+i	inquietamein	0.2	
+i	inferiuramein	0.2	
+i	i-aaa	0.2	
+i	ildo	0.2	
+i	isch	0.2	
+i	invanamein	0.2	
+i	intader	0.2	
+i	iglun	0.2	
+i	informaticher	0.2	
+i	ino	0.2	
+i	ilo	0.2	
+i	im	0.2	
+i	ist	0.2	
+i	incl	0.2	
+i	intau	0.2	
+i	iglus	0.2	
+i	ie	0.2	
+i	inferiurmein	0.2	
+i	irai	0.2	
+i	insa	0.2	
+i	is	0.2	
+i	isbn	0.2	
+i	imprest	0.2	
+i	iel	0.2	
+i	infinitv	0.2	
+i	iadi	0.2	
+i	ial	0.2	
+i	intrigaas	0.2	
+i	indiana	0.2	
+i	internaliseschan	0.2	
+i	ii	0.2	
+i	instontamein	0.2	
+i	iun	0.2	
+i	inha	0.2	
+i	ilscav	0.2	
+i	issima	0.2	
+i	intro	0.2	
+i	indics	0.2	
+i	inedi	0.2	
+i	inexordi	0.2	
+i	iosc	0.2	
+i	ivo	0.2	
+i	incognitamein	0.2	
+i	iv	0.2	
+i	ign	0.2	
+i	imaia	0.2	
+i	informaticra	0.2	
+i	india	0.2	
+i	igar	0.2	
+i	indians	0.2	
+i	ignur	0.2	
+i	inschegnier	0.2	
+i	ijklmn	0.2	
+i	iglu	0.2	
+i	issopyxos	0.2	
+i	ient	0.2	
+i	itad	0.2	
+i	intar	0.2	
+i	iet	0.2	
+i	intgaubri	0.2	
+i	irina	0.2	
+i	ilc	0.2	
+i	interciti	0.2	
+i	isidor	0.2	
+i	iera	0.2	
+i	igniel	0.2	
+i	incorrectamein	0.2	
+i	issim	0.2	
+i	igitt	0.2	
+i	ials	0.2	
+i	ittanza	0.2	
+i	ilofon	0.2	
+ia	ia	1.0	None
+ia	ial	0.2	
+ia	ials	0.2	
+ia	iadi	0.2	
+idealmein	idealmein	1.0	None
+idem	idem	1.0	None
+ier	ier	1.0	None
+ier	iera	0.2	
+ierendamaun	ierendamaun	1.0	None
+iersera	iersera	1.0	None
+iertg	iertg	1.0	None
+ifriamein	ifriamein	1.0	None
+igl	igl	1.0	None
+igl	iglun	0.2	
+igl	iglu	0.2	
+igl	iglus	0.2	
+ignè	ignè	1.0	None
+ignè	ign	0.2	
+ignè	igniel	0.2	
+ignè	ignur	0.2	
+il	il	1.0	None
+il	ilscav	0.2	
+il	ildo	0.2	
+il	ilc	0.2	
+il	ilo	0.2	
+il	ilofon	0.2	
+illegalmein	illegalmein	1.0	None
+illegitimamein	illegitimamein	1.0	None
+illimitadamein	illimitadamein	1.0	None
+illoialmein	illoialmein	1.0	None
+immediat	immediat	1.0	None
+immediatamein	immediatamein	1.0	None
+immens	immens	1.0	None
+imperiusamein	imperiusamein	1.0	None
+imperturbadamein	imperturbadamein	1.0	None
+implicitamein	implicitamein	1.0	None
+importunamein	importunamein	1.0	None
+improvistamein	improvistamein	1.0	None
+d'impurtonza	d'impurtonza	1.0	None
+in	in	1.0	None
+in	inquietamein	0.2	
+in	inferiuramein	0.2	
+in	intader	0.2	
+in	invanamein	0.2	
+in	informaticher	0.2	
+in	ino	0.2	
+in	incl	0.2	
+in	intau	0.2	
+in	inferiurmein	0.2	
+in	insa	0.2	
+in	infinitv	0.2	
+in	intrigaas	0.2	
+in	indiana	0.2	
+in	internaliseschan	0.2	
+in	instontamein	0.2	
+in	inha	0.2	
+in	intro	0.2	
+in	indics	0.2	
+in	inedi	0.2	
+in	inexordi	0.2	
+in	incognitamein	0.2	
+in	informaticra	0.2	
+in	india	0.2	
+in	indians	0.2	
+in	inschegnier	0.2	
+in	intar	0.2	
+in	intgaubri	0.2	
+in	incorrectamein	0.2	
+in	interciti	0.2	
+l'ina	l'ina	1.0	None
+inaparts	inaparts	1.0	None
+inappellablamein	inappellablamein	1.0	None
+inclusivamein	inclusivamein	1.0	None
+incognito	incognito	1.0	None
+incognito	incognitamein	0.2	
+incontestabel	incontestabel	1.0	None
+incontin	incontin	1.0	None
+all'incontinenta	all'incontinenta	1.0	None
+incumpetentamein	incumpetentamein	1.0	None
+incuntin	incuntin	1.0	None
+d'incuntin	d'incuntin	1.0	None
+incuntrari	incuntrari	1.0	None
+incuntrastablamein	incuntrastablamein	1.0	None
+indentergliauter	indentergliauter	1.0	None
+independentamein	independentamein	1.0	None
+indeterminadamein	indeterminadamein	1.0	None
+indifferentamein	indifferentamein	1.0	None
+indirectamein	indirectamein	1.0	None
+indiscretamein	indiscretamein	1.0	None
+indispensablamein	indispensablamein	1.0	None
+indistinctamein	indistinctamein	1.0	None
+individualmein	individualmein	1.0	None
+indubitablamein	indubitablamein	1.0	None
+inengliauter	inengliauter	1.0	None
+inevitablamein	inevitablamein	1.0	None
+infalliblamein	infalliblamein	1.0	None
+infinitamein	infinitamein	1.0	None
+ingeniusamein	ingeniusamein	1.0	None
+engronda	engronda	1.0	None
+ingronda	ingronda	1.0	None
+ingrossa	ingrossa	1.0	None
+inguot	inguot	1.0	None
+iniziativ	iniziativ	1.0	None
+innocentamein	innocentamein	1.0	None
+inopinadamein	inopinadamein	1.0	None
+ins	ins	1.0	None
+ins	insa	0.2	
+ins	instontamein	0.2	
+ins	inschegnier	0.2	
+insapientivamein	insapientivamein	1.0	None
+inschigneivlamein	inschigneivlamein	1.0	None
+insensiblamein	insensiblamein	1.0	None
+inseparablamein	inseparablamein	1.0	None
+insistentamein	insistentamein	1.0	None
+instant	instant	1.0	None
+instantamein	instantamein	1.0	None
+instantissimamein	instantissimamein	1.0	None
+instinctivamein	instinctivamein	1.0	None
+insurin	insurin	1.0	None
+d'insurin	d'insurin	1.0	None
+intactamein	intactamein	1.0	None
+integralmein	integralmein	1.0	None
+intensivamein	intensivamein	1.0	None
+intenziunadamein	intenziunadamein	1.0	None
+interessadamein	interessadamein	1.0	None
+interessantamein	interessantamein	1.0	None
+interim	interim	1.0	None
+interim	internaliseschan	0.2	
+interim	interciti	0.2	
+interiuramein	interiuramein	1.0	None
+interiurmein	interiurmein	1.0	None
+intermediarmein	intermediarmein	1.0	None
+internamein	internamein	1.0	None
+internaziunalmein	internaziunalmein	1.0	None
+interpretatoriamein	interpretatoriamein	1.0	None
+intestadamein	intestadamein	1.0	None
+intim	intim	1.0	None
+intimamein	intimamein	1.0	None
+inton	inton	1.0	None
+intragliauter	intragliauter	1.0	None
+intrepidamein	intrepidamein	1.0	None
+intuitivamein	intuitivamein	1.0	None
+involuntaramein	involuntaramein	1.0	None
+involuntarmein	involuntarmein	1.0	None
+ironicamein	ironicamein	1.0	None
+irreguladamein	irreguladamein	1.0	None
+irresistiblamein	irresistiblamein	1.0	None
+irrevocablamein	irrevocablamein	1.0	None
+irritadamein	irritadamein	1.0	None
+isoladamein	isoladamein	1.0	None
+istess	istess	1.0	None
+item	item	1.0	None
+l'auter	l'auter	1.0	None
+l'autra	l'autra	1.0	None
+ilsezs	ilsezs	1.0	None
+ina	ina	1.0	None
+intons	intons	1.0	None
+mintg'jamna	mintg'jamna	1.0	None
+l'autr'jamna	l'autr'jamna	1.0	None
+jamnilmein	jamnilmein	1.0	None
+je	je	1.0	None
+je	jesses	0.2	
+je	jerry	0.2	
+je	jericho	0.2	
+je	jeudi	0.2	
+je	jegher	0.2	
+jegher!	jegher!	1.0	None
+jegher!	jegher	0.2	
+jerum	jerum	1.0	None
+jessas	jessas	1.0	None
+jeu	jeu	1.0	None
+jeu	jeudi	0.2	
+jeus!	jeus!	1.0	None
+jeus	jeus	1.0	None
+jeus	jeudi	0.2	
+jeussas	jeussas	1.0	None
+juhé!	juhé!	1.0	None
+jur	jur	1.0	None
+jur	jure	0.2	
+lad	lad	1.0	None
+lad	ladir	0.2	
+ladinamein	ladinamein	1.0	None
+langadibanc	langadibanc	1.0	None
+lartg	lartg	1.0	None
+largia	largia	1.0	None
+largiamein	largiamein	1.0	None
+las	las	1.0	None
+las	lasagne	0.2	
+lassiamein	lassiamein	1.0	None
+ledamein	ledamein	1.0	None
+legalmein	legalmein	1.0	None
+legher	legher	1.0	None
+legitimamein	legitimamein	1.0	None
+legramein	legramein	1.0	None
+legreivlamein	legreivlamein	1.0	None
+leider	leider	1.0	None
+leu	leu	1.0	None
+leudem	leudem	1.0	None
+leudengiu	leudengiu	1.0	None
+leudentuorn	leudentuorn	1.0	None
+leuen	leuen	1.0	None
+leuenagiu	leuenagiu	1.0	None
+leuenasi	leuenasi	1.0	None
+leugiu	leugiu	1.0	None
+leuo	leuo	1.0	None
+leuor	leuor	1.0	None
+leuora	leuora	1.0	None
+leuoragiu	leuoragiu	1.0	None
+leuorasi	leuorasi	1.0	None
+leusi	leusi	1.0	None
+leusperas	leusperas	1.0	None
+leusuenter	leusuenter	1.0	None
+leusura	leusura	1.0	None
+leutier	leutier	1.0	None
+leuvi	leuvi	1.0	None
+lev	lev	1.0	None
+lev	levatiu	0.2	
+levamein	levamein	1.0	None
+levet	levet	1.0	None
+lezz'uisa	lezz'uisa	1.0	None
+lezz'uisa!	lezz'uisa!	1.0	None
+lezza	lezza	1.0	None
+lezza	lezz	0.2	
+lezza	lezzas	0.2	
+liber	liber	1.0	None
+liber	liberaldemocratica	0.2	
+libramein	libramein	1.0	None
+lidi	lidi	1.0	None
+liditut	liditut	1.0	None
+lidinuot	lidinuot	1.0	None
+lidischen	lidischen	1.0	None
+liederlihamein	liederlihamein	1.0	None
+lien	lien	1.0	None
+lien	liederliamein	0.2	
+lien	liechtenstein	0.2	
+ligiontamein	ligiontamein	1.0	None
+lischnar	lischnar	1.0	None
+listess	listess	1.0	None
+littavelen!	littavelen!	1.0	None
+littavelen!	littavelen	0.2	
+litteralmein	litteralmein	1.0	None
+liung	liung	1.0	None
+logicamein	logicamein	1.0	None
+loialmein	loialmein	1.0	None
+lom	lom	1.0	None
+lomamein	lomamein	1.0	None
+lomia	lomia	1.0	None
+lomgna	lomgna	1.0	None
+lu	lu	1.0	None
+lu	lurenz	0.2	
+lu	lupo	0.2	
+lu	lun	0.2	
+lu	luisa	0.2	
+lu	lucas	0.2	
+lu	luregn	0.2	
+lu	lutz	0.2	
+lu	luana	0.2	
+lu	lundi	0.2	
+lu	luverdis	0.2	
+lu	lucmang	0.2	
+lu	lumbardond	0.2	
+lu	luin	0.2	
+lu	lunedì	0.2	
+lu	luca	0.2	
+lu	lumbrein	0.2	
+lunder	lunder	1.0	None
+lundergiu	lundergiu	1.0	None
+lundero	lundero	1.0	None
+lunderor	lunderor	1.0	None
+lunderora	lunderora	1.0	None
+lundervi	lundervi	1.0	None
+lunsch	lunsch	1.0	None
+lunschen	lunschen	1.0	None
+lunscho	lunscho	1.0	None
+lunschor	lunschor	1.0	None
+lunschora	lunschora	1.0	None
+lur	lur	1.0	None
+lur	luregn	0.2	
+lur	lurenz	0.2	
+lura	lura	1.0	None
+lura	luregn	0.2	
+lura	lurenz	0.2	
+luscha	luscha	1.0	None
+luscha!	luscha!	1.0	None
+luscha?	luscha?	1.0	None
+lutga!	lutga!	1.0	None
+mo	mo	1.0	None
+mo	moldau	0.2	
+mo	mond	0.2	
+mo	mount	0.2	
+mo	monino	0.2	
+mo	monica	0.2	
+mo	morse	0.2	
+mo	mortale	0.2	
+mo	monte	0.2	
+mo	morgana	0.2	
+mo	moto	0.2	
+mo	mobigliada	0.2	
+mo	mouse	0.2	
+mo	montgolfier	0.2	
+mo	montag	0.2	
+mo	monday	0.2	
+mo	monti	0.2	
+ma	ma	1.0	None
+ma	malguessamein	0.2	
+ma	madleina	0.2	
+ma	mannheim	0.2	
+ma	malcostass	0.2	
+ma	macort	0.2	
+ma	marsegia	0.2	
+ma	maletg-plaid	0.2	
+ma	malsegiramein	0.2	
+ma	maghersc	0.2	
+ma	maggi	0.2	
+ma	malmaun	0.2	
+ma	malrecliamein	0.2	
+ma	malo	0.2	
+ma	manetschs	0.2	
+ma	martedì	0.2	
+ma	madun	0.2	
+ma	malmanegiar	0.2	
+ma	magliabein	0.2	
+ma	maderana	0.2	
+ma	malgengliamein	0.2	
+ma	maneclamein	0.2	
+ma	marvamein	0.2	
+ma	ma-ne-scha	0.2	
+ma	malspelaus	0.2	
+ma	matterhorn-gottard	0.2	
+ma	maunpli	0.2	
+ma	mauro	0.2	
+ma	mardi	0.2	
+ma	mandala	0.2	
+ma	martina	0.2	
+ma	marveglamein	0.2	
+ma	materialienpaket	0.2	
+ma	mario	0.2	
+ma	masegn	0.2	
+ma	manzengas	0.2	
+ma	mantogna	0.2	
+ma	materialias	0.2	
+ma	marvigliond	0.2	
+ma	maletg-furmicler	0.2	
+ma	maiavilla	0.2	
+ma	malin	0.2	
+ma	marco	0.2	
+ma	maladina	0.2	
+ma	marteris	0.2	
+ma	malta	0.2	
+ma	marsa	0.2	
+ma	macortamein	0.2	
+ma	manettass	0.2	
+mache	mache	1.0	None
+mac	mac	1.0	None
+mac	macort	0.2	
+mac	macortamein	0.2	
+maca	maca	1.0	None
+maca	macort	0.2	
+maca	macortamein	0.2	
+macarun	macarun	1.0	None
+madinà	madinà	1.0	None
+madiramein	madiramein	1.0	None
+madrun	madrun	1.0	None
+magher	magher	1.0	None
+magher	maghersc	0.2	
+magistralmein	magistralmein	1.0	None
+magramein	magramein	1.0	None
+muganar	muganar	1.0	None
+maguna	maguna	1.0	None
+mah	mah	1.0	None
+mahoia	mahoia	1.0	None
+mai	mai	1.0	None
+mai	maiavilla	0.2	
+maiestusamein	maiestusamein	1.0	None
+maina	maina	1.0	None
+maiplimai	maiplimai	1.0	None
+mal	mal	1.0	None
+mal	malgengliamein	0.2	
+mal	malguessamein	0.2	
+mal	maletg-furmicler	0.2	
+mal	maletg-plaid	0.2	
+mal	malcostass	0.2	
+mal	malsegiramein	0.2	
+mal	malin	0.2	
+mal	maladina	0.2	
+mal	malmaun	0.2	
+mal	malta	0.2	
+mal	malrecliamein	0.2	
+mal	malo	0.2	
+mal	malspelaus	0.2	
+mal	malmanegiar	0.2	
+maladengrau	maladengrau	1.0	None
+malamein	malamein	1.0	None
+malaprau	malaprau	1.0	None
+malarusamein	malarusamein	1.0	None
+malatsch	malatsch	1.0	None
+malaveta	malaveta	1.0	None
+maldarpadamein	maldarpadamein	1.0	None
+maldau	maldau	1.0	None
+malefiz!	malefiz!	1.0	None
+malfatg	malfatg	1.0	None
+malgargeivlamein	malgargeivlamein	1.0	None
+malgengli	malgengli	1.0	None
+malgengli	malgengliamein	0.2	ADV
+malgest	malgest	1.0	None
+malgest	malgengliamein	0.2	
+malgestamein	malgestamein	1.0	None
+malgrad	malgrad	1.0	None
+malgrau	malgrau	1.0	None
+maliertg	maliertg	1.0	None
+maliertgamein	maliertgamein	1.0	None
+malissim	malissim	1.0	None
+maliziusamein	maliziusamein	1.0	None
+malnizeivlamein	malnizeivlamein	1.0	None
+malpatertgadamein	malpatertgadamein	1.0	None
+malpatertgau	malpatertgau	1.0	None
+malperdertamein	malperdertamein	1.0	None
+malperina	malperina	1.0	None
+malproporziunadamein	malproporziunadamein	1.0	None
+malprudentamein	malprudentamein	1.0	None
+malpusseivlamein	malpusseivlamein	1.0	None
+malremass	malremass	1.0	None
+malsegir	malsegir	1.0	None
+malsegir	malsegiramein	0.2	ADV
+malsemegliontamein	malsemegliontamein	1.0	None
+maltartau	maltartau	1.0	None
+maltemprontamein	maltemprontamein	1.0	None
+maltschec	maltschec	1.0	None
+maltscheccamein	maltscheccamein	1.0	None
+maltscheccatsch	maltscheccatsch	1.0	None
+maluardadamein	maluardadamein	1.0	None
+maluardau	maluardau	1.0	None
+maluliv	maluliv	1.0	None
+malurusamein	malurusamein	1.0	None
+malvuglidamein	malvuglidamein	1.0	None
+mana	mana	1.0	None
+mana	manzengas	0.2	
+mana	mantogna	0.2	
+mana	mannheim	0.2	
+mana	maneclamein	0.2	
+mana	mandala	0.2	
+mana	manetschs	0.2	
+mana	manettass	0.2	
+mancomal	mancomal	1.0	None
+manedel	manedel	1.0	None
+manedlamein	manedlamein	1.0	None
+maneivel	maneivel	1.0	None
+maneivlamein	maneivlamein	1.0	None
+manez	manez	1.0	None
+manez	manetschs	0.2	
+manez	maneclamein	0.2	
+manez	manettass	0.2	
+manezza	manezza	1.0	None
+mangari	mangari	1.0	None
+manifestamein	manifestamein	1.0	None
+maratra	maratra	1.0	None
+marcantamein	marcantamein	1.0	None
+mariamaratra	mariamaratra	1.0	None
+mareiamaratra	mareiamaratra	1.0	None
+marginalmein	marginalmein	1.0	None
+marsch	marsch	1.0	None
+marsialas	marsialas	1.0	None
+martuf	martuf	1.0	None
+murtirar	murtirar	1.0	None
+martuira	martuira	1.0	None
+marvegl	marvegl	1.0	None
+marvegl	marveglamein	0.2	ADV
+marvet	marvet	1.0	None
+marvet	marveglamein	0.2	
+maschinalmein	maschinalmein	1.0	None
+massa	massa	1.0	None
+massiv	massiv	1.0	None
+massivamein	massivamein	1.0	None
+matei	matei	1.0	None
+matei	materialias	0.2	
+matei	materialienpaket	0.2	
+materialmein	materialmein	1.0	None
+matrimonialmein	matrimonialmein	1.0	None
+mattina	mattina	1.0	None
+mau	mau	1.0	None
+mau	maunpli	0.2	
+mau	mauro	0.2	
+mauframein	mauframein	1.0	None
+maximalmein	maximalmein	1.0	None
+mecanicamein	mecanicamein	1.0	None
+medem	medem	1.0	None
+medemamein	medemamein	1.0	None
+mediocramein	mediocramein	1.0	None
+meglier	meglier	1.0	None
+megls	megls	1.0	None
+megls	meglee	0.2	
+memia	memia	1.0	None
+megna	megna	1.0	None
+mei	mei	1.0	None
+mei	meinacasa	0.2	
+meins	meins	1.0	None
+meins	meinacasa	0.2	
+meinsadual	meinsadual	1.0	None
+meinsanual	meinsanual	1.0	None
+meinsvart	meinsvart	1.0	None
+meisterilmein	meisterilmein	1.0	None
+mels	mels	1.0	None
+mels	melina	0.2	
+memez	memez	1.0	None
+memgna	memgna	1.0	None
+memi	memi	1.0	None
+memi	memori	0.2	
+memi	memoris	0.2	
+menduras	menduras	1.0	None
+mensilmein	mensilmein	1.0	None
+mentalmein	mentalmein	1.0	None
+mercantilmein	mercantilmein	1.0	None
+meret	meret	1.0	None
+meriteivlamein	meriteivlamein	1.0	None
+miu	miu	1.0	None
+miu	miurettas	0.2	
+miu	miuretta	0.2	
+mes	mes	1.0	None
+mes	mesirad	0.2	
+mes	mesirond	0.2	
+mes	mesosticon	0.2	
+mestrilmein	mestrilmein	1.0	None
+met	met	1.0	None
+met	mettin	0.2	
+metsch	metsch	1.0	None
+mettamein	mettamein	1.0	None
+metterza	metterza	1.0	None
+mez	mez	1.0	None
+mezza	mezza	1.0	None
+mi	mi	1.0	None
+mi	miezmiur	0.2	
+mi	miezaviertamein	0.2	
+mi	mi-cro-fon	0.2	
+mi	mindmap	0.2	
+mi	mintg	0.2	
+mi	mincar	0.2	
+mi	mickeymaus	0.2	
+mi	miragl	0.2	
+mi	mia-scla	0.2	
+mi	miauu	0.2	
+mi	mias	0.2	
+mi	misici	0.2	
+mi	michael	0.2	
+mi	miasla	0.2	
+mi	minikino	0.2	
+mi	michelangelo	0.2	
+mi	mirco	0.2	
+mi	mie	0.2	
+mi	mingle	0.2	
+mi	mickey	0.2	
+mi	miezgrevamein	0.2	
+mi	miurettas	0.2	
+mi	mittwoch	0.2	
+mi	minoris	0.2	
+mi	miuretta	0.2	
+mia	mia	1.0	None
+mia	mia-scla	0.2	
+mia	miauu	0.2	
+mia	mias	0.2	
+mia	miasla	0.2	
+miervi	miervi	1.0	None
+migeivlamein	migeivlamein	1.0	None
+milsanavon	milsanavon	1.0	None
+minimalmein	minimalmein	1.0	None
+mintga	mintga	1.0	None
+mintga	mintg	0.2	
+mintgabeinduras	mintgabeinduras	1.0	None
+mintgacass	mintgacass	1.0	None
+mintgadi	mintgadi	1.0	None
+mintgamai	mintgamai	1.0	None
+mintgasapocu	mintgasapocu	1.0	None
+mintgaton	mintgaton	1.0	None
+mintgazacu	mintgazacu	1.0	None
+mintgin	mintgin	1.0	None
+mintgin	mintg	0.2	
+mintgina	mintgina	1.0	None
+minus	minus	1.0	None
+minuziusamein	minuziusamein	1.0	None
+mira!	mira!	1.0	None
+mira!	miragl	0.2	
+miraculusamein	miraculusamein	1.0	None
+mirei!	mirei!	1.0	None
+miserabel	miserabel	1.0	None
+miserablamein	miserablamein	1.0	None
+mitgiert	mitgiert	1.0	None
+mobein	mobein	1.0	None
+muis	muis	1.0	None
+mois	mois	1.0	None
+momo	momo	1.0	None
+monduras	monduras	1.0	None
+mordio	mordio	1.0	None
+mortalmein	mortalmein	1.0	None
+mosch	mosch	1.0	None
+moscha	moscha	1.0	None
+moschapia	moschapia	1.0	None
+muc	muc	1.0	None
+mucs	mucs	1.0	None
+muder	muder	1.0	None
+muffun	muffun	1.0	None
+mun	mun	1.0	None
+mun	muntgogna	0.2	
+mun	munchenar	0.2	
+muort	muort	1.0	None
+mur	mur	1.0	None
+mur	murmignond	0.2	
+mur	murezi	0.2	
+mur	murala	0.2	
+mur	murezzan	0.2	
+mur	murlina	0.2	
+murdaria	murdaria	1.0	None
+murderia	murderia	1.0	None
+mureri	mureri	1.0	None
+mursin	mursin	1.0	None
+murtgeu	murtgeu	1.0	None
+murz	murz	1.0	None
+murz	murmignond	0.2	
+murz	murezi	0.2	
+murz	murala	0.2	
+murz	murezzan	0.2	
+murz	murlina	0.2	
+musch	musch	1.0	None
+musch	muscatelas	0.2	
+musch	muscat	0.2	
+muschmusch	muschmusch	1.0	None
+musinar	musinar	1.0	None
+muviu	muviu	1.0	None
+na	na	1.0	None
+na	nasi	0.2	
+na	naschar	0.2	
+na	nalu	0.2	
+na	nay	0.2	
+na	nauschenen	0.2	
+na	nar	0.2	
+na	nadia	0.2	
+na	nazanin	0.2	
+na	nacht	0.2	
+naba	naba	1.0	None
+nibutscha	nibutscha	1.0	None
+nabutscha	nabutscha	1.0	None
+nagut	nagut	1.0	None
+nuot	nuot	1.0	None
+nuot	nuora	0.2	
+nagutta	nagutta	1.0	None
+einige	einige	1.0	None
+naparts	naparts	1.0	None
+narr	narr	1.0	None
+narr	nar	0.2	
+natiralmein	natiralmein	1.0	None
+naturalmein	naturalmein	1.0	None
+nauschira	nauschira	1.0	None
+naven	naven	1.0	None
+naven!	naven!	1.0	None
+navenda	navenda	1.0	None
+necessariamein	necessariamein	1.0	None
+negativamein	negativamein	1.0	None
+negin	negin	1.0	None
+negin	negins	0.2	
+negin	neginas	0.2	
+negin	negina	0.2	
+negliu	negliu	1.0	None
+ner	ner	1.0	None
+neramein	neramein	1.0	None
+netto	netto	1.0	None
+neu	neu	1.0	None
+neuaden	neuaden	1.0	None
+neuado	neuado	1.0	None
+neuadora	neuadora	1.0	None
+neuagiu	neuagiu	1.0	None
+neuagiuado	neuagiuado	1.0	None
+neuagiudem	neuagiudem	1.0	None
+neuasi	neuasi	1.0	None
+neudavon	neudavon	1.0	None
+neudavos	neudavos	1.0	None
+neudem	neudem	1.0	None
+neudvart	neudvart	1.0	None
+neunavon	neunavon	1.0	None
+neusum	neusum	1.0	None
+neutier	neutier	1.0	None
+neve	neve	1.0	None
+neve	nevid	0.2	
+ni	ni	1.0	None
+ni	nischina	0.2	
+ni	nilsson	0.2	
+ni	nibuc	0.2	
+ni	nino	0.2	
+ni	niculin	0.2	
+ni	nicolo	0.2	
+ni	nina	0.2	
+ni	niblettas	0.2	
+ni	nilo	0.2	
+ni	nicole	0.2	
+ni	nis	0.2	
+ni	nic	0.2	
+ni	niebla	0.2	
+ni	nihil	0.2	
+ni	nibelets	0.2	
+ni	nicolaus	0.2	
+ni	niv	0.2	
+nini	nini	1.0	None
+nini	nino	0.2	
+nini	nina	0.2	
+uni	uni	1.0	None
+nibel	nibel	1.0	None
+nibel	nibelets	0.2	
+nibuc!	nibuc!	1.0	None
+nibuc!	nibuc	0.2	
+nies	nies	1.0	None
+nies	niebla	0.2	
+nigliu	nigliu	1.0	None
+ninstagl	ninstagl	1.0	None
+nischina!	nischina!	1.0	None
+nischina!	nischina	0.2	
+nistagl	nistagl	1.0	None
+nominalmein	nominalmein	1.0	None
+nominativamein	nominativamein	1.0	None
+normalmein	normalmein	1.0	None
+nos	nos	1.0	None
+nos	nostrum	0.2	
+nos	noss	0.2	
+nos	nossas	0.2	
+nossa	nossa	1.0	None
+nossa	noss	0.2	
+nossa	nossas	0.2	
+nov	nov	1.0	None
+nov	novamein	0.2	ADV
+nov	novonta	0.2	
+novavel	novavel	1.0	None
+novissimamein	novissimamein	1.0	None
+novtschien	novtschien	1.0	None
+nua	nua	1.0	None
+nuau	nuau	1.0	None
+nuidis	nuidis	1.0	None
+nul	nul	1.0	None
+num	num	1.0	None
+num	number	0.2	
+num	numndamein	0.2	
+numdadiu	numdadiu	1.0	None
+numerusamein	numerusamein	1.0	None
+numnadamein	numnadamein	1.0	None
+numradin	numradin	1.0	None
+nun	nun	1.0	None
+nun	nunexplodiu	0.2	
+nun	nunclarmein	0.2	
+nun	nunverbala	0.2	
+nun	nunagressiun	0.2	
+nun	nunpèr	0.2	
+nunche	nunche	1.0	None
+nunder	nunder	1.0	None
+nundetg	nundetg	1.0	None
+nundir	nundir	1.0	None
+nunditgont	nunditgont	1.0	None
+nundueivlamein	nundueivlamein	1.0	None
+nunenconuschent	nunenconuschent	1.0	None
+nungetg	nungetg	1.0	None
+nungrazia	nungrazia	1.0	None
+nunimporta	nunimporta	1.0	None
+nuninterruttamein	nuninterruttamein	1.0	None
+nunmort	nunmort	1.0	None
+nunpatertgond	nunpatertgond	1.0	None
+nunprevedidamein	nunprevedidamein	1.0	None
+nunpusseivel	nunpusseivel	1.0	None
+nunquei	nunquei	1.0	None
+nunquella	nunquella	1.0	None
+nunsapientivamein	nunsapientivamein	1.0	None
+nunsavend	nunsavend	1.0	None
+nunschenadamein	nunschenadamein	1.0	None
+nunschent	nunschent	1.0	None
+nunsegideivel	nunsegideivel	1.0	None
+nunspitgadamein	nunspitgadamein	1.0	None
+nunspitgau	nunspitgau	1.0	None
+nunstuend	nunstuend	1.0	None
+nunudiblamein	nunudiblamein	1.0	None
+nunvoluntarmein	nunvoluntarmein	1.0	None
+nunvoluntaramein	nunvoluntaramein	1.0	None
+nuota	nuota	1.0	None
+nuotatgisà	nuotatgisà	1.0	None
+nuotatonmeins	nuotatonmeins	1.0	None
+nuotzun	nuotzun	1.0	None
+nus	nus	1.0	None
+nus	nusduvrarqueiennostextsennostexts	0.2	
+nusauters	nusauters	1.0	None
+nusautri	nusautri	1.0	None
+nusezs	nusezs	1.0	None
+nusezzas	nusezzas	1.0	None
+sez	sez	1.0	None
+sez	sezzas	0.2	
+sez	sezza	0.2	
+nusezzi	nusezzi	1.0	None
+o!	o!	1.0	None
+o	o	1.0	None
+o	occupan	0.2	
+o	order	0.2	
+o	ognera	0.2	
+o	ordamaun	0.2	
+o	otidian	0.2	
+o	oreiframein	0.2	
+o	orina	0.2	
+o	onna	0.2	
+o	omis	0.2	
+o	or	0.2	
+o	oha	0.2	
+o	occupa	0.2	
+o	ot	0.2	
+o	orcnop	0.2	
+o	otta	0.2	
+o	orsch	0.2	
+o	olaf	0.2	
+o	opqrst	0.2	
+o	onal	0.2	
+o	ojé	0.2	
+o	ordsura	0.2	
+o	oi	0.2	
+o	oho	0.2	
+o	okay	0.2	
+o	olimpia	0.2	
+o	ornev	0.2	
+o	orsin	0.2	
+o	oransch-brinas	0.2	
+o	olimpio	0.2	
+o	oran	0.2	
+o	oscha	0.2	
+o	ostinato	0.2	
+o	ocatrb	0.2	
+objectivamein	objectivamein	1.0	None
+odem	odem	1.0	None
+odemdem	odemdem	1.0	None
+orembora	orembora	1.0	None
+odembora	odembora	1.0	None
+odentuorn	odentuorn	1.0	None
+oder	oder	1.0	None
+offensivamein	offensivamein	1.0	None
+oh	oh	1.0	None
+oh	oha	0.2	
+oh	oho	0.2	
+oha!	oha!	1.0	None
+oha!	oha	0.2	
+oho!	oho!	1.0	None
+oho!	oho	0.2	
+oi!	oi!	1.0	None
+ojé!	ojé!	1.0	None
+ojé!	ojé	0.2	
+ol	ol	1.0	None
+ol	olimpio	0.2	
+ol	olimpia	0.2	
+ol	olaf	0.2	
+on	on	1.0	None
+on	onal	0.2	
+on	onna	0.2	
+ont	ont	1.0	None
+onca	onca	1.0	None
+oncabuc	oncabuc	1.0	None
+onn	onn	1.0	None
+onn	onna	0.2	
+onsum	onsum	1.0	None
+ontras	ontras	1.0	None
+onz	onz	1.0	None
+ora	ora	1.0	None
+ora	oransch-brinas	0.2	
+ora	oran	0.2	
+ora!	ora!	1.0	None
+ora!	oransch-brinas	0.2	
+ora!	oran	0.2	
+oradem	oradem	1.0	None
+orademdem	orademdem	1.0	None
+oragiu	oragiu	1.0	None
+oramai	oramai	1.0	None
+orasi	orasi	1.0	None
+orasisum	orasisum	1.0	None
+orasum	orasum	1.0	None
+orasut	orasut	1.0	None
+oraviert	oraviert	1.0	None
+oravon	oravon	1.0	None
+oravontut	oravontut	1.0	None
+ord	ord	1.0	None
+ord	ordsura	0.2	
+ord	order	0.2	
+ord	ordamaun	0.2	
+orda	orda	1.0	None
+orda	ordsura	0.2	
+orda	order	0.2	
+orda	ordamaun	0.2	
+ordado	ordado	1.0	None
+ordadora	ordadora	1.0	None
+ordadoragiu	ordadoragiu	1.0	None
+ordadoraneu	ordadoraneu	1.0	None
+ordadorasi	ordadorasi	1.0	None
+ordadoravi	ordadoravi	1.0	None
+ordamiez	ordamiez	1.0	None
+ordasenn	ordasenn	1.0	None
+ordaviert	ordaviert	1.0	None
+ordavon	ordavon	1.0	None
+ordavos	ordavos	1.0	None
+ordeifer	ordeifer	1.0	None
+ordenter	ordenter	1.0	None
+ordentuorn	ordentuorn	1.0	None
+d'ordinari	d'ordinari	1.0	None
+ordinariamein	ordinariamein	1.0	None
+ordlunder	ordlunder	1.0	None
+ordvart	ordvart	1.0	None
+oreifer	oreifer	1.0	None
+oreifer	oreiframein	0.2	
+organicamein	organicamein	1.0	None
+d'origin	d'origin	1.0	None
+oriundamein	oriundamein	1.0	None
+orsura	orsura	1.0	None
+ortgamein	ortgamein	1.0	None
+oscha!	oscha!	1.0	None
+oscha!	oscha	0.2	
+ostensiblamein	ostensiblamein	1.0	None
+ostentativamein	ostentativamein	1.0	None
+osum	osum	1.0	None
+osumsum	osumsum	1.0	None
+otg	otg	1.0	None
+otgavel	otgavel	1.0	None
+otgmelli	otgmelli	1.0	None
+otgo	otgo	1.0	None
+otgtschien	otgtschien	1.0	None
+oz	oz	1.0	None
+ozamai	ozamai	1.0	None
+ozendamaun	ozendamaun	1.0	None
+ozildi	ozildi	1.0	None
+ozilgi	ozilgi	1.0	None
+ozmai	ozmai	1.0	None
+pag	pag	1.0	None
+pa	pa	1.0	None
+pa	palfiers	0.2	
+pa	papahù	0.2	
+pa	paucamein	0.2	
+pa	paul	0.2	
+pa	pafinchel	0.2	
+pa	paula	0.2	
+pa	papagagli	0.2	
+pa	pally	0.2	
+pa	pappel	0.2	
+pa	palsfier	0.2	
+pa	pasquins	0.2	
+pa	panama	0.2	
+pa	pauschalmein	0.2	
+pa	pare	0.2	
+pa	palmarviers	0.2	
+pa	paulina	0.2	
+pa	pavoni	0.2	
+pa	pan	0.2	
+pa	pam	0.2	
+pa	pauramein	0.2	
+pa	palatin	0.2	
+pa	passond	0.2	
+pa	palandrond	0.2	
+pa	paradiso	0.2	
+pa	papagai	0.2	
+pa	pastel	0.2	
+pa	paella	0.2	
+pacific	pacific	1.0	None
+pacificamein	pacificamein	1.0	None
+paf	paf	1.0	None
+paf	pafinchel	0.2	
+paleis	paleis	1.0	None
+pamf	pamf	1.0	None
+pamf	pam	0.2	
+pamfatè	pamfatè	1.0	None
+paperlapà	paperlapà	1.0	None
+paperlapap	paperlapap	1.0	None
+pardia	pardia	1.0	None
+pareivlamein	pareivlamein	1.0	None
+particularmein	particularmein	1.0	None
+parzialmein	parzialmein	1.0	None
+pass	pass	1.0	None
+pass	passond	0.2	
+pass	pasquins	0.2	
+pass	pastel	0.2	
+passet	passet	1.0	None
+passun	passun	1.0	None
+passunpass	passunpass	1.0	None
+passa	passa	1.0	None
+passa	passond	0.2	
+passablamein	passablamein	1.0	None
+passiunadamein	passiunadamein	1.0	None
+patapumf	patapumf	1.0	None
+paternamein	paternamein	1.0	None
+patertgadamein	patertgadamein	1.0	None
+patratga!	patratga!	1.0	None
+patsch	patsch	1.0	None
+pauc'aua	pauc'aua	1.0	None
+pauc	pauc	1.0	None
+pauc	paulina	0.2	
+pauc	paucamein	0.2	ADV
+pauc	paul	0.2	
+pauc	pauschalmein	0.2	
+pauc	pauramein	0.2	
+pauc	paula	0.2	
+paucadamiula	paucadamiula	1.0	None
+pauchet	pauchet	1.0	None
+pauchissim	pauchissim	1.0	None
+paupra	paupra	1.0	None
+pauperet	pauperet	1.0	None
+pauper	pauper	1.0	None
+paupramein	paupramein	1.0	None
+pauschal	pauschal	1.0	None
+pauschal	pauschalmein	0.2	ADV
+pazientamein	pazientamein	1.0	None
+peisa	peisa	1.0	None
+penalmein	penalmein	1.0	None
+peniblamein	peniblamein	1.0	None
+per	per	1.0	None
+per	perreger	0.2	
+per	perschuadentas	0.2	
+per	perlmut	0.2	
+per	percum	0.2	
+per	pervia	0.2	
+per	perdiart	0.2	
+per	perdiartamein	0.2	
+per	pernot	0.2	
+per	perfurader	0.2	
+pér	pér	1.0	None
+péra	péra	1.0	None
+perbon	perbon	1.0	None
+percass	percass	1.0	None
+perco	perco	1.0	None
+perco	percum	0.2	
+perconsequentamein	perconsequentamein	1.0	None
+perdert	perdert	1.0	None
+perdertezia	perdertezia	1.0	None
+peremtoriamein	peremtoriamein	1.0	None
+perfetg	perfetg	1.0	None
+perfetgamein	perfetgamein	1.0	None
+perfin	perfin	1.0	None
+perguess	perguess	1.0	None
+perin	perin	1.0	None
+perina	perina	1.0	None
+perinaga	perinaga	1.0	None
+perinamein	perinamein	1.0	None
+permal	permal	1.0	None
+permanentamein	permanentamein	1.0	None
+permiez	permiez	1.0	None
+permiezen	permiezen	1.0	None
+permiezvi	permiezvi	1.0	None
+peron	peron	1.0	None
+perpeis	perpeis	1.0	None
+perpetnamein	perpetnamein	1.0	None
+perquei	perquei	1.0	None
+persenn	persenn	1.0	None
+persesez	persesez	1.0	None
+persort	persort	1.0	None
+persulamein	persulamein	1.0	None
+persum	persum	1.0	None
+persunalmein	persunalmein	1.0	None
+pertenent	pertenent	1.0	None
+pertgei	pertgei	1.0	None
+pertuccont	pertuccont	1.0	None
+pertut	pertut	1.0	None
+pertutanavon	pertutanavon	1.0	None
+pesanca	pesanca	1.0	None
+pesantaria	pesantaria	1.0	None
+pesentada	pesentada	1.0	None
+petramein	petramein	1.0	None
+petta	petta	1.0	None
+piano	piano	1.0	None
+piano	piantar	0.2	
+piaza	piaza	1.0	None
+piccanas	piccanas	1.0	None
+pigiur	pigiur	1.0	None
+pilé	pilé	1.0	None
+pilé	pils	0.2	
+pilver	pilver	1.0	None
+pilvermo	pilvermo	1.0	None
+pis	pis	1.0	None
+pis	pischerlus	0.2	
+pisanc	pisanc	1.0	None
+pisanca	pisanca	1.0	None
+pischmaun	pischmaun	1.0	None
+pitgiv	pitgiv	1.0	None
+pizzau	pizzau	1.0	None
+plamfatè	plamfatè	1.0	None
+platsch	platsch	1.0	None
+plattaforma	plattaforma	1.0	None
+plattafuorma	plattafuorma	1.0	None
+plattamein	plattamein	1.0	None
+plaun	plaun	1.0	None
+plaunet	plaunet	1.0	None
+plaunlur	plaunlur	1.0	None
+plaunmiu	plaunmiu	1.0	None
+plaunsiu	plaunsiu	1.0	None
+plaunnies	plaunnies	1.0	None
+plauntiu	plauntiu	1.0	None
+plaunvies	plaunvies	1.0	None
+plein	plein	1.0	None
+pleinamein	pleinamein	1.0	None
+pli	pli	1.0	None
+plinanen	plinanen	1.0	None
+plinano	plinano	1.0	None
+plinanora	plinanora	1.0	None
+plinanorasi	plinanorasi	1.0	None
+plinavon	plinavon	1.0	None
+plinengiu	plinengiu	1.0	None
+plinenneu	plinenneu	1.0	None
+plinensi	plinensi	1.0	None
+plinenvi	plinenvi	1.0	None
+plirs	plirs	1.0	None
+plitgunsch	plitgunsch	1.0	None
+plitost	plitost	1.0	None
+plumf	plumf	1.0	None
+plumfatè	plumfatè	1.0	None
+plus	plus	1.0	None
+plus	plu-matsch	0.2	
+po	po	1.0	None
+po	post-its	0.2	
+po	potter	0.2	
+po	poltri	0.2	
+po	poesietta	0.2	
+po	post-it	0.2	
+po	portasacs	0.2	
+po	poe-sia	0.2	
+po	poulet	0.2	
+po	pokémon	0.2	
+po	pommes	0.2	
+po	posters	0.2	
+po	pool	0.2	
+po	pointa	0.2	
+po	portunas	0.2	
+po	powerpoint	0.2	
+po	popcorn	0.2	
+podà	podà	1.0	None
+politicamein	politicamein	1.0	None
+pomai	pomai	1.0	None
+popo	popo	1.0	None
+popo	popcorn	0.2	
+positiv	positiv	1.0	None
+positivamein	positivamein	1.0	None
+postal	postal	1.0	None
+posteriuramein	posteriuramein	1.0	None
+posteriurmein	posteriurmein	1.0	None
+potenzialmein	potenzialmein	1.0	None
+poz	poz	1.0	None
+praticamein	praticamein	1.0	None
+prau	prau	1.0	None
+prealablamein	prealablamein	1.0	None
+precautamein	precautamein	1.0	None
+precauziusamein	precauziusamein	1.0	None
+precipitadamein	precipitadamein	1.0	None
+precis	precis	1.0	None
+precisamein	precisamein	1.0	None
+predominontamein	predominontamein	1.0	None
+prem	prem	1.0	None
+prem	precumprimiu	0.2	
+prem	prelevament	0.2	
+prem	prevend	0.2	
+prem	pre	0.2	
+prem	precoci	0.2	
+prem	precognitiv	0.2	
+prem	prencipessa	0.2	
+prematuramein	prematuramein	1.0	None
+premeditadamein	premeditadamein	1.0	None
+premess	premess	1.0	None
+premuradamein	premuradamein	1.0	None
+premurusamein	premurusamein	1.0	None
+present!	present!	1.0	None
+presentamein	presentamein	1.0	None
+pressapauc	pressapauc	1.0	None
+prest	prest	1.0	None
+presumablamein	presumablamein	1.0	None
+prevedentamein	prevedentamein	1.0	None
+prigulusamein	prigulusamein	1.0	None
+prima	prima	1.0	None
+prima	primavea	0.2	
+primaramein	primaramein	1.0	None
+primarmein	primarmein	1.0	None
+primo	primo	1.0	None
+primo	primavea	0.2	
+principalmein	principalmein	1.0	None
+priuamein	priuamein	1.0	None
+privatamein	privatamein	1.0	None
+pro	pro	1.0	None
+pro	provuna	0.2	
+pro	prosit	0.2	
+pro	procurel	0.2	
+probablamein	probablamein	1.0	None
+procentualmein	procentualmein	1.0	None
+proforma	proforma	1.0	None
+profundamein	profundamein	1.0	None
+promt	promt	1.0	None
+promtamein	promtamein	1.0	None
+propiamein	propiamein	1.0	None
+propo	propo	1.0	None
+proporziunadamein	proporziunadamein	1.0	None
+proporziunalmein	proporziunalmein	1.0	None
+proposit	proposit	1.0	None
+propriamein	propriamein	1.0	None
+prosit!	prosit!	1.0	None
+prosit!	prosit	0.2	
+provisoriamein	provisoriamein	1.0	None
+proximamein	proximamein	1.0	None
+pruaglieud	pruaglieud	1.0	None
+pruamein	pruamein	1.0	None
+prudentamein	prudentamein	1.0	None
+prun	prun	1.0	None
+pst	pst	1.0	None
+publicamein	publicamein	1.0	None
+puh	puh	1.0	None
+puis	puis	1.0	None
+pulit	pulit	1.0	None
+pulitamein	pulitamein	1.0	None
+pumf	pumf	1.0	None
+pumfata	pumfata	1.0	None
+pumfatè	pumfatè	1.0	None
+pumpadipum	pumpadipum	1.0	None
+punct	punct	1.0	None
+punct	punctet	0.2	
+punctum	punctum	1.0	None
+punctum	punctet	0.2	
+puppergnar	puppergnar	1.0	None
+puprogna	puprogna	1.0	None
+purmein	purmein	1.0	None
+pusmaun	pusmaun	1.0	None
+puspei	puspei	1.0	None
+pusseivel	pusseivel	1.0	None
+pusseivlamein	pusseivlamein	1.0	None
+put	put	1.0	None
+qualmein	qualmein	1.0	None
+quartalmein	quartalmein	1.0	None
+quasi	quasi	1.0	None
+quater	quater	1.0	None
+quatermelli	quatermelli	1.0	None
+quatertschien	quatertschien	1.0	None
+quei	quei	1.0	None
+quei	quendischavel	0.2	
+quei	queitar	0.2	
+quei	quex	0.2	
+quei	questas	0.2	
+quei	quendischavla	0.2	
+quei	quellas	0.2	
+quei	que	0.2	
+quei	quell	0.2	
+quei	quels	0.2	
+quel	quel	1.0	None
+quel	quendischavel	0.2	
+quel	queitar	0.2	
+quel	quex	0.2	
+quel	questas	0.2	
+quel	quendischavla	0.2	
+quel	quellas	0.2	
+quel	que	0.2	
+quel	quell	0.2	
+quel	quels	0.2	
+quella	quella	1.0	None
+quella	quell	0.2	
+quella	quellas	0.2	
+quellacanun	quellacanun	1.0	None
+quelluisa	quelluisa	1.0	None
+quendisch	quendisch	1.0	None
+quendisch	quendischavel	0.2	
+quendisch	quendischavla	0.2	
+quersera	quersera	1.0	None
+quenta!	quenta!	1.0	None
+quitordisch	quitordisch	1.0	None
+quitordischavel	quitordischavel	1.0	None
+quitordischavla	quitordischavla	1.0	None
+qual	qual	1.0	None
+qual	quad	0.2	
+qual	qualificont	0.2	
+qual	quarta-feira	0.2	
+qual	quattuor	0.2	
+qual	qua	0.2	
+qual	quadrata	0.2	
+qual	quals	0.2	
+qual	qualas	0.2	
+quala	quala	1.0	None
+quala	qualificont	0.2	
+quala	quals	0.2	
+quala	qualas	0.2	
+rabgentadamein	rabgentadamein	1.0	None
+rabiadamein	rabiadamein	1.0	None
+radicalmein	radicalmein	1.0	None
+rams	rams	1.0	None
+ranveramein	ranveramein	1.0	None
+rapid	rapid	1.0	None
+rapidamein	rapidamein	1.0	None
+rar	rar	1.0	None
+raramein	raramein	1.0	None
+rarissim	rarissim	1.0	None
+rasantamein	rasantamein	1.0	None
+raschuneivlamein	raschuneivlamein	1.0	None
+ratsch	ratsch	1.0	None
+ravgentadamein	ravgentadamein	1.0	None
+raziunalmein	raziunalmein	1.0	None
+realmein	realmein	1.0	None
+recentamein	recentamein	1.0	None
+reciprocamein	reciprocamein	1.0	None
+recliamein	recliamein	1.0	None
+regeler	regeler	1.0	None
+reguladamein	reguladamein	1.0	None
+regularmein	regularmein	1.0	None
+rehamein	rehamein	1.0	None
+rehti	rehti	1.0	None
+relativ	relativ	1.0	None
+relativamein	relativamein	1.0	None
+remarcablamein	remarcablamein	1.0	None
+repetidamein	repetidamein	1.0	None
+resch	resch	1.0	None
+reservau	reservau	1.0	None
+resolutamein	resolutamein	1.0	None
+respectivamein	respectivamein	1.0	None
+restrenschidamein	restrenschidamein	1.0	None
+retratg	retratg	1.0	None
+retratgamein	retratgamein	1.0	None
+ridien!	ridien!	1.0	None
+ridien!	ridien	0.2	
+ridischen!	ridischen!	1.0	None
+ridischen!	ridischetgas	0.2	
+ridischen!	ridischoras	0.2	
+ridischen!	ridischen	0.2	
+ridischen!	ridischlops	0.2	
+ridischetgas!	ridischetgas!	1.0	None
+ridischetgas!	ridischetgas	0.2	
+ridischlops!	ridischlops!	1.0	None
+ridischlops!	ridischlops	0.2	
+rif	rif	1.0	None
+rigurusamein	rigurusamein	1.0	None
+rihezia	rihezia	1.0	None
+risch	risch	1.0	None
+ritmicamein	ritmicamein	1.0	None
+rodund	rodund	1.0	None
+ros	ros	1.0	None
+ros	rosalina	0.2	
+rottadacol	rottadacol	1.0	None
+rottadambot	rottadambot	1.0	None
+rottambottel	rottambottel	1.0	None
+ruasseivlamein	ruasseivlamein	1.0	None
+rubas	rubas	1.0	None
+rubiestiamein	rubiestiamein	1.0	None
+rucli	rucli	1.0	None
+rudien	rudien	1.0	None
+ruh	ruh	1.0	None
+sa	sa	1.0	None
+sa	saudita	0.2	
+sa	sapperlot	0.2	
+sa	salvavenis	0.2	
+sa	sapocontas	0.2	
+sa	sarmina	0.2	
+sa	sauill	0.2	
+sa	sappidieus	0.2	
+sa	salon	0.2	
+sa	sardona	0.2	
+sa	sameister	0.2	
+sa	sandro	0.2	
+sa	sapperment	0.2	
+sa	sachet	0.2	
+sa	salta	0.2	
+sa	samedi	0.2	
+sa	samstag	0.2	
+sa	saung-nas	0.2	
+sa	sam	0.2	
+sa	sal-tun-za	0.2	
+sa	sanvosfargliunsgiaapplicarquei	0.2	
+sa	saleq	0.2	
+sa	savend	0.2	
+sa	sacardi	0.2	
+sa	safermust	0.2	
+sa	sabato	0.2	
+sa	saturday	0.2	
+sa	salto	0.2	
+sa	sappischetgas	0.2	
+sa	samuel	0.2	
+sa	salpep	0.2	
+sa	sapperdi	0.2	
+sa	saelp	0.2	
+sa	saleb	0.2	
+sabiamein	sabiamein	1.0	None
+sacabulacca	sacabulacca	1.0	None
+sacaco	sacaco	1.0	None
+sacacu	sacacu	1.0	None
+sacadiloc	sacadiloc	1.0	None
+sacamartin	sacamartin	1.0	None
+sacanua	sacanua	1.0	None
+sacatgei	sacatgei	1.0	None
+salvaveni	salvaveni	1.0	None
+salvaveni	salvavenis	0.2	
+samai	samai	1.0	None
+sanadad!	sanadad!	1.0	None
+sanguinusamein	sanguinusamein	1.0	None
+sanidipertgei	sanidipertgei	1.0	None
+sapientamein	sapientamein	1.0	None
+sapientivamein	sapientivamein	1.0	None
+sapoco	sapoco	1.0	None
+sapoco	sapocontas	0.2	
+sapocon	sapocon	1.0	None
+sapocon	sapocontas	0.2	
+sapocu	sapocu	1.0	None
+sapocu	sapocontas	0.2	
+sapodieus	sapodieus	1.0	None
+saponua	saponua	1.0	None
+sapotgei	sapotgei	1.0	None
+sapperlot!	sapperlot!	1.0	None
+sapperlot!	sapperlot	0.2	
+sapperment!	sapperment!	1.0	None
+sapperment!	sapperment	0.2	
+sappermiez	sappermiez	1.0	None
+sappermiez	sapperment	0.2	
+sappidieus!	sappidieus!	1.0	None
+sappidieus!	sappidieus	0.2	
+satel	satel	1.0	None
+saun	saun	1.0	None
+saun	sauill	0.2	
+saun	saudita	0.2	
+saun	saung-nas	0.2	
+savens	savens	1.0	None
+savens	savend	0.2	
+savientamein	savientamein	1.0	None
+scadin	scadin	1.0	None
+scadin	scadina	0.2	
+scarsamein	scarsamein	1.0	None
+scartamein	scartamein	1.0	None
+schampramein	schampramein	1.0	None
+scharfamein	scharfamein	1.0	None
+sche	sche	1.0	None
+sche	schnurra	0.2	
+sche	schlendergiond	0.2	
+sche	schubegiond	0.2	
+sche	schanugli	0.2	
+sche	schongladra	0.2	
+sche	schnitzeljagd	0.2	
+sche	schmed	0.2	
+sche	schönsten	0.2	
+sche	schuit	0.2	
+sche	schongladers	0.2	
+sche	schumiala	0.2	
+sche	schuentamein	0.2	
+sche	schaguola	0.2	
+sche	schonglader	0.2	
+sche	schnaus	0.2	
+sche	schl.ng	0.2	
+sche	schonglar	0.2	
+sche	schöner	0.2	
+sche	schl	0.2	
+sche	schiprest	0.2	
+sche	schina	0.2	
+sche	schmarschun	0.2	
+sche	schanuglia	0.2	
+sche	schanui	0.2	
+sche	schenivavla	0.2	
+sche	schon-gla-der	0.2	
+sche	schmurazzond	0.2	
+sche	schluonzergiond	0.2	
+sche	schregamein	0.2	
+sche	sch	0.2	
+sche	schsch	0.2	
+sche	schonglescha	0.2	
+sche	schombras	0.2	
+sche	schagia	0.2	
+schebein	schebein	1.0	None
+schebi	schebi	1.0	None
+schebuc	schebuc	1.0	None
+schegie	schegie	1.0	None
+schemo	schemo	1.0	None
+scheniv	scheniv	1.0	None
+scheniv	schenivavla	0.2	
+schenivavel	schenivavel	1.0	None
+schenivavel	schenivavla	0.2	
+schetg	schetg	1.0	None
+schetgamein	schetgamein	1.0	None
+schi	schi	1.0	None
+schi	schnurra	0.2	
+schi	schlendergiond	0.2	
+schi	schubegiond	0.2	
+schi	schanugli	0.2	
+schi	schongladra	0.2	
+schi	schnitzeljagd	0.2	
+schi	schmed	0.2	
+schi	schönsten	0.2	
+schi	schuit	0.2	
+schi	schongladers	0.2	
+schi	schumiala	0.2	
+schi	schuentamein	0.2	
+schi	schaguola	0.2	
+schi	schonglader	0.2	
+schi	schnaus	0.2	
+schi	schl.ng	0.2	
+schi	schonglar	0.2	
+schi	schöner	0.2	
+schi	schl	0.2	
+schi	schiprest	0.2	
+schi	schina	0.2	
+schi	schmarschun	0.2	
+schi	schanuglia	0.2	
+schi	schanui	0.2	
+schi	schenivavla	0.2	
+schi	schon-gla-der	0.2	
+schi	schmurazzond	0.2	
+schi	schluonzergiond	0.2	
+schi	schregamein	0.2	
+schi	sch	0.2	
+schi	schsch	0.2	
+schi	schonglescha	0.2	
+schi	schombras	0.2	
+schi	schagia	0.2	
+schia	schia	1.0	None
+schia	schina	0.2	
+schia	schiprest	0.2	
+schibein	schibein	1.0	None
+schiditg	schiditg	1.0	None
+schigleiti	schigleiti	1.0	None
+schiglioc	schiglioc	1.0	None
+schinavon	schinavon	1.0	None
+schipelver	schipelver	1.0	None
+schischilala	schischilala	1.0	None
+schispert	schispert	1.0	None
+schit	schit	1.0	None
+schit	schina	0.2	
+schit	schiprest	0.2	
+schitost	schitost	1.0	None
+schizun	schizun	1.0	None
+schliet	schliet	1.0	None
+schon	schon	1.0	None
+schon	schongladers	0.2	
+schon	schonglader	0.2	
+schon	schongladra	0.2	
+schon	schon-gla-der	0.2	
+schon	schonglescha	0.2	
+schon	schonglar	0.2	
+schon	schombras	0.2	
+schotg	schotg	1.0	None
+schuarsas	schuarsas	1.0	None
+schuber	schuber	1.0	None
+schuber	schubegiond	0.2	
+schubramein	schubramein	1.0	None
+schuen	schuen	1.0	None
+schuen	schuentamein	0.2	
+schuit!	schuit!	1.0	None
+schuit!	schuit	0.2	
+sco	sco	1.0	None
+sco	scott	0.2	
+sco	scopi	0.2	
+sco	scoras	0.2	
+sco	scotg	0.2	
+sco	scoccarias	0.2	
+sco	scogna	0.2	
+scochemai	scochemai	1.0	None
+scosauda	scosauda	1.0	None
+scoiauda	scoiauda	1.0	None
+scrupulusamein	scrupulusamein	1.0	None
+secapescha	secapescha	1.0	None
+secretamein	secretamein	1.0	None
+secund	secund	1.0	None
+secundarmein	secundarmein	1.0	None
+secundo	secundo	1.0	None
+sedisch	sedisch	1.0	None
+sedischavel	sedischavel	1.0	None
+segir	segir	1.0	None
+segir	segi	0.2	
+segiramein	segiramein	1.0	None
+sei	sei	1.0	None
+sei	seis	0.2	
+selvadiamein	selvadiamein	1.0	None
+semegliontamein	semegliontamein	1.0	None
+sesiemias?	sesiemias?	1.0	None
+semper	semper	1.0	None
+sempermai	sempermai	1.0	None
+sempitern	sempitern	1.0	None
+sempiterna	sempiterna	1.0	None
+sempiternamein	sempiternamein	1.0	None
+semplamein	semplamein	1.0	None
+seniester	seniester	1.0	None
+sensiblamein	sensiblamein	1.0	None
+senza	senza	1.0	None
+senza	senz	0.2	
+separadamein	separadamein	1.0	None
+sequentamein	sequentamein	1.0	None
+seriusamein	seriusamein	1.0	None
+serradamein	serradamein	1.0	None
+siu	siu	1.0	None
+ses	ses	1.0	None
+ses	sesplenghegiond	0.2	
+ses	sesmuratond	0.2	
+ses	seschlihond	0.2	
+ses	sescolar	0.2	
+ses	sesezza	0.2	
+ses	sescandelisar	0.2	
+sesi!	sesi!	1.0	None
+sesez	sesez	1.0	None
+sesez	sesezza	0.2	
+severamein	severamein	1.0	None
+sexualmein	sexualmein	1.0	None
+sfarfatgamein	sfarfatgamein	1.0	None
+sfurzadamein	sfurzadamein	1.0	None
+sgomiusamein	sgomiusamein	1.0	None
+si	si	1.0	None
+si	sinceracass	0.2	
+si	silvaplana	0.2	
+si	silenci	0.2	
+si	sias	0.2	
+si	siglientond	0.2	
+si	sill	0.2	
+si	signorina	0.2	
+si	siper	0.2	
+si	silvester	0.2	
+si	sils	0.2	
+si	sigliots	0.2	
+si	silvaplauna	0.2	
+si	simon	0.2	
+si	sillas	0.2	
+si	sit	0.2	
+si	siadora	0.2	
+si	sina	0.2	
+si	six	0.2	
+si	silja	0.2	
+tscheusi	tscheusi	1.0	None
+siaden	siaden	1.0	None
+siado	siado	1.0	None
+siado	siadora	0.2	
+siat	siat	1.0	None
+siat	sias	0.2	
+siat	siadora	0.2	
+siattschien	siattschien	1.0	None
+sidangiu	sidangiu	1.0	None
+sidatgau	sidatgau	1.0	None
+sidavon	sidavon	1.0	None
+sidengiu	sidengiu	1.0	None
+sidretg	sidretg	1.0	None
+silenziusamein	silenziusamein	1.0	None
+silmeins	silmeins	1.0	None
+silpli	silpli	1.0	None
+silsuc	silsuc	1.0	None
+silsuenter	silsuenter	1.0	None
+sin	sin	1.0	None
+sin	sina	0.2	
+sin	sinceracass	0.2	
+sinquei	sinquei	1.0	None
+sinaquei	sinaquei	1.0	None
+sinaquella	sinaquella	1.0	None
+sinceramein	sinceramein	1.0	None
+singularmein	singularmein	1.0	None
+sinsè	sinsè	1.0	None
+sintacticamein	sintacticamein	1.0	None
+sintamaun	sintamaun	1.0	None
+sis	sis	1.0	None
+sissu	sissu	1.0	None
+sistematicamein	sistematicamein	1.0	None
+sistschien	sistschien	1.0	None
+sisu	sisu	1.0	None
+sisum	sisum	1.0	None
+sisuren	sisuren	1.0	None
+sitier	sitier	1.0	None
+smac	smac	1.0	None
+smac	smarvau	0.2	
+smac	smanatschem	0.2	
+smac	smaniclond	0.2	
+smicsmac	smicsmac	1.0	None
+so	so	1.0	None
+so	sombrero	0.2	
+so	sonant	0.2	
+so	sofia	0.2	
+so	soccaliunga	0.2	
+so	sonntag	0.2	
+so	sontg	0.2	
+so	songagliesa	0.2	
+so	soeurette	0.2	
+solemnamein	solemnamein	1.0	None
+soli	soli	1.0	None
+soliamein	soliamein	1.0	None
+solitamein	solitamein	1.0	None
+sonda	sonda	1.0	None
+sontgamein	sontgamein	1.0	None
+spanegiadamein	spanegiadamein	1.0	None
+spargliadamein	spargliadamein	1.0	None
+spargnusamein	spargnusamein	1.0	None
+spatitschadamein	spatitschadamein	1.0	None
+speras	speras	1.0	None
+sperasen	sperasen	1.0	None
+sperasgiu	sperasgiu	1.0	None
+speraso	speraso	1.0	None
+sperasora	sperasora	1.0	None
+sperassi	sperassi	1.0	None
+sperasvi	sperasvi	1.0	None
+speronza!	speronza!	1.0	None
+spert	spert	1.0	None
+spertamein	spertamein	1.0	None
+spess	spess	1.0	None
+spessamein	spessamein	1.0	None
+spir	spir	1.0	None
+spir	spinatscha	0.2	
+spir	spiunond	0.2	
+spir	spi-da-fiug	0.2	
+spir	spic	0.2	
+spiradamein	spiradamein	1.0	None
+spiramein	spiramein	1.0	None
+spiritualmein	spiritualmein	1.0	None
+spirontamein	spirontamein	1.0	None
+spetga!	spetga!	1.0	None
+spitgei!	spitgei!	1.0	None
+splendusamein	splendusamein	1.0	None
+spontanamein	spontanamein	1.0	None
+sporadicamein	sporadicamein	1.0	None
+sportivamein	sportivamein	1.0	None
+spundiv	spundiv	1.0	None
+squarsas	squarsas	1.0	None
+squarsonn	squarsonn	1.0	None
+stabilmein	stabilmein	1.0	None
+stablamein	stablamein	1.0	None
+stagl	stagl	1.0	None
+stagl	stagnonta	0.2	
+stagl	stagnamein	0.2	
+stagn	stagn	1.0	None
+stagn	stagnonta	0.2	
+stagn	stagnamein	0.2	ADV
+statteivlamein	statteivlamein	1.0	None
+stedi	stedi	1.0	None
+stediamein	stediamein	1.0	None
+stempradamein	stempradamein	1.0	None
+stentusamein	stentusamein	1.0	None
+steri	steri	1.0	None
+steri	stera	0.2	
+stiarsas	stiarsas	1.0	None
+stersas	stersas	1.0	None
+stess	stess	1.0	None
+stgiraglia	stgiraglia	1.0	None
+stinadamein	stinadamein	1.0	None
+stop!	stop!	1.0	None
+strapaz	strapaz	1.0	None
+strategicamein	strategicamein	1.0	None
+strauniamein	strauniamein	1.0	None
+stravagant	stravagant	1.0	None
+strebel	strebel	1.0	None
+streblamein	streblamein	1.0	None
+stresa	stresa	1.0	None
+stretg	stretg	1.0	None
+stretgamein	stretgamein	1.0	None
+strictamein	strictamein	1.0	None
+strusch	strusch	1.0	None
+stupent	stupent	1.0	None
+suandontamein	suandontamein	1.0	None
+successivamein	successivamein	1.0	None
+suenter	suenter	1.0	None
+suenter	suenters	0.2	
+suenter	suentra	0.2	
+suentermiezdi	suentermiezdi	1.0	None
+sufficientamein	sufficientamein	1.0	None
+sul	sul	1.0	None
+sul	sulegli	0.2	
+sulamein	sulamein	1.0	None
+sulet	sulet	1.0	None
+sulet	sulegli	0.2	
+sulettamein	sulettamein	1.0	None
+sum	sum	1.0	None
+sum	sumar	0.2	
+summariamein	summariamein	1.0	None
+super	super	1.0	None
+super	superfinnamein	0.2	
+super	superlativa	0.2	
+superficialmein	superficialmein	1.0	None
+supierviamein	supierviamein	1.0	None
+sur	sur	1.0	None
+sur	suralzada	0.2	
+sur	surpunt	0.2	
+sur	surnar	0.2	
+sur	surser	0.2	
+surtut	surtut	1.0	None
+sura	sura	1.0	None
+sura	suralzada	0.2	
+sura	surpunt	0.2	
+sura	surnar	0.2	
+sura	surser	0.2	
+surabundontamein	surabundontamein	1.0	None
+suraneu	suraneu	1.0	None
+suravi	suravi	1.0	None
+surdamaun	surdamaun	1.0	None
+surdanvonz	surdanvonz	1.0	None
+surdaquei	surdaquei	1.0	None
+suren	suren	1.0	None
+surengiu	surengiu	1.0	None
+surenneu	surenneu	1.0	None
+surensi	surensi	1.0	None
+surenvi	surenvi	1.0	None
+surlunder	surlunder	1.0	None
+suro	suro	1.0	None
+suro	suralzada	0.2	
+suro	surpunt	0.2	
+suro	surnar	0.2	
+suro	surser	0.2	
+suronn	suronn	1.0	None
+surora	surora	1.0	None
+surorasi	surorasi	1.0	None
+suroravi	suroravi	1.0	None
+surpriu	surpriu	1.0	None
+surpusmaun	surpusmaun	1.0	None
+surtratg	surtratg	1.0	None
+surura	surura	1.0	None
+survart	survart	1.0	None
+sut	sut	1.0	None
+sut	sutgruppas	0.2	
+sut	sutta	0.2	
+sut	sutgruppa	0.2	
+sut	sutsura	0.2	
+suten	suten	1.0	None
+sutensi	sutensi	1.0	None
+sutneu	sutneu	1.0	None
+suto	suto	1.0	None
+suto	sutgruppas	0.2	
+suto	sutta	0.2	
+suto	sutgruppa	0.2	
+suto	sutsura	0.2	
+sutora	sutora	1.0	None
+sutsi	sutsi	1.0	None
+sutsi	sutsura	0.2	
+sutsiaden	sutsiaden	1.0	None
+sutsiado	sutsiado	1.0	None
+sutsiadora	sutsiadora	1.0	None
+sutsu	sutsu	1.0	None
+sutsu	sutsura	0.2	
+suttapeis	suttapeis	1.0	None
+suttatgau	suttatgau	1.0	None
+sutvart	sutvart	1.0	None
+sutvi	sutvi	1.0	None
+sutvusch	sutvusch	1.0	None
+svanescha!	svanescha!	1.0	None
+tac!	tac!	1.0	None
+tac!	tactil	0.2	
+tac!	tachen	0.2	
+tacitamein	tacitamein	1.0	None
+taffer	taffer	1.0	None
+taframein	taframein	1.0	None
+talmein	talmein	1.0	None
+taluisa	taluisa	1.0	None
+tandanas	tandanas	1.0	None
+tanien	tanien	1.0	None
+tanien	tanienta	0.2	
+tanientamein	tanientamein	1.0	None
+tantadanas	tantadanas	1.0	None
+tardezia	tardezia	1.0	None
+tardvia	tardvia	1.0	None
+tec	tec	1.0	None
+tecnicamein	tecnicamein	1.0	None
+tei	tei	1.0	None
+tei	teil	0.2	
+temerariamein	temerariamein	1.0	None
+tempradamein	tempradamein	1.0	None
+tenor	tenor	1.0	None
+terment	terment	1.0	None
+terriblamein	terriblamein	1.0	None
+terzio	terzio	1.0	None
+tetez	tetez	1.0	None
+tetez	tetezza	0.2	
+tezza	tezza	1.0	None
+tez	tez	1.0	None
+tgau	tgau	1.0	None
+tgau	tgaguola	0.2	
+tgaupéz	tgaupéz	1.0	None
+tgei	tgei	1.0	None
+tgei	tgeinins	0.2	
+tgei	tgeininas	0.2	
+tgeinin	tgeinin	1.0	None
+tgeinin	tgeinins	0.2	
+tgeinin	tgeininas	0.2	
+tgeinina	tgeinina	1.0	None
+tgeinina	tgeinins	0.2	
+tgeinina	tgeininas	0.2	
+tgeuamein	tgeuamein	1.0	None
+tgi	tgi	1.0	None
+tgi	tgi-che-va-plaun-va-saun	0.2	
+tgi	tgisunas	0.2	
+tgi	tgigiotta	0.2	
+tgi	tgietschen-rosa	0.2	
+tgisà	tgisà	1.0	None
+tgisà	tgisunas	0.2	
+tgunsch	tgunsch	1.0	None
+tgunschamein	tgunschamein	1.0	None
+tgutti!	tgutti!	1.0	None
+tgutti!	tgutti	0.2	
+ti	ti	1.0	None
+ti	tirrenica	0.2	
+ti	tia	0.2	
+ti	tiziana	0.2	
+ti	tias	0.2	
+ti	tidliin	0.2	
+ti	tippatond	0.2	
+ti	tiroida	0.2	
+ti	tirol	0.2	
+ti	tica	0.2	
+ti	tiels	0.2	
+ti	tierparenz	0.2	
+ti	tiu	0.2	
+ti	tiegl	0.2	
+tiarzonn	tiarzonn	1.0	None
+tichediterium	tichediterium	1.0	None
+tier	tier	1.0	None
+tier	tiels	0.2	
+tier	tierparenz	0.2	
+tier	tiegl	0.2	
+vitier	vitier	1.0	None
+tierz	tierz	1.0	None
+tierz	tierparenz	0.2	
+tiarza	tiarza	1.0	None
+timidamein	timidamein	1.0	None
+tittaforagregl	tittaforagregl	1.0	None
+toccadem	toccadem	1.0	None
+toccasum	toccasum	1.0	None
+tochen	tochen	1.0	None
+toh	toh	1.0	None
+ton	ton	1.0	None
+ton	tontas	0.2	
+ton	tonau	0.2	
+tonta	tonta	1.0	None
+tonta	tontas	0.2	
+tonaton	tonaton	1.0	None
+tondanavon	tondanavon	1.0	None
+top!	top!	1.0	None
+top!	top-ten	0.2	
+totalmein	totalmein	1.0	None
+transitoriamein	transitoriamein	1.0	None
+tras	tras	1.0	None
+tras	traviarsamein	0.2	
+tras	tral	0.2	
+tras	tractor	0.2	
+tras	tracatond	0.2	
+tras	travazzera	0.2	
+tras	transversala	0.2	
+tras	tramogna	0.2	
+tras	travacond	0.2	
+tras	trap	0.2	
+tras	tractors	0.2	
+tras	traso	0.2	
+trasatras	trasatras	1.0	None
+trasenadora	trasenadora	1.0	None
+trasora	trasora	1.0	None
+trasora	traso	0.2	
+traviers	traviers	1.0	None
+tredisch	tredisch	1.0	None
+tredisch	tredischin	0.2	
+tredischavel	tredischavel	1.0	None
+tredischavla	tredischavla	1.0	None
+treimelli	treimelli	1.0	None
+treis	treis	1.0	None
+treis	trei	0.2	
+treitschien	treitschien	1.0	None
+trentamelli	trentamelli	1.0	None
+trentel	trentel	1.0	None
+trentel	trent	0.2	
+trestamein	trestamein	1.0	None
+trupaditrup	trupaditrup	1.0	None
+tschà	tschà	1.0	None
+tschà	tschernan	0.2	
+tschà	tschagrunada	0.2	
+tschà	tschitschader	0.2	
+tschà	tschampergnond	0.2	
+tschà	tschellas	0.2	
+tschà	tsch.r.sch	0.2	
+tschà	tscheca	0.2	
+tschà	tscheffa	0.2	
+tschà	tschintscherlems	0.2	
+tschà	tschier	0.2	
+tschà	tschécca	0.2	
+tschà	tschiervs	0.2	
+tschà	tschahegiond	0.2	
+tschà	tsch	0.2	
+tschà	tschau	0.2	
+tschà	tscherner	0.2	
+tschà	tschuntschientschuncontatschun	0.2	
+tschà	tsche-re-scha	0.2	
+tschà	tschels	0.2	
+tschà	tschu	0.2	
+tschà	tschiens	0.2	
+tschà	tscherna	0.2	
+tschà	tscherniu	0.2	
+tschà	tschernius	0.2	
+tschà	tschamun	0.2	
+tschà	tschappergnond	0.2	
+tschà	tschamut	0.2	
+tschà	tschell	0.2	
+tschà	tschiensmellis	0.2	
+tschadilà	tschadilà	1.0	None
+tschau!	tschau!	1.0	None
+tschau!	tschau	0.2	
+tschau!	tschahegiond	0.2	
+tschau!	tschamun	0.2	
+tschau!	tschagrunada	0.2	
+tschau!	tschappergnond	0.2	
+tschau!	tschampergnond	0.2	
+tschau!	tschamut	0.2	
+tschavera	tschavera	1.0	None
+tschéc	tschéc	1.0	None
+tschéc	tschécca	0.2	
+tscheccamein	tscheccamein	1.0	None
+tscheidi	tscheidi	1.0	None
+tscheidiatsch	tscheidiatsch	1.0	None
+tschel	tschel	1.0	None
+tschel	tscherniu	0.2	
+tschel	tscherna	0.2	
+tschel	tscheffa	0.2	
+tschel	tscherner	0.2	
+tschel	tschernius	0.2	
+tschel	tschernan	0.2	
+tschel	tsche-re-scha	0.2	
+tschel	tschels	0.2	
+tschel	tschellas	0.2	
+tschel	tscheca	0.2	
+tschel	tschell	0.2	
+tschella	tschella	1.0	None
+tschella	tschell	0.2	
+tschella	tschellas	0.2	
+tschella	tschels	0.2	
+tschei	tschei	1.0	None
+tschei	tscherniu	0.2	
+tschei	tscherna	0.2	
+tschei	tscheffa	0.2	
+tschei	tscherner	0.2	
+tschei	tschernius	0.2	
+tschei	tschernan	0.2	
+tschei	tsche-re-scha	0.2	
+tschei	tschels	0.2	
+tschei	tschellas	0.2	
+tschei	tscheca	0.2	
+tschei	tschell	0.2	
+tscheladamein	tscheladamein	1.0	None
+tschelluisa	tschelluisa	1.0	None
+tschessa!	tschessa!	1.0	None
+tscheu	tscheu	1.0	None
+tscheu	tscherniu	0.2	
+tscheu	tscherna	0.2	
+tscheu	tscheffa	0.2	
+tscheu	tscherner	0.2	
+tscheu	tschernius	0.2	
+tscheu	tschernan	0.2	
+tscheu	tsche-re-scha	0.2	
+tscheu	tschels	0.2	
+tscheu	tschellas	0.2	
+tscheu	tscheca	0.2	
+tscheu	tschell	0.2	
+tscheuen	tscheuen	1.0	None
+tscheugiu	tscheugiu	1.0	None
+tscheuneu	tscheuneu	1.0	None
+tscheuora	tscheuora	1.0	None
+tscheuvi	tscheuvi	1.0	None
+tschien	tschien	1.0	None
+tschien	tschintscherlems	0.2	
+tschien	tschier	0.2	
+tschien	tschiervs	0.2	
+tschien	tschitschader	0.2	
+tschien	tschiens	0.2	
+tschien	tschiensmellis	0.2	
+tschienmelli	tschienmelli	1.0	None
+tschindarata	tschindarata	1.0	None
+tschiptschap	tschiptschap	1.0	None
+tschoccamein	tschoccamein	1.0	None
+tschol	tschol	1.0	None
+tschuffamein	tschuffamein	1.0	None
+tschun	tschun	1.0	None
+tschun	tschu	0.2	
+tschun	tschuntschientschuncontatschun	0.2	
+tschunmelli	tschunmelli	1.0	None
+tschuntschien	tschuntschien	1.0	None
+tschuntschien	tschuntschientschuncontatschun	0.2	
+tschüss	tschüss	1.0	None
+tschüssli	tschüssli	1.0	None
+tudi	tudi	1.0	None
+tudi	tud	0.2	
+tugi	tugi	1.0	None
+tun	tun	1.0	None
+tun	tunzs	0.2	
+tun	tunsina	0.2	
+tuorblamein	tuorblamein	1.0	None
+tuppamein	tuppamein	1.0	None
+seturpegia!	seturpegia!	1.0	None
+tusi!	tusi!	1.0	None
+tusi!	tusi	0.2	
+tuts	tuts	1.0	None
+tuts	tutt	0.2	
+tuts	tutananna	0.2	
+tuttacass	tuttacass	1.0	None
+tuttafatg	tuttafatg	1.0	None
+tuttavia	tuttavia	1.0	None
+tuttenina	tuttenina	1.0	None
+tutteninaga	tutteninaga	1.0	None
+tuttina	tuttina	1.0	None
+tuttischen	tuttischen	1.0	None
+u	u	1.0	None
+u	uin	0.2	
+u	usas	0.2	
+u	ursin	0.2	
+u	uasseivla	0.2	
+u	uo	0.2	
+u	ua	0.2	
+u	uater	0.2	
+u	ure	0.2	
+u	utta	0.2	
+u	ursina	0.2	
+u	ueibla	0.2	
+u	uns	0.2	
+u	uota	0.2	
+u	ut	0.2	
+u	uah	0.2	
+u	uff	0.2	
+u	urmicla	0.2	
+u	uac	0.2	
+u	uanau	0.2	
+u	udg	0.2	
+u	ulivonta	0.2	
+u	uolpetta	0.2	
+u	un	0.2	
+u	udend	0.2	
+u	una	0.2	
+u	uila	0.2	
+u	umpran	0.2	
+u	urtin	0.2	
+u	utg	0.2	
+u	ul	0.2	
+u	usch	0.2	
+u	us	0.2	
+u	ugn	0.2	
+u	uii	0.2	
+u	uas	0.2	
+u	umma	0.2	
+u	umpogn	0.2	
+u	ugen	0.2	
+u	ulprin	0.2	
+u	unas	0.2	
+u	uliez	0.2	
+u	ust	0.2	
+u	ultraspertamein	0.2	
+u	uir	0.2	
+u	ualà	0.2	
+u	urgc	0.2	
+u	usa	0.2	
+u	uorlar	0.2	
+u	udas	0.2	
+u	uspir	0.2	
+u	uen	0.2	
+u	ureidiamein	0.2	
+u	uvw	0.2	
+u	uffants	0.2	
+u	uis	0.2	
+u	urs	0.2	
+uah!	uah!	1.0	None
+uah!	uah	0.2	
+ual	ual	1.0	None
+ual	ualà	0.2	
+ualaschia	ualaschia	1.0	None
+ualti	ualti	1.0	None
+ualvess	ualvess	1.0	None
+uei	uei	1.0	None
+uei	ueibla	0.2	
+ueitga	ueitga	1.0	None
+uema	uema	1.0	None
+uera	uera	1.0	None
+uerblamein	uerblamein	1.0	None
+d'uffeci	d'uffeci	1.0	None
+ufficialmein	ufficialmein	1.0	None
+uhà	uhà	1.0	None
+ui	ui	1.0	None
+ui	uin	0.2	
+ui	uir	0.2	
+ui	uii	0.2	
+ui	uila	0.2	
+ui	uis	0.2	
+uiersch	uiersch	1.0	None
+uimo!	uimo!	1.0	None
+uliv	uliv	1.0	None
+uliv	uliez	0.2	
+uliv	ulivonta	0.2	
+ulivamein	ulivamein	1.0	None
+ulteriuramein	ulteriuramein	1.0	None
+ulteriurmein	ulteriurmein	1.0	None
+ultra	ultra	1.0	None
+ultra	ultraspertamein	0.2	
+ell'umbriva	ell'umbriva	1.0	None
+umpia	umpia	1.0	None
+unanimamein	unanimamein	1.0	None
+undreivlamein	undreivlamein	1.0	None
+unicamein	unicamein	1.0	None
+unilateralmein	unilateralmein	1.0	None
+unisono	unisono	1.0	None
+unligiar	unligiar	1.0	None
+in'uolp	in'uolp	1.0	None
+uonn	uonn	1.0	None
+upa!	upa!	1.0	None
+upsassa	upsassa	1.0	None
+in'uriala	in'uriala	1.0	None
+uss	uss	1.0	None
+ussa	ussa	1.0	None
+ussen	ussen	1.0	None
+vagamein	vagamein	1.0	None
+valerusamein	valerusamein	1.0	None
+varga	varga	1.0	None
+veglianzer	veglianzer	1.0	None
+vegnavel	vegnavel	1.0	None
+vengonzamein	vengonzamein	1.0	None
+ventireivlamein	ventireivlamein	1.0	None
+ver	ver	1.0	None
+ver	verdò	0.2	
+ver	verena	0.2	
+ver	verlag	0.2	
+ver	versailles	0.2	
+ver	vertebrala	0.2	
+ver	verba	0.2	
+veradem	veradem	1.0	None
+veramein	veramein	1.0	None
+vergugnusamein	vergugnusamein	1.0	None
+veseivlamein	veseivlamein	1.0	None
+vess	vess	1.0	None
+vess	vesend	0.2	
+vess	ves	0.2	
+vi	vi	1.0	None
+vi	violetta	0.2	
+vi	vive	0.2	
+vi	vittorio	0.2	
+vi	viagiond	0.2	
+vi	viduala	0.2	
+vi	vils	0.2	
+vi	vic	0.2	
+vi	visualisaziun	0.2	
+vi	vigl	0.2	
+vi	vitus	0.2	
+vi	vigentas	0.2	
+vi	violettas	0.2	
+viaden	viaden	1.0	None
+viadenagiu	viadenagiu	1.0	None
+viadenasi	viadenasi	1.0	None
+viadentagiu	viadentagiu	1.0	None
+viadentasi	viadentasi	1.0	None
+viado	viado	1.0	None
+viadora	viadora	1.0	None
+viagiu	viagiu	1.0	None
+viagiu	viagiond	0.2	
+vianeu	vianeu	1.0	None
+viasi	viasi	1.0	None
+vicendeivlamein	vicendeivlamein	1.0	None
+vid	vid	1.0	None
+vid	viduala	0.2	
+vida	vida	1.0	None
+vida	viduala	0.2	
+vidad	vidad	1.0	None
+vidaneu	vidaneu	1.0	None
+vidavon	vidavon	1.0	None
+vide	vide	1.0	None
+vide	viduala	0.2	
+videm	videm	1.0	None
+vidlunder	vidlunder	1.0	None
+vidual	vidual	1.0	None
+vidual	viduala	0.2	
+vidvart	vidvart	1.0	None
+viers	viers	1.0	None
+vies	vies	1.0	None
+vieti	vieti	1.0	None
+vigent	vigent	1.0	None
+vigent	vigentas	0.2	
+vigliur	vigliur	1.0	None
+vigurusamein	vigurusamein	1.0	None
+vin	vin	1.0	None
+vinavon!	vinavon!	1.0	None
+violentamein	violentamein	1.0	None
+virilmein	virilmein	1.0	None
+virtuusamein	virtuusamein	1.0	None
+visavi	visavi	1.0	None
+visum	visum	1.0	None
+visum	visualisaziun	0.2	
+vit	vit	1.0	None
+vit	vittorio	0.2	
+vit	vitus	0.2	
+viva!	viva!	1.0	None
+vivamein	vivamein	1.0	None
+vivi!	vivi!	1.0	None
+vivon	vivon	1.0	None
+vocalmein	vocalmein	1.0	None
+vonzei	vonzei	1.0	None
+vonzeivi	vonzeivi	1.0	None
+vulgarmein	vulgarmein	1.0	None
+vulgo	vulgo	1.0	None
+vus	vus	1.0	None
+zacons	zacons	1.0	None
+zacons	zacontas	0.2	
+zechel	zechel	1.0	None
+x	x	1.0	None
+x	xy	0.2	
+x	xyz	0.2	
+zacherblendis	zacherblendis	1.0	None
+zacherlotasen	zacherlotasen	1.0	None
+zacu	zacu	1.0	None
+zacu	zacontas	0.2	
+zacuras	zacuras	1.0	None
+zatgeinins	zatgeinins	1.0	None
+zatgeininas	zatgeininas	1.0	None
+ziep	ziep	1.0	None
+ziep	zierlas	0.2	
+zops	zops	1.0	None
+zanuauter	zanuauter	1.0	None
+zaco	zaco	1.0	None
+zaco	zacontas	0.2	
+zun	zun	1.0	None
+zatgei	zatgei	1.0	None
+zuppadamein	zuppadamein	1.0	None
+zehtiamein	zehtiamein	1.0	None
+zera	zera	1.0	None
+zanua	zanua	1.0	None
+zanunder	zanunder	1.0	None
+zatgi	zatgi	1.0	None
+zo-zo	zo-zo	1.0	None
+x-avel	x-avel	1.0	None
+zazza	zazza	1.0	None
+zac	zac	1.0	None
+zac	zacontas	0.2	
+zuar	zuar	1.0	None
+bergugn	bergugn	1.0	None
+fed	fed	1.0	None
+parsonz	parsonz	1.0	None
+parsons	parsons	1.0	None
+crispalt	crispalt	1.0	None
+pignieu	pignieu	1.0	None
+praden	praden	1.0	None
+prada	prada	1.0	None
+sabiastg	sabiastg	1.0	None
+scharans	scharans	1.0	None
+scharons	scharons	1.0	None
+umblitg	umblitg	1.0	None
+andermatt	andermatt	1.0	None
+ursera	ursera	1.0	None
+scalina	scalina	1.0	None
+feldis/veulden	feldis/veulden	1.0	None
+feldis	feldis	1.0	None
+zizers	zizers	1.0	None
+zezras	zezras	1.0	None
+bregenz	bregenz	1.0	None
+briganza	briganza	1.0	None
+roma	roma	1.0	None
+roma	romanic	0.2	
+ruma	ruma	1.0	None
+ruma	rumantscha	0.2	
+ruma	rumantsch	0.2	
+ruma	rumpalieungas	0.2	
+ruma	rumpumpel	0.2	
+gardeina	gardeina	1.0	None
+bormio	bormio	1.0	None
+vormazia	vormazia	1.0	None
+valtellnia	valtellnia	1.0	None
+vuclina	vuclina	1.0	None
+schuob	schuob	1.0	None
+libic	libic	1.0	None
+dil	dil	1.0	None
+dil	dils	0.2	
+che	che	1.0	None
+che	cher	0.2	
+che	ches	0.2	
+che	chen	0.2	
+che	chemicher	0.2	
+el	el	1.0	None
+el	elegesses	0.2	
+el	elina	0.2	
+el	elegiu	0.2	
+el	elfchen	0.2	
+el	elia	0.2	
+el	elinu	0.2	
+el	ell	0.2	
+el	ellas	0.2	
+el	elisa	0.2	
+el	ele-fant	0.2	
+al	al	1.0	None
+al	alissia	0.2	
+al	althoff	0.2	
+al	allah	0.2	
+al	als	0.2	
+al	albertins	0.2	
+al	alscuo	0.2	
+al	alv-nera	0.2	
+al	alettas	0.2	
+al	allè	0.2	
+al	allò	0.2	
+al	altdorf	0.2	
+al	all	0.2	
+al	aln	0.2	
+al	altius	0.2	
+al	albertin	0.2	
+al	alcogn	0.2	
+al	aline	0.2	
+al	alitad	0.2	
+al	allas	0.2	
+al	allegher	0.2	
+digl	digl	1.0	None
+pil	pil	1.0	None
+pil	pils	0.2	
+sil	sil	1.0	None
+sil	silvaplauna	0.2	
+sil	sill	0.2	
+sil	sils	0.2	
+sil	silvester	0.2	
+sil	silja	0.2	
+sil	silenci	0.2	
+sil	silvaplana	0.2	
+sil	sillas	0.2	
+quest	quest	1.0	None
+quest	questas	0.2	
+pigl	pigl	1.0	None
+tiel	tiel	1.0	None
+tiel	tiels	0.2	
+tiel	tierparenz	0.2	
+tiel	tiegl	0.2	
+tal	tal	1.0	None
+tal	tals	0.2	
+tal	talas	0.2	
+tal	taliter	0.2	
+ella	ella	1.0	None
+ella	ellas	0.2	
+ella	ell	0.2	
+dalla	dalla	1.0	None
+dalla	dall	0.2	
+dalla	dallas	0.2	
+alla	alla	1.0	None
+alla	allè	0.2	
+alla	allò	0.2	
+alla	all	0.2	
+alla	allah	0.2	
+alla	allas	0.2	
+alla	allegher	0.2	
+sia	sia	1.0	None
+sia	sias	0.2	
+sia	siadora	0.2	
+silla	silla	1.0	None
+silla	sillas	0.2	
+silla	sill	0.2	
+questa	questa	1.0	None
+questa	questas	0.2	
+tala	tala	1.0	None
+tala	tals	0.2	
+tala	talas	0.2	
+tala	taliter	0.2	
+ristrir	ristrir	1.0	None
+sigl	sigl	1.0	None
+sigl	sigliots	0.2	
+sigl	siglientond	0.2	
+sigl	signorina	0.2	
+cons	cons	1.0	None
+cons	contristau	0.2	
+cons	constituenta	0.2	
+cons	consumonta	0.2	
+cons	conferman	0.2	
+cons	contra	0.2	
+cons	continuo	0.2	
+cons	concolars	0.2	
+cons	consonsanza	0.2	
+cons	contemplond	0.2	
+cons	confamigliars	0.2	
+vossa	vossa	1.0	None
+vossa	vossas	0.2	
+inagada	inagada	1.0	None
+anoviars	anoviars	1.0	None

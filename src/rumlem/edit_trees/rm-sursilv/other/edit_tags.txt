@@ -1,0 +1,4 @@
+		None
+amein		ADV
+amein, asch		ADV
+mein		ADV

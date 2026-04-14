@@ -2,10 +2,9 @@ import json
 from pathlib import Path
 import pickle
 import sys
-
-from jiwer import cer
-
-import romansh_lemmatizer.edittree as edittree
+from rapidfuzz.distance import Levenshtein
+from collections import defaultdict
+import rumlem.edittree as edittree
 
 BASE_DIR = Path(__file__).parent
 
@@ -13,7 +12,7 @@ BASE_DIR = Path(__file__).parent
 class Analyzer:
     """A class to obtain lemmas, unimorph analysis, and de_translations for Romansh tokens"""
 
-    def __init__(self, idiom: str, in_voc: set, learned_et: bool = True):
+    def __init__(self, idiom: str, in_voc: set,learned_et: bool = True):
 
         self.idiom = idiom
 
@@ -33,21 +32,22 @@ class Analyzer:
         with open(json_path, "r", encoding="utf-8") as f:
             self.dict = json.load(f)
 
-        lem = []
-        for v in self.dict.values():
-            lem += v["lemma"]
+        self.lemma = {lemma for v in self.dict.values() for lemma in v["lemma"]}
 
-        self.lemma = lem
+        self.edit_trees = []
+        self.et_suffix_index = defaultdict(list)
+
         if self.learned_et:
-            self.edit_trees = []
-
+            sys.modules["edittree"] = edittree
             for pos in "noun", "adj", "verb":
-                et_path = (
-                    BASE_DIR / "edit_trees" / f"{self.idiom}" / f"{pos}" / "et.txt"
-                )
-                sys.modules["edittree"] = edittree
+                et_path = BASE_DIR / "edit_trees" / f"{self.idiom}" / f"{pos}" / "et.txt"
                 with open(et_path, "rb") as f:
                     self.edit_trees += pickle.load(f)
+
+            for et_pack in self.edit_trees:
+                suffix = self._get_expected_suffix(et_pack)
+                if suffix is not None:
+                    self.et_suffix_index[suffix].append(et_pack)
 
         self.in_voc = in_voc
 
@@ -56,70 +56,82 @@ class Analyzer:
         with open(other_de_path, "r", encoding="utf-8") as f:
             self.other_de = json.load(f)
 
-    def get_lemma(self, tok: str):
-        """Obtain lemma through table look up; backs off
-        to unsupervised edit tree rules if no lemma found
-        """
+        self.lemma_by_pos = defaultdict(set)
+        for v in self.dict.values():
+            for lemma, unimorph in zip(v["lemma"], v["unimorph"]):
+                if unimorph:
+                    pos = unimorph.split(";")[0]  # "N", "V", "ADJ", "V.PTCP"
+                    self.lemma_by_pos[pos].add(lemma)
+
+    def _get_expected_suffix(self, et_pack) -> str | None:
+        """Recurse down the right spine to find the expected suffix."""
+        node = et_pack["et"]
+        while node is not None:
+            if isinstance(node.val[0], str):  # leaf node
+                return node.val[0]
+            node = node.right
+        return None
+
+    def analyze(self, tok: str):
         tok = tok.lower().strip()
         entry = self.dict.get(tok)
-        entry_ls = []
+
+        lemmas, de_list, unimorph_list = [], [], []
+
         if entry:
-            entry_ls.extend(entry["lemma"])
-        if tok in self.other_de: # Augment the results with other_de entries
-              amount = len(self.other_de[tok]) # we need to add the lemma as many times as there are de translations for correct zipping later
-              tok_ls = [tok] * amount
-              entry_ls.extend(tok_ls)
-        if entry_ls:
-            return entry_ls
+            lemmas.extend(entry["lemma"])
+            de_list.extend(entry["DStichwort"])
+            unimorph_list.extend(entry["unimorph"])
+
+        if tok in self.other_de:
+            amount = len(self.other_de[tok])
+            lemmas.extend([tok] * amount)
+            de_list.extend(self.other_de[tok])
+            unimorph_list.extend([None] * amount)
+
+        if lemmas:
+            return lemmas, de_list, unimorph_list
+
+        if tok in self.in_voc:
+            return [tok], [None], [None]
+        return [None], [None], [None]
         
-        # Check if there's a lemma from the edit trees
-        if self.learned_et:
-            et_out = self._et_lemma(tok)
-            if et_out:
-                return [et_out]
-
-        # Assume the token is a lemma
-        return [tok] if tok in self.in_voc else [None]
-
-    def _et_lemma(self, tok: str):
+    def _et_analyze(self, tok: str):
         candidates = []
 
-        for et_pack in self.edit_trees:
-            et = et_pack["et"]
-            out = et.apply(tok)
+        for suffix, packs in self.et_suffix_index.items():
+            if tok.endswith(suffix):
+                for et_pack in packs:
+                    out = et_pack["et"].apply(tok)
+                    if out != -1:
+                        candidates.append((out, et_pack.get("majority_tag")))
 
-            if out != -1:
-                candidates.append(out)
+        strong_tagged = []
+        strong_untagged = []
 
-        strong = [c for c in candidates if c in self.lemma]
+        for c, tag in candidates:
+            if c not in self.lemma:
+                continue
+            if tag:
+                pos = tag.split(";")[0]
+                pos_lemmas = self.lemma_by_pos.get(pos, self.lemma)
+                if c in pos_lemmas:
+                    strong_tagged.append((c, tag))
+            else:
+                if len(c) <= len(tok):  # lemma can't be longer than inflected form
+                    strong_untagged.append((c, tag))
+
+        # Prefer tagged candidates; only use untagged if nothing else found
+        strong = strong_tagged if strong_tagged else strong_untagged
+
+        if not strong:
+            return None, None
 
         if len(strong) > 1:
-            # Choose the candidate with the lowest edit distance to the tok:
-            dist = {}
-            for c in strong:
-                dist[c] = cer(tok, c)
-            out = min(dist, key=dist.get)
-            return out if out in self.in_voc else None
+            dist = {c: Levenshtein.normalized_distance(tok, c) for c, _ in strong}
+            best = min(dist, key=dist.get)
+            match = next((c, tag) for c, tag in strong if c == best)
+            return match if match[0] in self.in_voc else (None, None)
 
-        return strong[0] if strong and strong[0] in self.in_voc else None
-
-    def get_unimorph(self, tok: str):
-        """Obtain Unimorph annotation for N, V, and ADJ
-        in the Pledari Grond Dict"""
-        tok = tok.lower().strip()
-        entry = self.dict.get(tok)
-        if entry:
-            return entry["unimorph"]
-        return [None]
-
-    def get_de(self, tok: str):
-        """Obtain the German word corresponding to Romansh terms in the Pledari Grond Dict"""
-        tok = tok.lower().strip()
-        entry = self.dict.get(tok)
-        entry_ls = []
-        if entry:
-            entry_ls.extend(entry["DStichwort"])
-        if tok in self.other_de: # Augment the results with other_de entries
-           entry_ls.extend(self.other_de[tok])
-        return entry_ls if entry_ls else [None]
-
+        c, tag = strong[0]
+        return (c, tag) if c in self.in_voc else (None, None)

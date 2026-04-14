@@ -1,5 +1,5 @@
 from collections import Counter, defaultdict
-from romansh_lemmatizer import Lemmatizer, tokenizer
+from rumlem import Lemmatizer, tokenizer
 import nltk
 import ds_loaders
 import config
@@ -8,13 +8,18 @@ import json
 from tqdm import tqdm
 import re
 
+
 def _remove_stopwords(text):
     return [w for w in text.split() if w.lower() not in STOPWORDS]
+
 
 def _safe_ratio(correct: int, total: int) -> float:
     return round((correct / total), 2) if total else 0.0
 
-def build_length_buckets(source, langs=IDIOMS, print_summaries=True, streaming=False, limit=None):
+
+def build_length_buckets(
+    source, langs=IDIOMS, print_summaries=True, streaming=False, limit=None
+):
     BUCKETS = getattr(config, f"{source.upper()}_BUCKETS")
     loading_func = getattr(ds_loaders, f"load_{source}")
 
@@ -41,7 +46,11 @@ def build_length_buckets(source, langs=IDIOMS, print_summaries=True, streaming=F
             print(f"\n=== {idiom} ===")
 
         # --- load dataset ---
-        ds = loading_func(idiom) if source != "fineweb" else loading_func(idiom, streaming, limit)
+        ds = (
+            loading_func(idiom)
+            if source != "fineweb"
+            else loading_func(idiom, streaming, limit)
+        )
 
         # annotate
         def annotate(example):
@@ -59,7 +68,9 @@ def build_length_buckets(source, langs=IDIOMS, print_summaries=True, streaming=F
             label = f"{lo}-{hi}"
             bucket_ds = ds.filter(lambda x: x["bucket"] == label)
             if streaming:
-                bucket_ds = list(bucket_ds)  # convert this bucket to a list for fast iteration
+                bucket_ds = list(
+                    bucket_ds
+                )  # convert this bucket to a list for fast iteration
             idiom_bucket_sets[label] = bucket_ds
         bucket_datasets[idiom] = idiom_bucket_sets
 
@@ -129,7 +140,10 @@ def build_length_buckets(source, langs=IDIOMS, print_summaries=True, streaming=F
 
     return bucket_datasets
 
-def evaluate_buckets(source, buckets, langs=IDIOMS, remove_stopwords=False, sets_only=False):
+
+def evaluate_buckets(
+    source, buckets, langs=IDIOMS, remove_stopwords=False, sets_only=False
+):
     BUCKETS = getattr(config, f"{source.upper()}_BUCKETS")
 
     results = {idiom: {f"{lo}-{hi}": {} for lo, hi in BUCKETS} for idiom in langs}
@@ -148,9 +162,11 @@ def evaluate_buckets(source, buckets, langs=IDIOMS, remove_stopwords=False, sets
             for idx, sample in enumerate(tqdm(ds, desc=f"{idiom}-{bucket_key}")):
                 actual_idiom = idiom
                 sent = sample["sentence"]
-                #sent = re.sub(STRIP_PUNCT, '', sent)
+                # sent = re.sub(STRIP_PUNCT, '', sent)
                 if sets_only:
-                    sent = " ".join(list(set(tokenizer.Rm_Tokenizer("unk").tokenize(sent))))
+                    sent = " ".join(
+                        list(set(tokenizer.Rm_Tokenizer("unk").tokenize(sent)))
+                    )
                 if remove_stopwords:
                     sent = " ".join(_remove_stopwords(sent))
 
@@ -175,7 +191,9 @@ def evaluate_buckets(source, buckets, langs=IDIOMS, remove_stopwords=False, sets
             lowest_avg_score = min(
                 res["avg_score"] for res in results[idiom][bucket_key].values()
             )
-            analysis[idiom][bucket_key]["lowest_winning_score"] = round(lowest_winning_score, 2)
+            analysis[idiom][bucket_key]["lowest_winning_score"] = round(
+                lowest_winning_score, 2
+            )
             analysis[idiom][bucket_key]["lowest_avg_score"] = round(lowest_avg_score, 2)
             # also compute the distribution of these two values as dictionaries mapping score to count; round them to two decimal places for readability
             winning_score_dist = Counter(
@@ -203,6 +221,7 @@ def evaluate_buckets(source, buckets, langs=IDIOMS, remove_stopwords=False, sets
 
     return results, analysis
 
+
 def evaluate_buckets_coverage(source, buckets, langs=IDIOMS, edittrees=False):
     def _has_info(morph, translation):
         morph_info = False
@@ -219,7 +238,10 @@ def evaluate_buckets_coverage(source, buckets, langs=IDIOMS, edittrees=False):
 
     results = {idiom: {f"{lo}-{hi}": {} for lo, hi in BUCKETS} for idiom in langs}
     analysis = {
-        idiom: {f"{lo}-{hi}": {"total_tokens": 0, "lemmatized_tokens": 0} for lo, hi in BUCKETS}
+        idiom: {
+            f"{lo}-{hi}": {"total_tokens": 0, "lemmatized_tokens": 0}
+            for lo, hi in BUCKETS
+        }
         for idiom in langs
     }
 
@@ -235,7 +257,7 @@ def evaluate_buckets_coverage(source, buckets, langs=IDIOMS, edittrees=False):
             # use the lemmatizer to classify each sentence in the bucket
             for idx, sample in enumerate(tqdm(ds, desc=f"{idiom}-{bucket_key}")):
                 sent = sample["sentence"]
-                sent = re.sub(STRIP_PUNCT, '', sent)
+                sent = re.sub(STRIP_PUNCT, "", sent)
                 doc = lemmatizer(sent)
                 total_lemmatized = 0
                 tokens_no_lemma = []
@@ -244,19 +266,24 @@ def evaluate_buckets_coverage(source, buckets, langs=IDIOMS, edittrees=False):
                         tokens_no_lemma.append(tok.text)
                     if tok.lemmas:
                         # check whether has morph or has trans
-                        if any(_has_info(morph, l.translation_de) for l, morph in tok.lemmas.items()):
+                        if any(
+                            _has_info(morph, l.translation_de)
+                            for l, morph in tok.lemmas.items()
+                        ):
                             total_lemmatized += 1
                         else:
                             tokens_no_lemma.append(tok.text)
- 
+
                 total_tokens = len(doc.tokens)
-                assert total_lemmatized == total_tokens - len(tokens_no_lemma), "something went wrong counting lemmatizable and non-lemmatizable forms"
+                assert total_lemmatized == total_tokens - len(
+                    tokens_no_lemma
+                ), "something went wrong counting lemmatizable and non-lemmatizable forms"
 
                 results[idiom][bucket_key][idx] = {
                     "total_tokens": total_tokens,
                     "total_lemmatized": total_lemmatized,
                     "tokens_without_lemma": tokens_no_lemma,
-                    "coverage": total_lemmatized/total_tokens,
+                    "coverage": total_lemmatized / total_tokens,
                 }
 
     # --- analysis ---
@@ -269,24 +296,26 @@ def evaluate_buckets_coverage(source, buckets, langs=IDIOMS, edittrees=False):
             analysis[idiom][bucket_key]["lowest_coverage"] = lowest_coverage
 
             coverage_list = sorted(
-                res["coverage"]
-                for res in results[idiom][bucket_key].values()
+                res["coverage"] for res in results[idiom][bucket_key].values()
             )
             total_tokens_overall = sum(
-                res["total_tokens"]
-                for res in results[idiom][bucket_key].values()
+                res["total_tokens"] for res in results[idiom][bucket_key].values()
             )
             total_lemmatized_overall = sum(
-                res["total_lemmatized"]
-                for res in results[idiom][bucket_key].values()
+                res["total_lemmatized"] for res in results[idiom][bucket_key].values()
             )
             analysis[idiom][bucket_key]["total_tokens"] = total_tokens_overall
             analysis[idiom][bucket_key]["lemmatized_tokens"] = total_lemmatized_overall
-            analysis[idiom][bucket_key]["overall_coverage"] = round(total_lemmatized_overall/total_tokens_overall, 2)
-            analysis[idiom][bucket_key]["avg_coverage"] = round(sum(coverage_list)/len(coverage_list), 2)
+            analysis[idiom][bucket_key]["overall_coverage"] = round(
+                total_lemmatized_overall / total_tokens_overall, 2
+            )
+            analysis[idiom][bucket_key]["avg_coverage"] = round(
+                sum(coverage_list) / len(coverage_list), 2
+            )
             analysis[idiom][bucket_key]["all_coverages"] = coverage_list
 
     return results, analysis
+
 
 def enrich_analysis(path: str):
     with open(path, "r", encoding="utf-8") as f:
@@ -357,6 +386,7 @@ def enrich_analysis(path: str):
     # overwrite file
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+
 
 def enrich_coverage_analysis(path: str):
     with open(path, "r", encoding="utf-8") as f:

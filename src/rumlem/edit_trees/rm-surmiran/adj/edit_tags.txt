@@ -1,0 +1,40 @@
+		ADJ;MASC;SG
+a		ADJ;FEM;SG
+a	es	ADJ;FEM;SG
+a/ti'	es	ADJ;FEM;SG
+ada	o	ADJ;FEM;SG
+as		ADJ;FEM;PL
+as	es	ADJ;FEM;SG
+ava	o	ADJ;FEM;SG
+ca		ADJ;FEM;SG
+cla		ADJ;FEM;SG
+eda	a	ADJ;FEM;SG
+eida	ia	ADJ;FEM;SG
+eisa	ia	ADJ;FEM;SG
+eissa	ia	ADJ;FEM;SG
+fa		ADJ;FEM;SG
+gia	tg	ADJ;FEM;SG
+gious	ous	ADJ;MASC;PL
+ia		ADJ;FEM;SG
+ia	vel	ADJ;FEM;SG
+la		ADJ;FEM;SG
+la	el	ADJ;FEM;SG
+la	hel	ADJ;FEM;SG
+ma		ADJ;FEM;SG
+na		ADJ;FEM;SG
+na	en	ADJ;FEM;SG
+na	len	ADJ;FEM;SG
+pa		ADJ;FEM;SG
+ra		ADJ;FEM;SG
+ra	er	ADJ;FEM;SG
+ra	her	ADJ;FEM;SG
+ra	ter	ADJ;FEM;SG
+ra	zer	ADJ;FEM;SG
+s		ADJ;MASC;PL
+sa		ADJ;FEM;SG
+sa	z	ADJ;FEM;SG
+ta		ADJ;FEM;SG
+tas		ADJ;FEM;PL
+tgna	gen	ADJ;FEM;SG
+vel	ia	ADJ;FEM;SG
+za		ADJ;FEM;SG

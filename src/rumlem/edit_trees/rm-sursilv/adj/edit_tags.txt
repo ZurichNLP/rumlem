@@ -1,0 +1,642 @@
+		ADJ;MASC;SG
+	c	ADJ;MASC;SG
+	ta	ADJ;MASC;SG
+	u	ADJ;MASC;PL
+, atgnamein		ADV
+, aultamein		ADV
+, bassamein		ADV
+, bletschamein		ADV
+, bluttamein		ADV
+, caputamein		ADV
+, caramein		ADV
+, cauldamein		ADV
+, criuamein		ADV
+, largamein		ADV
+, mez		ADV
+, perdertamein		ADV
+, propiamein		ADV
+, termentamein		ADV
+, tgunschamein		ADV
+, traviarsamein		ADV
+, uiarschamein		ADV
+, ultraspertamein		ADV
+, ureidiamein		ADV
+, vedramein		ADV
+, vitamein		ADV
+a		ADJ;FEM;SG
+a	c	ADJ;MASC;PL
+a	s	ADJ;FEM;SG
+a	t	ADJ;FEM;SG
+acca	iec	ADJ;FEM;SG
+accamein	iec	ADV
+accas	iec	ADJ;FEM;PL
+acorta	itgiert	ADJ;FEM;SG
+acortamein, mitgiert	itgiert	ADV
+acortas	itgiert	ADJ;FEM;PL
+acortatscha	itgiertatsch	ADJ;FEM;SG
+acortatschamein	itgiertatsch	ADV
+acortatschas	itgiertatsch	ADJ;FEM;PL
+acortatschs	itgiertatsch	ADJ;MASC;PL
+acorts	itgiert	ADJ;PRED
+acs	iec	ADJ;PRED
+aila	ial	ADJ;FEM;SG
+al		ADJ;MASC;SG
+ala		ADJ;FEM;SG
+alas		ADJ;FEM;PL
+aletta	et	ADJ;FEM;SG
+alettas	et	ADJ;FEM;PL
+all'incontinenta	incontinent	ADJ;FEM;SG
+almein		ADV
+als		ADJ;MASC;PL
+alus	elus	ADJ;MASC;PL
+alusa	elus	ADJ;FEM;SG
+alusamein	elus	ADV
+alusas	elus	ADJ;FEM;PL
+amein		ADV
+amein	c	ADV
+amein	s	ADV
+amein, abrupt		ADV
+amein, absolut		ADV
+amein, anetg		ADV
+amein, braus		ADV
+amein, brausi		ADV
+amein, cliec		ADV
+amein, cumplein		ADV
+amein, dretg		ADV
+amein, dultsch		ADV
+amein, enguord		ADV
+amein, enorm		ADV
+amein, eri		ADV
+amein, exact		ADV
+amein, excellent		ADV
+amein, express		ADV
+amein, exteriurmein		ADV
+amein, extraordinari		ADV
+amein, fauls		ADV
+amein, ferm		ADV
+amein, fin		ADV
+amein, fix		ADV
+amein, franc		ADV
+amein, frestg		ADV
+amein, git		ADV
+amein, gleiti		ADV
+amein, glisch		ADV
+amein, grev		ADV
+amein, grond		ADV
+amein, hefti		ADV
+amein, hezi		ADV
+amein, hofli		ADV
+amein, horrent		ADV
+amein, hurti		ADV
+amein, höfli		ADV
+amein, immediat		ADV
+amein, inclusiv		ADV
+amein, incognit		ADV
+amein, incorrect		ADV
+amein, indirect		ADV
+amein, inexact		ADV
+amein, inferiurmein		ADV
+amein, innocent		ADV
+amein, inquiet		ADV
+amein, instant		ADV
+amein, instinctiv		ADV
+amein, instont		ADV
+amein, interiurmein		ADV
+amein, invan		ADV
+amein, lev		ADV
+amein, liederli		ADV
+amein, liung		ADV
+amein, lom		ADV
+amein, lontan		ADV
+amein, madir		ADV
+amein, mal		ADV
+amein, malcert		ADV
+amein, malgengli		ADV
+amein, malguess		ADV
+amein, malidi		ADV
+amein, maliertg		ADV
+amein, malmadir		ADV
+amein, malperdert		ADV
+amein, malrecli		ADV
+amein, malsegir		ADV
+amein, malusti		ADV
+amein, marsch		ADV
+amein, marv		ADV
+amein, marvegl		ADV
+amein, massiv		ADV
+amein, miezaviert		ADV
+amein, miezgrev		ADV
+amein, narr		ADV
+amein, ner		ADV
+amein, ordinari		ADV
+amein, pauc		ADV
+amein, paur		ADV
+amein, pir		ADV
+amein, plaun		ADV
+amein, plein		ADV
+amein, precis		ADV
+amein, promt		ADV
+amein, pulit		ADV
+amein, rapid		ADV
+amein, rar		ADV
+amein, rasa		ADV
+amein, recli		ADV
+amein, retratg		ADV
+amein, ruh		ADV
+amein, scart		ADV
+amein, schetg		ADV
+amein, schreg		ADV
+amein, segir		ADV
+amein, sempitern		ADV
+amein, serein		ADV
+amein, serius		ADV
+amein, solemn		ADV
+amein, soli		ADV
+amein, solit		ADV
+amein, spert		ADV
+amein, spess		ADV
+amein, spir		ADV
+amein, stagn		ADV
+amein, stuorn		ADV
+amein, sul		ADV
+amein, surtratg		ADV
+amein, tard		ADV
+amein, tgeu		ADV
+amein, uliv		ADV
+amein, ver		ADV
+amein. tgeu		ADV
+amentus	inal	ADJ;MASC;PL
+amentusa	inal	ADJ;FEM;SG
+amentusamein	inal	ADV
+amentusas	inal	ADJ;FEM;PL
+amentuss	inal	ADJ;PRED
+ars	ers	ADJ;MASC;PL
+arsa	ers	ADJ;FEM;SG
+arsas	ers	ADJ;FEM;PL
+arscha	ersch	ADJ;FEM;SG
+arschamein	ersch	ADV
+arschas	ersch	ADJ;FEM;PL
+arschs	ersch	ADJ;PRED
+arta	ert	ADJ;FEM;SG
+arta	iert	ADJ;FEM;SG
+artamein	ert	ADV
+artamein	iert	ADV
+artamein, perdiart	ert	ADV
+artas	ert	ADJ;FEM;PL
+artas	iert	ADJ;FEM;PL
+arts	ert	ADJ;MASC;PL
+arts	iert	ADJ;MASC;PL
+arus	urus	ADJ;PRED
+arusa	urus	ADJ;FEM;SG
+arusamein	urus	ADV
+arusas	urus	ADJ;FEM;PL
+arva	ierv	ADJ;FEM;SG
+arvamein	ierv	ADV
+arvas	ierv	ADJ;FEM;PL
+arvs	ierv	ADJ;MASC;PL
+as		ADJ;FEM;PL
+as	c	ADJ;FEM;PL
+as	s	ADJ;FEM;PL
+asta	est	ADJ;FEM;SG
+astamein	est	ADV
+astas	est	ADJ;FEM;PL
+asters	ester	ADJ;PRED
+astia	esti	ADJ;FEM;SG
+astiamein	esti	ADV
+astias	esti	ADJ;FEM;PL
+astis	esti	ADJ;MASC;PL
+astra	ester	ADJ;FEM;SG
+astramein	ester	ADV
+astras	ester	ADJ;FEM;PL
+asts	est	ADJ;MASC;PL
+ata	et	ADJ;FEM;SG
+atas	et	ADJ;FEM;PL
+ats	et	ADJ;MASC;PL
+ats	iet	ADJ;MASC;PL
+atta	iet	ADJ;FEM;SG
+attas	iet	ADJ;FEM;PL
+bel	tiv	ADJ;MASC;SG
+bels	tiv	ADJ;MASC;PL
+bla	tiv	ADJ;FEM;SG
+blamein	tiv	ADV
+blas	tiv	ADJ;FEM;PL
+buc	ta	ADJ;FEM;SG
+burbanus	vermanus	ADJ;PRED
+burbanusa	vermanus	ADJ;FEM;SG
+burbanusamein	vermanus	ADV
+burbanusas	vermanus	ADJ;FEM;PL
+ca		ADJ;FEM;SG
+cadus	gadus	ADJ;MASC;PL
+cadusa	gadus	ADJ;FEM;SG
+cadusamein	gadus	ADV
+cadusas	gadus	ADJ;FEM;PL
+camein		ADV
+camein, luc		ADV
+camein, maltschec		ADV
+camein. sec		ADV
+cas		ADJ;FEM;PL
+chel	del	ADJ;MASC;SG
+chel, maneclamein	del	ADV
+chels	del	ADJ;MASC;PL
+cla	del	ADJ;FEM;SG
+clas	del	ADJ;FEM;PL
+cmein		ADV
+cotschens	tgietschen	ADJ;MASC;PL
+cotschna	tgietschen	ADJ;FEM;SG
+cotschnamein	tgietschen	ADV
+cotschnas	tgietschen	ADJ;FEM;PL
+cuadus	quidus	ADJ;MASC;PL
+cuadusa	quidus	ADJ;FEM;SG
+cuadusamein	quidus	ADV
+cuadusas	quidus	ADJ;FEM;PL
+da	et	ADJ;FEM;SG
+da	u	ADJ;FEM;SG
+damein	et	ADV
+damein	u	ADV
+damein, schavet	et	ADV
+das	et	ADJ;FEM;PL
+das	u	ADJ;FEM;PL
+di	ertg	ADJ;MASC;SG
+dia	ertg	ADJ;FEM;SG
+diamein	ertg	ADV
+dias	ertg	ADJ;FEM;PL
+dis	ertg	ADJ;PRED
+dumbrus	numerus	ADJ;MASC;SG
+dumbrusa	numerus	ADJ;FEM;SG
+dumbrusamein	numerus	ADV
+dumbrusas	numerus	ADJ;FEM;PL
+dunabel	fectibel	ADJ;MASC;SG
+dunabels	fectibel	ADJ;MASC;PL
+dunabla	fectibel	ADJ;FEM;SG
+dunablamein	fectibel	ADV
+dunablas	fectibel	ADJ;FEM;PL
+ea	è	ADJ;FEM;SG
+eas	è	ADJ;FEM;PL
+ecca	èc	ADJ;FEM;SG
+ecca	éc	ADJ;FEM;SG
+eccamein	èc	ADV
+eccamein	éc	ADV
+eccas	èc	ADJ;FEM;PL
+eccas	éc	ADJ;FEM;PL
+eglius	iglius	ADJ;MASC;SG
+egliusa	iglius	ADJ;FEM;SG
+egliusamein	iglius	ADV
+egliusas	iglius	ADJ;FEM;PL
+ela	ala	ADJ;FEM;SG
+en posta restonta	postrestant	ADJ;FEM;SG
+ensus	anzus	ADJ;MASC;SG
+ensusa	anzus	ADJ;FEM;SG
+ensusamein	anzus	ADV
+ensusas	anzus	ADJ;FEM;PL
+era	tera	ADJ;FEM;SG
+era	è	ADJ;FEM;SG
+eramein	tera	ADV
+eramein	è	ADV
+eras	tera	ADJ;PRED
+eras	è	ADJ;FEM;PL
+ericulus	rigulus	ADJ;MASC;PL
+ericulusa	rigulus	ADJ;FEM;SG
+ericulusamein	rigulus	ADV
+ericulusas	rigulus	ADJ;FEM;PL
+ers	iars	ADJ;MASC;PL
+ers	è	ADJ;MASC;PL
+ersa	iars	ADJ;FEM;SG
+ersamein	iars	ADV
+ersas	iars	ADJ;FEM;PL
+esa	iez	ADJ;FEM;SG
+esas	iez	ADJ;FEM;PL
+esastrus	isastrus	ADJ;MASC;PL
+esastrusa	isastrus	ADJ;FEM;SG
+esastrusamein	isastrus	ADV
+esastrusas	isastrus	ADJ;FEM;PL
+ezmiert	iezmiert	ADJ;MASC;SG
+ezmorta	iezmiert	ADJ;FEM;SG
+ezmortas	iezmiert	ADJ;FEM;PL
+ezmorts	iezmiert	ADJ;MASC;PL
+ezs	iez	ADJ;MASC;PL
+ezschelada	iez	ADJ;FEM;SG
+ezscheladamein	iez	ADV
+ezscheladas	iez	ADJ;FEM;PL
+ezschelai	iez	ADJ;MASC;PL
+ezschelaus	iez	ADJ;MASC;PL
+fa		ADJ;FEM;SG
+famein		ADV
+fas		ADJ;FEM;PL
+ghel	chel	ADJ;MASC;SG
+ghels	chel	ADJ;PRED
+gia	tg	ADJ;FEM;SG
+giadines	engiadines	ADJ;MASC;PL
+giadinesa	engiadines	ADJ;FEM;SG
+giadinesas	engiadines	ADJ;FEM;PL
+giamein	tg	ADV
+giamein, lartg	tg	ADV
+gias	tg	ADJ;FEM;PL
+gla	chel	ADJ;FEM;SG
+glamein	chel	ADV
+glas	chel	ADJ;FEM;PL
+gn	ntg	ADJ;MASC;SG
+gns	ntg	ADJ;MASC;PL
+i	ar	ADJ;MASC;PL
+i	l	ADJ;MASC;PL
+i	u	ADJ;MASC;PL
+ia		ADJ;FEM;SG
+ial	vial	ADJ;MASC;SG
+iala	el	ADJ;FEM;SG
+iala	vial	ADJ;FEM;SG
+ialas	el	ADJ;FEM;PL
+ialas	vial	ADJ;FEM;PL
+ialmein	el	ADV
+ialmein	vial	ADV
+ials	el	ADJ;MASC;PL
+ials	vial	ADJ;PRED
+iamein		ADV
+ias		ADJ;FEM;PL
+ic	ecnic	ADJ;MASC;SG
+ica	ecnic	ADJ;FEM;SG
+icamein	ecnic	ADV
+icas	ecnic	ADJ;FEM;PL
+ics	ecnic	ADJ;MASC;PL
+ida	ar	ADJ;FEM;SG
+idamein	ar	ADV
+idas	ar	ADJ;FEM;PL
+iert	aset	ADJ;MASC;SG
+ila	l	ADJ;FEM;SG
+ischada	aschau	ADJ;FEM;SG
+ischadamein	aschau	ADV
+ischadas	aschau	ADJ;FEM;PL
+ischai	aschau	ADJ;MASC;PL
+ischau	aschau	ADJ;MASC;SG
+iu	ar	ADJ;MASC;SG
+ivel	r	ADJ;MASC;SG
+ivels	r	ADJ;PRED
+ivla	r	ADJ;FEM;SG
+ivlamein	r	ADV
+ivlas	r	ADJ;FEM;PL
+la		ADJ;FEM;SG
+la	al	ADJ;FEM;SG
+la	el	ADJ;FEM;SG
+la	hel	ADJ;FEM;SG
+la	tel	ADJ;FEM;SG
+lamein		ADV
+lamein	al	ADV
+lamein	el	ADV
+lamein	hel	ADV
+lamein	tel	ADV
+lamein, brausel	el	ADV
+lamein, horribel	el	ADV
+lamein, manedel	el	ADV
+lamein, marvel	el	ADV
+lamein, miserabel	el	ADV
+lamein, pusseivel	el	ADV
+lamein, satel		ADV
+lamein, sempel	el	ADV
+lamein, snueivel	el	ADV
+lamein, strebel	el	ADV
+las		ADJ;FEM;PL
+las	al	ADJ;FEM;PL
+las	el	ADJ;FEM;PL
+las	hel	ADJ;FEM;PL
+las	tel	ADJ;FEM;PL
+ma		ADJ;FEM;SG
+ma	em	ADJ;FEM;SG
+mamein		ADV
+mamein	em	ADV
+mas		ADJ;FEM;PL
+mas	em	ADJ;FEM;PL
+mein		ADV
+mein, egal		ADV
+mein, general		ADV
+mein, nunclar		ADV
+mein, pauschal		ADV
+mein, radical		ADV
+na		ADJ;FEM;SG
+na	en	ADJ;FEM;SG
+na	len	ADJ;FEM;SG
+namein		ADV
+namein	en	ADV
+namein	len	ADV
+namein, fin		ADV
+namein, perpeten	en	ADV
+namein, superfin		ADV
+nas		ADJ;FEM;PL
+nas	en	ADJ;FEM;PL
+nas	len	ADJ;FEM;PL
+neidi	malneidi	ADJ;MASC;SG
+neidia	malneidi	ADJ;FEM;SG
+neidiamein	malneidi	ADV
+neidias	malneidi	ADJ;FEM;PL
+neidis	malneidi	ADJ;MASC;PL
+ntada	gl	ADJ;FEM;SG
+ntadamein	gl	ADV
+ntadas	gl	ADJ;FEM;PL
+ntai	gl	ADJ;MASC;PL
+ntau	gl	ADJ;MASC;SG
+ntga	gn	ADJ;FEM;SG
+ntgamein	gn	ADV
+ntgamein, stregn	gn	ADV
+ntgas	gn	ADJ;FEM;PL
+obels	iebel	ADJ;MASC;PL
+obla	iebel	ADJ;FEM;SG
+oblamein	iebel	ADV
+oblas	iebel	ADJ;FEM;PL
+occa	iec	ADJ;FEM;SG
+occamein	iec	ADV
+occas	iec	ADJ;FEM;PL
+ocs	iec	ADJ;MASC;PL
+ompus	umpus	ADJ;MASC;PL
+ompusa	umpus	ADJ;FEM;SG
+ompusamein	umpus	ADV
+ompusas	umpus	ADJ;FEM;PL
+onnus	unnus	ADJ;MASC;PL
+onnusa	unnus	ADJ;FEM;SG
+onnusamein	unnus	ADV
+onnusas	unnus	ADJ;FEM;PL
+oppa	iep	ADJ;FEM;SG
+oppamein	iep	ADV
+oppas	iep	ADJ;FEM;PL
+ops	iep	ADJ;MASC;PL
+orfans	ierfan	ADJ;MASC;PL
+orfna	ierfan	ADJ;FEM;SG
+orfnas	ierfan	ADJ;FEM;PL
+orgia	iertg	ADJ;FEM;SG
+orgiamein	iertg	ADV
+orgias	iertg	ADJ;FEM;PL
+ors	iers	ADJ;PRED
+orsa	iers	ADJ;FEM;SG
+orsamein	iers	ADV
+orsas	iers	ADJ;FEM;PL
+orta	aset	ADJ;FEM;SG
+orta	iert	ADJ;FEM;SG
+ortafom	iertfom	ADJ;FEM;SG
+ortamein	aset	ADV
+ortamein	iert	ADV
+ortamein, miert	iert	ADV
+ortas	aset	ADJ;FEM;PL
+ortas	iert	ADJ;FEM;PL
+ortasfom	iertfom	ADJ;FEM;PL
+ortga	iertg	ADJ;FEM;SG
+ortgamein, iertg	iertg	ADV
+ortgas	iertg	ADJ;FEM;PL
+ortgs	iertg	ADJ;MASC;PL
+orts	aset	ADJ;MASC;PL
+orts	iert	ADJ;MASC;PL
+ortsfom	iertfom	ADJ;MASC;PL
+oss	ies	ADJ;PRED
+ossa	ies	ADJ;FEM;SG
+ossamein	ies	ADV
+ossamein, gries	ies	ADV
+ossas	ies	ADJ;FEM;PL
+osta	iest	ADJ;FEM;SG
+ostamein	iest	ADV
+ostas	iest	ADJ;FEM;PL
+osts	iest	ADJ;MASC;PL
+oti	rdent	ADJ;MASC;SG
+otia	rdent	ADJ;FEM;SG
+otiamein	rdent	ADV
+otias	rdent	ADJ;FEM;PL
+otis	rdent	ADJ;PRED
+ova	iev	ADJ;FEM;SG
+ovamein	iev	ADV
+ovamein, niev	iev	ADV
+ovas	iev	ADJ;FEM;PL
+ovs	iev	ADJ;PRED
+pa		ADJ;FEM;SG
+pagandistic	nunziau	ADJ;MASC;SG
+pagandistica	nunziau	ADJ;FEM;SG
+pagandisticamein	nunziau	ADV
+pagandisticas	nunziau	ADJ;FEM;PL
+pagandistics	nunziau	ADJ;MASC;PL
+pamein		ADV
+pamein, gtop		ADV
+pamein, tup		ADV
+pas		ADJ;FEM;PL
+pectus	tanzius	ADJ;MASC;PL
+pectusa	tanzius	ADJ;FEM;SG
+pectusamein	tanzius	ADV
+pectusas	tanzius	ADJ;FEM;PL
+pendent	scrivibel	ADJ;MASC;SG
+pendenta	scrivibel	ADJ;FEM;SG
+pendentamein	scrivibel	ADV
+pendentas	scrivibel	ADJ;FEM;PL
+pendents	scrivibel	ADJ;MASC;PL
+r	l	ADJ;MASC;SG
+ra		ADJ;FEM;SG
+ra	er	ADJ;FEM;SG
+ra	fer	ADJ;FEM;SG
+ra	her	ADJ;FEM;SG
+ra	l	ADJ;FEM;SG
+ra	ter	ADJ;FEM;SG
+ra	zer	ADJ;FEM;SG
+ramein		ADV
+ramein	er	ADV
+ramein	fer	ADV
+ramein	her	ADV
+ramein	ter	ADV
+ramein	zer	ADV
+ramein, eiver	er	ADV
+ramein, hazer	er	ADV
+ramein, legher	her	ADV
+ramein, liber	er	ADV
+ramein, magher	her	ADV
+ramein, malschuber	er	ADV
+ramein, oreifer	er	ADV
+ramein, schuber	er	ADV
+ras		ADJ;FEM;PL
+ras	er	ADJ;FEM;PL
+ras	fer	ADJ;FEM;PL
+ras	her	ADJ;FEM;PL
+ras	l	ADJ;FEM;PL
+ras	ter	ADJ;FEM;PL
+ras	zer	ADJ;FEM;PL
+rdinada	ccupau	ADJ;FEM;SG
+rdinadamein	ccupau	ADV
+rdinadas	ccupau	ADJ;FEM;PL
+rdinai	ccupau	ADJ;MASC;PL
+rdinau	ccupau	ADJ;MASC;SG
+rdinaus	ccupau	ADJ;PRED
+reas	er	ADJ;FEM;PL
+ri	li	ADJ;MASC;SG
+ria	li	ADJ;FEM;SG
+riamein	li	ADV
+rias	li	ADJ;FEM;PL
+ris	li	ADJ;MASC;PL
+rmein		ADV
+rmein	l	ADV
+rmein, malsegir		ADV
+rs		ADJ;MASC;PL
+rs	l	ADJ;MASC;PL
+s		ADJ;PRED
+s	c	ADJ;FEM;SG
+s	ta	ADJ;PRED
+s	z	ADJ;MASC;SG
+sa		ADJ;FEM;SG
+sa	z	ADJ;FEM;SG
+salada	nau	ADJ;FEM;SG
+saladamein	nau	ADV
+saladas	nau	ADJ;FEM;PL
+salai	nau	ADJ;MASC;PL
+salau	nau	ADJ;MASC;SG
+samein		ADV
+samein	z	ADV
+sas		ADJ;FEM;PL
+sas	z	ADJ;FEM;PL
+ta		ADJ;FEM;SG
+tamein		ADV
+tamein, met		ADV
+tamein, plat		ADV
+tamein, schuen		ADV
+tamein, sulet		ADV
+tas		ADJ;FEM;PL
+tetic	static	ADJ;MASC;SG
+tetica	static	ADJ;FEM;SG
+teticamein	static	ADV
+teticas	static	ADJ;FEM;PL
+tetics	static	ADJ;MASC;PL
+tga	idi	ADJ;FEM;SG
+tgamein	idi	ADV
+tgas	idi	ADJ;FEM;PL
+tgna	gen	ADJ;FEM;SG
+tgnamein	gen	ADV
+tgnas	gen	ADJ;FEM;PL
+tus	itus	ADJ;MASC;SG
+tus	zius	ADJ;MASC;PL
+tusa	itus	ADJ;FEM;SG
+tusa	zius	ADJ;FEM;SG
+tusamein	itus	ADV
+tusamein	zius	ADV
+tusas	itus	ADJ;FEM;PL
+tusas	zius	ADJ;FEM;PL
+una	ien	ADJ;FEM;SG
+unas	ien	ADJ;FEM;PL
+unatscha	ienatsch	ADJ;FEM;SG
+unatschamein	ienatsch	ADV
+unatschas	ienatsch	ADJ;FEM;PL
+unatschs	ienatsch	ADJ;MASC;PL
+unets	ienet	ADJ;MASC;PL
+unetta	ienet	ADJ;FEM;SG
+unettas	ienet	ADJ;FEM;PL
+uns	ien	ADJ;MASC;PL
+us		ADJ;MASC;SG
+us	aunc	ADJ;MASC;PL
+us	il	ADJ;MASC;SG
+us	nus	ADJ;MASC;SG
+usa		ADJ;FEM;SG
+usa	aunc	ADJ;FEM;SG
+usa	il	ADJ;FEM;SG
+usa	nus	ADJ;FEM;SG
+usamein		ADV
+usamein	aunc	ADV
+usamein	il	ADV
+usamein	nus	ADV
+usas		ADJ;FEM;PL
+usas	aunc	ADJ;FEM;PL
+usas	il	ADJ;FEM;PL
+usas	nus	ADJ;FEM;PL
+vlamein	ivel	ADV
+z	t	ADJ;MASC;SG
+za		ADJ;FEM;SG
+za	t	ADJ;FEM;SG
+zamein		ADV
+zas		ADJ;FEM;PL
+zas	t	ADJ;FEM;PL
+zs	t	ADJ;MASC;PL

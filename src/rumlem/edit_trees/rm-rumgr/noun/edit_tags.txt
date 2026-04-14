@@ -1,0 +1,182 @@
+		N;MASC;SG
+a		N;FEM;SG
+ads	à	N;MASC;PL
+as	s	N;FEM;SG
+edepressivums	idepressivum	N;MASC;PL
+els	è	N;MASC;PL
+els-mezmieur	è-mezmieur	N;MASC;PL
+els-mussamel	è-mussamel	N;MASC;PL
+els-trampolin	è-trampolin	N;MASC;PL
+ens		N;MASC;PL
+ens-luf	-luf	N;MASC;PL
+era	lera	N;FEM;SG
+ergnims	arias	N;MASC;PL
+glimajas	lindornas	N;MASC;PL
+hitis	itis	N;FEM;PL
+ia	s	N;FEM;SG
+ids	ì	N;FEM;PL
+ies	y	N;MASC;PL
+ils chaugross	chaugross	N;MASC;PL
+ils chava-aur	chava-aur	N;MASC;PL
+ils creacultura	creacultura	N;MASC;PL
+ils giramund	giramund	N;MASC;PL
+ils globetrotters	globetrotter	N;MASC;PL
+ils guardiabogn	guardiabogn	N;MASC;PL
+ils guardiachamona	guardiachamona	N;MASC;PL
+ils guardiachatscha	guardiachatscha	N;MASC;PL
+ils guardiaparc	guardiaparc	N;MASC;PL
+ils maina-acziun	maina-acziun	N;MASC;PL
+ils mainacurs	mainacurs	N;MASC;PL
+ils mainadiscussiun	mainadiscussiun	N;MASC;PL
+ils mainagieu	mainagieu	N;MASC;PL
+ils mainagruppa	mainagruppa	N;MASC;PL
+ils mitschafadias	mitschafadias	N;MASC;PL
+ils pajataglias	pajataglia	N;MASC;PL
+ils pajataxas	pajataxas	N;MASC;PL
+ils portaclavs	portaclavs	N;MASC;PL
+ils portavusch	portavusch	N;MASC;PL
+ils senzapalpiris	senzapalpiris	N;MASC;PL
+ils senzapatria	senzapatria	N;MASC;PL
+ils senzaquitads	senzaquitads	N;MASC;PL
+ils senzasperanza	senzasperanza	N;MASC;PL
+ils senzasuccess	senzasuccess	N;MASC;PL
+ils senzatetg	senzatetg	N;MASC;PL
+ils spostanaiv	spostanaiv	N;MASC;PL
+ils stauschanaiv	stauschanaiv	N;MASC;PL
+ils stumplanaiv	stumplanaiv	N;MASC;PL
+ils suflavaider	suflavaider	N;MASC;PL
+ils tagliacrappa	tagliacrappa	N;MASC;PL
+ils taglialaina	taglialaina	N;MASC;PL
+ils taglianaiv	taglianaiv	N;MASC;PL
+ils tegnairchasas	tegnairchasa	N;MASC;PL
+ils trottalontan	trottalontan	N;MASC;PL
+ils trottamund	trottamund	N;MASC;PL
+ils tschitschapulvra	tschitschapulvra	N;MASC;PL
+ils valanagut	valanagut	N;MASC;PL
+ils/las mainafatschenta	mainafatschenta	N;MASC;PL
+ils/las mainagestiun	mainagestiun	N;MASC;PL
+ius		N;MASC;PL
+la	fel	N;FEM;SG
+la	tel	N;FEM;SG
+las	al	N;FEM;PL
+las	il	N;FEM;PL
+las chava-aur	chava-aur	N;FEM;PL
+las creacultura	creacultura	N;FEM;PL
+las giramund	giramund	N;FEM;PL
+las globetrotteras	globetrottera	N;FEM;PL
+las guardiabogn	guardiabogn	N;FEM;PL
+las guardiachamona	guardiachamona	N;FEM;PL
+las guardiachatscha	guardiachatscha	N;FEM;PL
+las guardiaparc	guardiaparc	N;FEM;PL
+las maina-acziun	maina-acziun	N;FEM;PL
+las mainacurs	mainacurs	N;FEM;PL
+las mainadiscussiun	mainadiscussiun	N;FEM;PL
+las mainagieu	mainagieu	N;FEM;PL
+las mainagruppa	mainagruppa	N;FEM;PL
+las mitschafadias	mitschafadias	N;FEM;PL
+las pajataglias	pajataglia	N;FEM;PL
+las pajataxas	pajataxas	N;FEM;PL
+las portavusch	portavusch	N;FEM;PL
+las senzapalpiris	senzapalpiris	N;FEM;PL
+las senzapatria	senzapatria	N;FEM;PL
+las senzaquitads	senzaquitads	N;FEM;PL
+las senzasperanza	senzasperanza	N;FEM;PL
+las senzasuccess	senzasuccess	N;FEM;PL
+las senzatetg	senzatetg	N;FEM;PL
+las suflavaider	suflavaider	N;FEM;PL
+las tagliacrappa	tagliacrappa	N;FEM;PL
+las taglialaina	taglialaina	N;FEM;PL
+las trottalontan	trottalontan	N;FEM;PL
+las trottamund	trottamund	N;FEM;PL
+las valanagut	valanagut	N;FEM;PL
+na	en	N;FEM;SG
+ne		N;FEM;SG
+ola	iel	N;FEM;SG
+orniola	argnola	N;FEM;SG
+pa		N;FEM;SG
+ra	er	N;FEM;SG
+ra	her	N;FEM;SG
+s		N;MASC;PL
+s elefant	-elefant	N;MASC;PL
+s-anghel	-anghel	N;MASC;PL
+s-bab	-bap	N;MASC;PL
+s-balena	-balena	N;MASC;PL
+s-ballun	-ballun	N;MASC;PL
+s-baselgia	-baselgia	N;FEM;PL
+s-basket	-basket	N;FEM;PL
+s-bastun	-bastun	N;MASC;PL
+s-botsch	-botsch	N;MASC;PL
+s-brunsina	-brunsina	N;FEM;PL
+s-brusalin	-bursalin	N;MASC;PL
+s-bursalin	-bursalin	N;FEM;PL
+s-capricorn	-capricorn	N;FEM;PL
+s-caramella	-caramella	N;MASC;PL
+s-cascada	-cascada	N;MASC;PL
+s-chanaster	-chanaster	N;FEM;PL
+s-chasa	-chasa	N;FEM;PL
+s-chatschader	-chatschader	N;MASC;PL
+s-chaval	-chaval	N;FEM;PL
+s-chavriel	-chavriel	N;FEM;PL
+s-chombra	-chombra	N;MASC;PL
+s-clav	-clav	N;FEM;PL
+s-crocodil	-crocodil	N;FEM;PL
+s-cuschina	-cuschina	N;MASC;PL
+s-cuzerin	-cuzerin	N;FEM;PL
+s-dunna	-dunna	N;FEM;PL
+s-fau	-fau	N;FEM;PL
+s-filien	-filien	N;FEM;PL
+s-garascha	-garascha	N;FEM;PL
+s-garni	-garni	N;MASC;PL
+s-giabus	-giabus	N;MASC;PL
+s-giat	-giat	N;MASC;PL
+s-giazla	-giazla	N;MASC;PL
+s-goli	-goli	N;FEM;PL
+s-leopard	-leopard	N;MASC;PL
+s-lia	-lia	N;MASC;PL
+s-luf	-luf	N;MASC;PL
+s-mamma	-mamma	N;FEM;PL
+s-martè	-martè	N;MASC;PL
+s-mastgel	-mastgel	N;FEM;PL
+s-maun	-maun	N;FEM;PL
+s-mulin	-mulin	N;FEM;PL
+s-nimfa	-nimfa	N;FEM;PL
+s-nurser	-nurser	N;MASC;PL
+s-padella	-padella	N;FEM;PL
+s-pagina	-pagina	N;MASC;PL
+s-paramerda	-paramerda	N;MASC;PL
+s-pe	-pe	N;FEM;PL
+s-pigna	-pigna	N;FEM;PL
+s-plima	-plima	N;FEM;PL
+s-porta	-porta	N;MASC;PL
+s-ragisch	-ragisch	N;MASC;PL
+s-resgia	-resgia	N;MASC;PL
+s-rulotta	-rulotta	N;MASC;PL
+s-schlem	-schlem	N;MASC;PL
+s-scorsa	-scorsa	N;MASC;PL
+s-scut	-scut	N;FEM;PL
+s-seghel	-seghel	N;MASC;PL
+s-serp	-serp	N;MASC;PL
+s-spatla	-spatla	N;MASC;PL
+s-spungia	-spungia	N;MASC;PL
+s-staila	-staila	N;MASC;PL
+s-stailalva	-stailalva	N;FEM;PL
+s-staziun	-staziun	N;MASC;PL
+s-stiva	-stiva	N;MASC;PL
+s-sulegl	-sulegl	N;MASC;PL
+s-tgil	-tgil	N;FEM;PL
+s-tgiralla	-tgiralla	N;MASC;PL
+s-torso	-torso	N;MASC;PL
+s-trapla	-trapla	N;FEM;PL
+s-tschep	-tschep	N;FEM;PL
+s-tscherver	-tscherver	N;MASC;PL
+s-tschierv	-tschierv	N;MASC;PL
+s-turnigl	-turnigl	N;MASC;PL
+s-uigl	-uigl	N;FEM;PL
+s-valisch	-valisch	N;MASC;PL
+s-volley	-volley	N;FEM;PL
+s-vulp	-vulp	N;FEM;PL
+s-web	-web	N;FEM;PL
+s-zain	-zain	N;MASC;PL
+spazis	locals	N;MASC;PL
+stradas	vias	N;MASC;PL
+ta		N;FEM;SG

@@ -1,6 +1,6 @@
 from frozendict import frozendict
 
-from romansh_lemmatizer.utils import get_features
+from rumlem.utils import get_features
 
 
 def test_verbs():

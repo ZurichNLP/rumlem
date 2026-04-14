@@ -1,0 +1,41 @@
+		ADJ;MASC;SG
+a		ADJ;FEM;SG
+a	i	ADJ;FEM;SG
+ada	o	ADJ;FEM;SG
+ada	u	ADJ;FEM;SG
+adegna	paregna	ADJ;FEM;SG
+aintaloscha	itilos	ADJ;FEM;SG
+ampriv	umpriv	ADJ;FEM;SG
+aua	o	ADJ;FEM;SG
+azida	ieu	ADJ;FEM;SG
+bargugnus	vargugnus	ADJ;MASC;PL
+cars	tgars	ADJ;MASC;PL
+da	eu	ADJ;FEM;SG
+eada	ieu	ADJ;FEM;SG
+earta	iert	ADJ;FEM;SG
+easa	iez	ADJ;FEM;SG
+egn	agn	ADJ;FEM;SG
+er	r	ADJ;FEM;SG
+gia	i	ADJ;FEM;SG
+gia	tg	ADJ;FEM;SG
+gific	schific	ADJ;FEM;SG
+ia		ADJ;FEM;SG
+ia	tga	ADJ;FEM;SG
+iblunus	ablunus	ADJ;MASC;PL
+itieu	atieu	ADJ;FEM;SG
+la	el	ADJ;FEM;SG
+na	en	ADJ;FEM;SG
+quidus	cuvidus	ADJ;MASC;PL
+ra	er	ADJ;FEM;SG
+ra	her	ADJ;FEM;SG
+ra	ier	ADJ;FEM;SG
+sfidus	(di)sfidus	ADJ;MASC;PL
+ssa	os	ADJ;FEM;SG
+tg	di	ADJ;FEM;SG
+tgna	gen	ADJ;FEM;SG
+ulus	alus	ADJ;MASC;PL
+unfis	anfis	ADJ;MASC;PL
+unfisus	anfisus	ADJ;MASC;PL
+unglus	anglus	ADJ;MASC;PL
+vgius	bgius	ADJ;MASC;PL
+viertsch	guiertsch	ADJ;FEM;SG

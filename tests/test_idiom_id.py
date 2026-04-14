@@ -1,10 +1,9 @@
 """Test the implementation of the Romansh dicitonary-based idiom identification module"""
-
 from pathlib import Path
 
-from romansh_lemmatizer.tokenizer import Rm_Tokenizer
-from romansh_lemmatizer.idiom_id import get_scores
-from romansh_lemmatizer.utils import Idiom
+from rumlem.tokenizer import Rm_Tokenizer
+from rumlem.idiom_id import get_scores
+from rumlem.utils import Idiom
 import os
 
 
@@ -14,13 +13,14 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 for dial in Idiom:
     voc_path = os.path.join(
-        BASE_DIR, "..", "src", "romansh_lemmatizer", "in_voc", f"{dial.value}.txt"
+        BASE_DIR, "..", "src", "rumlem", "in_voc", f"{dial.value}.txt"
     )
     with open(voc_path, "r", encoding="utf-8") as f:
         fast_dict = set()
         for line in f:
             fast_dict.add(line.strip("\n"))
     in_voc[dial] = fast_dict
+
 
 
 def test_typing():
@@ -33,7 +33,7 @@ def test_typing():
     ]
 
     for s in sample:
-        scores = get_scores(t.tokenize(s), in_voc=in_voc)
+        scores = get_scores(t.tokenize(s),in_voc=in_voc)
         assert isinstance(scores, dict)
 
         for k, v in scores.items():
@@ -42,14 +42,15 @@ def test_typing():
             assert 0 <= v <= 1
         assert len(scores) == 6
 
-
 def test_idiom_scores():
     """Regardless of whether the method correctly identifies the idiom, are the scores what we expect?"""
-    sample = ["El ha NOSCHA glüna", "El â schleata LUNA", "EL ha schliata lUna"]
+    sample = ["El ha NOSCHA glüna",
+              "El â schleata LUNA",
+              "EL ha schliata lUna"]
+    
+    t = Rm_Tokenizer(lang = None)
 
-    t = Rm_Tokenizer(lang=None)
-
-    for i, s in enumerate(sample):
+    for i,s in enumerate(sample):
         scores = get_scores(t.tokenize(s), in_voc=in_voc)
 
         if i == 0:

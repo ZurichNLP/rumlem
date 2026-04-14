@@ -1,7 +1,7 @@
-recursive-include src/lemmatizer/edit_trees *.txt
-recursive-include src/lemmatizer/in_voc *.txt
-recursive-include src/lemmatizer/lemma_tables *.json
-recursive-include src/lemmatizer/other_de *.json
+recursive-include src/rumlem/edit_trees *.txt
+recursive-include src/rumlem/in_voc *.txt
+recursive-include src/rumlem/lemma_tables *.json
+recursive-include src/rumlem/other_de *.json
 exclude paper_eval_code/*
 exclude example_notebooks/*
 recursive-exclude paper_eval_code *

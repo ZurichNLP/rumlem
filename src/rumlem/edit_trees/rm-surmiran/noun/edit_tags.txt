@@ -1,0 +1,31 @@
+		N;FEM;SG
+a		N;FEM;SG
+ainta	enta	N;FEM;SG
+auls	ouls	N;MASC;PL
+bundanza	abundanza	N;FEM;SG
+carsezza	tgertezza	N;FEM;SG
+darsavenna	rasavenna	N;FEM;SG
+egna	a	N;FEM;SG
+enza	ientscha	N;FEM;SG
+ergia	argia	N;FEM;SG
+estga	ostga	N;FEM;SG
+etga	itga	N;FEM;SG
+ezza	adad	N;FEM;SG
+glia	da	N;FEM;SG
+ientscha	ezza	N;FEM;SG
+igna	egna	N;FEM;SG
+is		N;MASC;PL
+itga	etga	N;FEM;SG
+lgia	glia	N;FEM;SG
+orta	ierta	N;FEM;SG
+oua	ua	N;FEM;SG
+parientscha	apparientscha	N;FEM;SG
+s		N;FEM;PL
+s-clav	-clav	N;MASC;PL
+schenta	genta	N;FEM;SG
+sdada	dada	N;FEM;SG
+selgia	gelgia	N;FEM;SG
+sfiergia	fiergia	N;FEM;SG
+sfireida	fireida	N;FEM;SG
+ta		N;FEM;SG
+ustanza	dustanza	N;FEM;SG

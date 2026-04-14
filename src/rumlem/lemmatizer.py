@@ -4,10 +4,10 @@ from pathlib import Path
 
 from frozendict import frozendict
 
-from romansh_lemmatizer.analyzer import Analyzer
-from romansh_lemmatizer.idiom_id import get_scores
-from romansh_lemmatizer.tokenizer import Rm_Tokenizer
-from romansh_lemmatizer.utils import Idiom, get_features
+from rumlem.analyzer import Analyzer
+from rumlem.idiom_id import get_scores
+from rumlem.tokenizer import Rm_Tokenizer
+from rumlem.utils import Idiom, get_features
 
 
 @dataclass(frozen=True)
@@ -152,39 +152,52 @@ class Lemmatizer:
 
         # Initialize all analyzers
         self._analyzers = {
-            i: Analyzer(idiom=i.value, in_voc=self.in_voc[i], learned_et=learned_et)
-            for i in Idiom
+            i: Analyzer(idiom=i.value, in_voc = self.in_voc[i], learned_et=learned_et) for i in Idiom
         }
 
     def __call__(self, text: str) -> Doc:
         # Tokenize the text
+        from itertools import zip_longest
         toks = self.tokenizer.tokenize(text)
-
         tok_obj = []
 
+        # First pass: dict only, all idioms
+        first_pass = {}  # tok -> {idiom: (lemmas, de, unimorph)}
         for t in toks:
-            full_lemma = defaultdict(list)
             t_lower = t.lower()
-            from itertools import zip_longest
-
+            first_pass[t_lower] = {}
             for idiom in Idiom:
-                a = self._analyzers[idiom]
-                lemma = a.get_lemma(t_lower)
-                de = a.get_de(t_lower)
-                unimorph = a.get_unimorph(t_lower)
+                result = self._analyzers[idiom].analyze(t_lower)
+                if result[0] != [None]:
+                    first_pass[t_lower][idiom] = result
 
-                # safer: align lists of possibly different length
-                for l, d, u in zip_longest(lemma, de, unimorph, fillvalue=None):
+        # Detect idiom
+        if self.idiom:
+            best_idiom = self.idiom
+        else:
+            scores = get_scores([t.lower() for t in toks], self.in_voc)
+            best_idiom = max(scores, key=scores.get)
+
+        # Second pass: ET for unresolved tokens, best idiom only
+        best_analyzer = self._analyzers[best_idiom]
+        for t_lower, idiom_results in first_pass.items():
+            result = idiom_results.get(best_idiom)
+            # Run ET if no result, or if the only result is the token itself (in_voc fallback)
+            if result is None or result == ([t_lower], [None], [None]):
+                et_lemma, et_tag = best_analyzer._et_analyze(t_lower)
+                if et_lemma:
+                    idiom_results[best_idiom] = ([et_lemma], [None], [et_tag])
+
+        # Build token objects
+        for t in toks:
+            t_lower = t.lower()
+            full_lemma = defaultdict(list)
+            for idiom, (lemmas, de_list, unimorph_list) in first_pass[t_lower].items():
+                for l, d, u in zip_longest(lemmas, de_list, unimorph_list, fillvalue=None):
                     if l:
                         lem = Lemma(idiom, l, d if d else "null")
                         analysis = MorphAnalysis(get_features(u))
                         full_lemma[lem].append(analysis)
-
             tok_obj.append(Token(t, full_lemma, self.idiom))
 
-        return Doc(
-            text,
-            tok_obj,
-            self.in_voc,
-            self.idiom,
-        )
+        return Doc(text, tok_obj, self.in_voc, self.idiom)

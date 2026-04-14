@@ -1,6 +1,6 @@
 """Test Tokenizer class"""
 
-from romansh_lemmatizer.tokenizer import Rm_Tokenizer
+from rumlem.tokenizer import Rm_Tokenizer
 
 text = {
     "rm-rumgr": [

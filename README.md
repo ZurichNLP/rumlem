@@ -75,7 +75,7 @@ print("Automatic Idiom Detection:")
 print(f"The sentence '{sent}' is in:", doc.idiom)
 # <Idiom.VALLADER: 'rm-vallader'>
 
-print("\Scores across idioms:")
+print("Scores across idioms:")
 for k, v in doc.idiom_scores.items():
     print("\t", k, v)
     # {<Idiom.RUMGR: 'rm-rumgr'>: 0.77..8
@@ -95,7 +95,7 @@ print(f"\nPassing '{idiom}' as an argument:")
 print(f"The sentence '{sent}' is in: ", doc.idiom)
 # <Idiom.VALLADER: 'rm-vallader'>
 
-print("\Scores across idioms:")
+print("Scores across idioms:")
 for k, v in doc.idiom_scores.items():
     print("\t", k, v)
     # {<Idiom.RUMGR: 'rm-rumgr'>: 0.0,

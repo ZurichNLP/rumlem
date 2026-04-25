@@ -19,7 +19,7 @@ A limitation of the current version is that the lemmatizer does not disambiguate
 
 ## Acknowledgements and Data Rights
 
-We thank the Swiss Federal Office of Culture (Bundesamt für Kultur BAK) for its support. 
+We thank the **Swiss Federal Office of Culture (Bundesamt für Kultur BAK)** for its support. 
 
 This package incorporates dictionary data from the [Pledari Grond](https://pledarigrond.ch/) project.
 
